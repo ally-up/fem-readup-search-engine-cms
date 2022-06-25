@@ -36,11 +36,11 @@ def main(argv):
         opts, args = getopt.getopt(argv, "h", ["help"])
     except getopt.GetoptError:
         print(
-            "main.py --help")
+            "main_upload.py --help")
         sys.exit(2)
     for opt, arg in opts:
         if opt in ("-h", "--help"):
-            print("main.py")
+            print("main_upload.py")
             print("--help                           show this help")
             sys.exit()
 
