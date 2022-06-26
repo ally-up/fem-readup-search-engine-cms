@@ -52,26 +52,29 @@ def main(argv):
     # Initialize logger
     logger = LoggerFacade(log_path, console=True, file=False)
 
-    #
-    # Transformation
-    #
+    for type in ["events"]:
+        #
+        # Transformation
+        #
 
-    ContentTransformer().run(
-        logger=logger,
-        data_path=os.path.join(data_path),
-        results_path=os.path.join(results_path),
-        clean=clean_data
-    )
+        ContentTransformer().run(
+            logger=logger,
+            data_path=os.path.join(data_path),
+            results_path=os.path.join(results_path),
+            type=type,
+            clean=clean_data
+        )
 
-    #
-    # Upload
-    #
+        #
+        # Upload
+        #
 
-    FirebaseFirestoreUploader().run(
-        logger=logger,
-        results_path=os.path.join(results_path),
-        clean=clean_data
-    )
+        FirebaseFirestoreUploader().run(
+            logger=logger,
+            results_path=os.path.join(results_path),
+            type=type,
+            clean=clean_data
+        )
 
 
 if __name__ == "__main__":

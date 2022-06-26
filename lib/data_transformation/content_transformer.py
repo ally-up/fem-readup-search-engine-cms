@@ -14,19 +14,19 @@ from tracking_decorator import TrackingDecorator
 class ContentTransformer:
 
     @TrackingDecorator.track_time
-    def run(self, logger, data_path, results_path, clean=False):
+    def run(self, logger, data_path, results_path, type, clean=False):
 
         # Make results path
-        os.makedirs(results_path, exist_ok=True)
+        os.makedirs(os.path.join(results_path, type), exist_ok=True)
 
         # Clean results path
         if clean:
-            files = glob.glob(os.path.join(results_path, "*"))
+            files = glob.glob(os.path.join(results_path, type, "*"))
             for f in files:
                 os.remove(f)
 
         # Iterate over markdown files
-        for file_path in tqdm(iterable=list(Path(data_path).rglob("*.md")), unit="file", desc="Transform markdown files"):
+        for file_path in tqdm(iterable=list(Path(os.path.join(data_path, type)).rglob("*.md")), unit="file", desc="Transform markdown files"):
 
             file_name = os.path.basename(file_path)
             file_base_name = file_name.replace(".md", "")
@@ -42,14 +42,11 @@ class ContentTransformer:
                         value = line.split("=")[1].strip().replace("\"", "").replace("'", "")
                         value = str(value)
 
-                        if key == "sports" or key == "types":
-                            values[key] = value.replace("[", "").replace("]", "").split(",")
-                        else:
-                            values[key] = value
+                        values[key] = value
 
                     # Add ID based on file name
                     values["id"] = file_base_name
 
                 # Write json file
-                with open(os.path.join(results_path, f"{file_base_name}.json"), 'w') as json_file:
+                with open(os.path.join(results_path, type, f"{file_base_name}.json"), 'w') as json_file:
                     json.dump(values, json_file)

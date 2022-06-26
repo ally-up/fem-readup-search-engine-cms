@@ -35,17 +35,18 @@ def delete_collection(logger, coll_ref, batch_size):
         return delete_collection(logger, coll_ref, batch_size)
 
 
-def upload_data(results_path):
+def upload_data(results_path, type):
     """Uploads data to Firebase Firestore"""
 
     # Iterate over markdown files
-    for file_path in tqdm(iterable=list(Path(results_path).rglob("*.json")), unit="file", desc="Upload json files"):
+    for file_path in tqdm(iterable=list(Path(results_path).rglob("*.json")), unit="file",
+                          desc="Upload json files"):
         file_name = os.path.basename(file_path)
         file_base_name = file_name.replace(".json", "")
 
         with open(file_path, "r") as json_file:
             db = firestore.client()
-            db.collection(u'fundings').document(file_base_name).set(json.load(json_file))
+            db.collection(type).document(file_base_name).set(json.load(json_file))
 
 
 #
@@ -55,17 +56,17 @@ def upload_data(results_path):
 class FirebaseFirestoreUploader:
 
     @TrackingDecorator.track_time
-    def run(self, logger, results_path, clean=False):
+    def run(self, logger, results_path, type, clean=False):
         # Set script path
         script_path = os.path.dirname(__file__)
 
         # Make results path
-        os.makedirs(results_path, exist_ok=True)
+        os.makedirs(os.path.join(results_path, type), exist_ok=True)
 
         # Set project specific parameters
-        firebase_database_url = "https://klubtalent-5da84.firebaseio.com/"
-        firebase_private_key_file = "klubtalent-5da84-firebase-adminsdk-dgd6r-54031355fe.json"
-        firebase_collection_name = "fundings"
+        firebase_database_url = "https://fem-readup.firebaseio.com/"
+        firebase_private_key_file = "fem-readup-firebase-adminsdk-1bw9c-3ea7f7d45a.json"
+        firebase_collection_name = type
 
         # Load connection credentials
         cred = load_private_key(script_path, firebase_private_key_file)
@@ -78,7 +79,7 @@ class FirebaseFirestoreUploader:
             delete_collection(logger, coll_ref, 128)
 
         # Upload data
-        upload_data(results_path)
+        upload_data(results_path, type)
 
         class_name = self.__class__.__name__
         function_name = inspect.currentframe().f_code.co_name
