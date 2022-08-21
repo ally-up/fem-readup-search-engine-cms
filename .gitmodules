@@ -1,0 +1,3 @@
+[submodule "lib/crawler"]
+	path = lib/crawler
+	url = https://github.com/fem-readup/fem-readup-search-engine-crawler
