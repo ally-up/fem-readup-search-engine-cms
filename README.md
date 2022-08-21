@@ -34,6 +34,7 @@ python -m pip install --upgrade pip
 pip install firebase-admin
 pip install tqdm
 pip install requests
+pip install urllib3
 ```
 
 You can start the crawler locally by running
