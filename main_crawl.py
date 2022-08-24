@@ -20,6 +20,7 @@ for p in library_paths:
 
 from logger_facade import LoggerFacade
 from boell_crawler import BoellCrawler
+from lfr_crawler import LfrCrawler
 
 
 #
@@ -62,8 +63,8 @@ def main(argv):
     # Initialize logger
     logger = LoggerFacade(log_path, console=True, file=False)
 
-    BoellCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path_events, clean=clean,
-                       quiet=quiet)
+    BoellCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path_events, clean=clean, quiet=quiet)
+    LfrCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path_events, clean=clean, quiet=quiet)
 
 
 if __name__ == "__main__":
