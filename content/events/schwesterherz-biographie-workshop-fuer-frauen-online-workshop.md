@@ -4,6 +4,7 @@ description = "Die Beschäftigung mit der eigenen (weiblichen) Biographie kann v
 start_date = "Freitag, 21. Oktober 2022"
 end_date = "Freitag, 21. Oktober 2022"
 category = "Workshop"
+url = "https://calendar.boell.de/de/event/schwesterherz-biographie-workshop-fuer-frauen-online-workshop"
 languages = []
 [contact]
 +++

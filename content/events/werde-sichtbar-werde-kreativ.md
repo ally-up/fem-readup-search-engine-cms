@@ -4,6 +4,7 @@ description = "Inhalte, politische Zusammenhänge und Botschaften visuell zu ges
 start_date = "Donnerstag, 17. November 2022"
 end_date = "Donnerstag, 17. November 2022"
 category = "Workshop"
+url = "https://calendar.boell.de/de/event/werde-sichtbar-werde-kreativ"
 languages = []
 [contact]
 +++

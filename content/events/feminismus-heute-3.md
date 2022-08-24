@@ -4,6 +4,8 @@ description = "Was ist eigentlich Feminismus heute? Welche Debatten sind gerade 
 start_date = "Montag, 26. September 2022"
 end_date = "Montag, 26. September 2022"
 category = "Bildungsreise"
+image = "https://calendar.boell.de/sites/default/files/styles/16d9_large/public/K_428_1.jpg?h=ae21ae52&itok=70oBXEIB"
+url = "https://calendar.boell.de/de/event/feminismus-heute-3"
 languages = []
 [contact]
 +++

@@ -4,6 +4,8 @@ description = "Viele Frauen kennen das: Herausfordernde Kommunikationssituatione
 start_date = "Donnerstag, 17. November 2022"
 end_date = "Donnerstag, 17. November 2022"
 category = "Online-Seminar"
+image = "https://calendar.boell.de/sites/default/files/styles/16d9_large/public/K_526_1.jpg?h=9b7be91d&itok=m4IBJQgR"
+url = "https://calendar.boell.de/de/event/mutig-stark-1"
 languages = []
 [contact]
 +++
