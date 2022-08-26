@@ -38,8 +38,8 @@ class ContentTransformer:
                 # Extract keys and values from md file
                 for line in f.readlines():
                     if "=" in line:
-                        key = line.split("=")[0].strip().replace("\"", "").replace("'", "")
-                        value = line.split("=")[1].strip().replace("\"", "").replace("'", "")
+                        key = line.split("=", 1)[0].strip().replace("\"", "").replace("'", "")
+                        value = line.split("=", 1)[1].strip().replace("\"", "").replace("'", "")
                         value = str(value)
 
                         values[key] = value
