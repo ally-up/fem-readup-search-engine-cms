@@ -5,6 +5,8 @@ start_date = "Donnerstag, 17. November 2022"
 end_date = "Donnerstag, 17. November 2022"
 category = "Workshop"
 url = "https://calendar.boell.de/de/event/werde-sichtbar-werde-kreativ"
+identifier = "werde-sichtbar-werde-kreativ"
+type = "event"
 languages = []
 [contact]
 +++

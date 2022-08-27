@@ -52,7 +52,7 @@ def main(argv):
     # Initialize logger
     logger = LoggerFacade(log_path, console=True, file=False)
 
-    for type in ["events"]:
+    for type in ["event"]:
         #
         # Transformation
         #

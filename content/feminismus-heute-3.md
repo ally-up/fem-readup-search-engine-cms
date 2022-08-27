@@ -6,6 +6,8 @@ start_date = "Montag, 26. September 2022"
 end_date = "Montag, 26. September 2022"
 category = "Bildungsreise"
 url = "https://calendar.boell.de/de/event/feminismus-heute-3"
+identifier = "feminismus-heute-3"
+type = "event"
 languages = []
 [contact]
 +++

@@ -5,6 +5,8 @@ start_date = "Dienstag, 06. September 2022 18.00"
 end_date = "Dienstag, 06. September 2022 20.00"
 category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-10"
+identifier = "demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-10"
+type = "event"
 languages = []
 [contact]
 +++

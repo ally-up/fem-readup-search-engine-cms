@@ -5,6 +5,8 @@ start_date = "Montag, 26. September 2022 18.30"
 end_date = "Montag, 26. September 2022 20.00"
 category = "Diskussion"
 url = "https://calendar.boell.de/de/event/fit-fuer-zukunft"
+identifier = "fit-fuer-zukunft"
+type = "event"
 languages = []
 [contact]
 +++

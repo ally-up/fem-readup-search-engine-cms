@@ -5,6 +5,8 @@ start_date = "Donnerstag, 24. November 2022 18.00"
 end_date = "Donnerstag, 24. November 2022 20.00"
 category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11"
+identifier = "demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11"
+type = "event"
 languages = []
 [contact]
 +++

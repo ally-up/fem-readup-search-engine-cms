@@ -6,6 +6,8 @@ start_date = "Donnerstag, 17. November 2022"
 end_date = "Donnerstag, 17. November 2022"
 category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/mutig-stark-1"
+identifier = "mutig-stark-1"
+type = "event"
 languages = []
 [contact]
 +++

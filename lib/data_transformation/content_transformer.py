@@ -26,7 +26,7 @@ class ContentTransformer:
                 os.remove(f)
 
         # Iterate over markdown files
-        for file_path in tqdm(iterable=list(Path(os.path.join(data_path, type)).rglob("*.md")), unit="file", desc="Transform markdown files"):
+        for file_path in tqdm(iterable=list(Path(data_path).rglob("*.md")), unit="file", desc="Transform markdown files"):
 
             file_name = os.path.basename(file_path)
             file_base_name = file_name.replace(".md", "")
@@ -47,6 +47,9 @@ class ContentTransformer:
                 # Add ID based on file name
                 values["id"] = file_base_name
 
-                # Write json file
-                with open(os.path.join(results_path, type, f"{file_base_name}.json"), 'w') as json_file:
-                    json.dump(values, json_file)
+                # Check for type
+                if "type" in values and values["type"] == type:
+
+                    # Write json file
+                    with open(os.path.join(results_path, type, f"{file_base_name}.json"), 'w') as json_file:
+                        json.dump(values, json_file)
