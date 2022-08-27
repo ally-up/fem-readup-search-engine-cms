@@ -79,3 +79,5 @@ fields:
       required: false
     label: Mail
   label: Contact
+pages:
+- content/events/test.md
