@@ -1,7 +1,7 @@
 +++
 title = "Politischer Talk zum Dritten Gleichstellungsbericht:  „Digitalisierung geschlechtergerecht gestalten“"
-start_date = "20.Sep.2022"
-end_date = "20.Sep.2022"
+start_date = "2022-09-20T18:00:00.000Z"
+end_date = "2022-09-20T22:00:00.000Z"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6185"
 identifier = "politischer-talk-zum-dritten-gleichstellungsbericht-digitalisierung-geschlechtergerecht-gestalten"
 type = "event"

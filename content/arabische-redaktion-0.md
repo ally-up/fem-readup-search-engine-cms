@@ -1,7 +1,7 @@
 +++
 title = "Arabische Redaktion"
-start_date = "Montag, 29. August 2022 17.00"
-end_date = "Montag, 29. August 2022 18.00"
+start_date = "2022-08-29T17:00:00.000Z"
+end_date = "2022-08-29T18:00:00.000Z"
 category = "Gespräch"
 url = "https://calendar.boell.de/de/event/arabische-redaktion-0"
 identifier = "arabische-redaktion-0"

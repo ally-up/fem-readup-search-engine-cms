@@ -1,7 +1,7 @@
 +++
 title = "Kritische Theorie des Geschlechterverhältnisses"
-start_date = "Montag, 05. September 2022 18.00"
-end_date = "Montag, 05. September 2022 20.00"
+start_date = "2022-09-005T18:00:00.000Z"
+end_date = "2022-09-005T20:00:00.000Z"
 category = "Workshopreihe"
 url = "https://calendar.boell.de/de/event/kritische-theorie-des-geschlechterverhaeltnisses"
 identifier = "kritische-theorie-des-geschlechterverhaeltnisses"

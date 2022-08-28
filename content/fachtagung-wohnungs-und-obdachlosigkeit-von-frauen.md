@@ -1,7 +1,7 @@
 +++
 title = "Fachtagung: "Wohnungs- und Obdachlosigkeit von Frauen""
-start_date = "01.Sep.2022"
-end_date = "01.Sep.2022"
+start_date = "2022-09-01T18:00:00.000Z"
+end_date = "2022-09-01T22:00:00.000Z"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6187"
 identifier = "fachtagung-wohnungs-und-obdachlosigkeit-von-frauen"
 type = "event"
