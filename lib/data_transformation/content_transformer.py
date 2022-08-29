@@ -42,7 +42,10 @@ class ContentTransformer:
                         value = line.split("=", 1)[1].strip().replace("\"", "").replace("'", "")
                         value = str(value)
 
-                        values[key] = value
+                        if key == "languages":
+                            values[key] = value.replace("[", "").replace("]", "").split(",")
+                        else:
+                            values[key] = value
 
                 # Add ID based on file name
                 values["id"] = file_base_name
