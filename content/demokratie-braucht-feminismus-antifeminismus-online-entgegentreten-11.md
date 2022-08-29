@@ -1,8 +1,8 @@
 +++
 title = "Demokratie braucht Feminismus! – Antifeminismus online entgegentreten"
 image = "https://calendar.boell.de/sites/default/files/styles/16d9_large/public/2021-10/20180915_Illustration_Schipp_WebinarAntifeminismus.jpg?h=9b7be91d&itok=ncJ_U5TE"
-start_date = "2022-11-24T18:00:00.000Z"
-end_date = "2022-11-24T20:00:00.000Z"
+start_date = "2022-11-24T18:00:00.000"
+end_date = "2022-11-24T20:00:00.000"
 category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11"
 identifier = "demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11"

@@ -5,8 +5,8 @@ category = "Veranstaltung"
 url = "https://calendar.boell.de/de/event/we-talk-gewaltschutz-fuer-gefluechtete-kinder-und-muetter"
 identifier = "we-talk-gewaltschutz-fuer-gefluechtete-kinder-und-muetter"
 type = "event"
-start_date = "2022-09-16T17:00:00.000Z"
-end_date = "2022-09-17T17:00:00.000Z"
+start_date = "2022-09-16T17:00:00.000"
+end_date = "2022-09-17T17:00:00.000"
 languages = []
 [contact]
 +++
