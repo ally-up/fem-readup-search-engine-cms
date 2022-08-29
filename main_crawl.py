@@ -21,6 +21,7 @@ for p in library_paths:
 from logger_facade import LoggerFacade
 from boell_crawler import BoellCrawler
 from lfr_crawler import LfrCrawler
+from urania_crawler import UraniaCrawler
 
 
 #
@@ -64,6 +65,7 @@ def main(argv):
 
     BoellCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean, quiet=quiet)
     LfrCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean, quiet=quiet)
+    UraniaCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean,quiet=quiet)
 
 
 if __name__ == "__main__":
