@@ -7,6 +7,7 @@ identifier = "we-talk-gewaltschutz-fuer-gefluechtete-kinder-und-muetter"
 type = "event"
 start_date = "2022-09-16T17:00:00.000"
 end_date = "2022-09-17T17:00:00.000"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

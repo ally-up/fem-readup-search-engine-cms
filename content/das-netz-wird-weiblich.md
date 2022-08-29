@@ -6,6 +6,7 @@ category = "Fachtagung"
 url = "https://calendar.boell.de/de/event/das-netz-wird-weiblich"
 identifier = "das-netz-wird-weiblich"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

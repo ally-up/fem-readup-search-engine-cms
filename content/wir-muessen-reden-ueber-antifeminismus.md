@@ -7,6 +7,7 @@ category = "Online-Veranstaltung"
 url = "https://calendar.boell.de/de/event/wir-muessen-reden-ueber-antifeminismus"
 identifier = "wir-muessen-reden-ueber-antifeminismus"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

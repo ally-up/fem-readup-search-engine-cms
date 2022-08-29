@@ -5,6 +5,7 @@ end_date = "2022-09-27T22:00:00.000"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6211"
 identifier = "feminist-development-policy-transforming-international-cooperation"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

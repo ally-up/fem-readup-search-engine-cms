@@ -5,6 +5,7 @@ end_date = "2022-08-30T22:00:00.000"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6209"
 identifier = "win-win-situationen-schaffen-netzwerktreffen-im-rahmen-der-berliner-unternehmerinnen-akademie"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

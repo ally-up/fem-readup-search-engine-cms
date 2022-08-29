@@ -8,6 +8,7 @@ category = "Bildungsreise"
 url = "https://calendar.boell.de/de/event/feminismus-heute-3"
 identifier = "feminismus-heute-3"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

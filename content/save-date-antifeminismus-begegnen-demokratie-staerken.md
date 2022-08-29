@@ -7,6 +7,7 @@ category = "Tagung"
 url = "https://calendar.boell.de/de/event/save-date-antifeminismus-begegnen-demokratie-staerken"
 identifier = "save-date-antifeminismus-begegnen-demokratie-staerken"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

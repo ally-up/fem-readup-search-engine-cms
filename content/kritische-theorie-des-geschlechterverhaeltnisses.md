@@ -6,6 +6,7 @@ category = "Workshopreihe"
 url = "https://calendar.boell.de/de/event/kritische-theorie-des-geschlechterverhaeltnisses"
 identifier = "kritische-theorie-des-geschlechterverhaeltnisses"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

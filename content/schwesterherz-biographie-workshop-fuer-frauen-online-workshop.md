@@ -7,6 +7,7 @@ category = "Workshop"
 url = "https://calendar.boell.de/de/event/schwesterherz-biographie-workshop-fuer-frauen-online-workshop"
 identifier = "schwesterherz-biographie-workshop-fuer-frauen-online-workshop"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

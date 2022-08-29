@@ -5,6 +5,7 @@ end_date = "2022-09-13T22:00:00.000"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6172"
 identifier = "digital-afterwork-der-grundtext-frauen-in-diensten-und-ämtern-in-der-kirche"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

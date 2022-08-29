@@ -7,6 +7,7 @@ category = "Workshop"
 url = "https://calendar.boell.de/de/event/werde-sichtbar-werde-kreativ"
 identifier = "werde-sichtbar-werde-kreativ"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

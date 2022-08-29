@@ -8,6 +8,7 @@ category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/online-seminar-mutig-stark-1"
 identifier = "online-seminar-mutig-stark-1"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

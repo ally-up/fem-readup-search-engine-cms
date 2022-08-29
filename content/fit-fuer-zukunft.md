@@ -7,6 +7,7 @@ category = "Diskussion"
 url = "https://calendar.boell.de/de/event/fit-fuer-zukunft"
 identifier = "fit-fuer-zukunft"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

@@ -5,6 +5,7 @@ end_date = "2022-09-29T22:00:00.000"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6144"
 identifier = "baltic-sea-women’s-conference-solidarity-gender-democracy"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++

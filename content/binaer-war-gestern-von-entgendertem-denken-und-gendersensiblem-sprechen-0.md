@@ -7,6 +7,7 @@ category = "Online-Workshop"
 url = "https://calendar.boell.de/de/event/binaer-war-gestern-von-entgendertem-denken-und-gendersensiblem-sprechen-0"
 identifier = "binaer-war-gestern-von-entgendertem-denken-und-gendersensiblem-sprechen-0"
 type = "event"
+updated = "29-08-2022"
 languages = []
 [contact]
 +++
