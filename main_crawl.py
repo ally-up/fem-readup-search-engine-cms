@@ -63,9 +63,11 @@ def main(argv):
     # Initialize logger
     logger = LoggerFacade(log_path, console=True, file=False)
 
-    BoellCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean, quiet=quiet)
+    BoellCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean,
+                       quiet=quiet)
     LfrCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean, quiet=quiet)
-    UraniaCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean,quiet=quiet)
+    UraniaCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean,
+                        quiet=quiet)
 
 
 if __name__ == "__main__":
