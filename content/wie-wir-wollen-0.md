@@ -7,7 +7,7 @@ category = "Film und Gespräch"
 url = "https://calendar.boell.de/de/event/wie-wir-wollen-0"
 identifier = "wie-wir-wollen-0"
 type = "event"
-updated = "29-08-2022"
-languages = []
+updated = "2022-08-31T00:07:16.000"
+languages = ["Deutsch"]
 [contact]
 +++

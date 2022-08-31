@@ -8,7 +8,8 @@ category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/mutig-stark-1"
 identifier = "mutig-stark-1"
 type = "event"
-updated = "29-08-2022"
-languages = []
+updated = "2022-08-31T00:07:23.000"
+subtitle = "Als Frau selbstsicher kommunizieren"
+languages = ["Deutsch"]
 [contact]
 +++

@@ -6,7 +6,7 @@ category = "Workshop"
 url = "https://calendar.boell.de/de/event/empowerment-fuer-queere-menschen"
 identifier = "empowerment-fuer-queere-menschen"
 type = "event"
-updated = "29-08-2022"
+updated = "2022-08-31T00:07:21.000"
 languages = []
 [contact]
 +++

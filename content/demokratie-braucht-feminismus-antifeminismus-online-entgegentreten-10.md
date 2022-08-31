@@ -7,7 +7,7 @@ category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-10"
 identifier = "demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-10"
 type = "event"
-updated = "29-08-2022"
-languages = []
+updated = "2022-08-31T00:07:04.000"
+languages = ["Deutsch"]
 [contact]
 +++

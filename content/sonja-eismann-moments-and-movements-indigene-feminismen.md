@@ -7,7 +7,8 @@ category = "Lesung und Gespräch"
 url = "https://calendar.boell.de/de/event/sonja-eismann-moments-and-movements-indigene-feminismen"
 identifier = "sonja-eismann-moments-and-movements-indigene-feminismen"
 type = "event"
-updated = "29-08-2022"
-languages = []
+updated = "2022-08-31T00:07:25.000"
+subtitle = "Leinwandlesung und Gespräch"
+languages = ["Deutsch"]
 [contact]
 +++

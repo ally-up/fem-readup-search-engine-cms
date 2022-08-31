@@ -7,7 +7,8 @@ category = "Diskussion"
 url = "https://calendar.boell.de/de/event/fit-fuer-zukunft"
 identifier = "fit-fuer-zukunft"
 type = "event"
-updated = "29-08-2022"
-languages = []
+updated = "2022-08-31T00:07:15.000"
+subtitle = "Als Arbeitgeber*in attraktiv sein und bleiben"
+languages = ["Deutsch"]
 [contact]
 +++

@@ -8,7 +8,8 @@ category = "Bildungsreise"
 url = "https://calendar.boell.de/de/event/feminismus-heute-3"
 identifier = "feminismus-heute-3"
 type = "event"
-updated = "29-08-2022"
-languages = []
+updated = "2022-08-31T00:07:13.000"
+subtitle = "Eine Reise ins politische und zivilgesellschaftliche Berlin"
+languages = ["Deutsch"]
 [contact]
 +++
