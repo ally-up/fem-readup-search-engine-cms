@@ -58,15 +58,18 @@ def main(argv):
 
     log_path = os.path.join(script_path, "log")
     workspace_path = os.path.join(script_path, "workspace")
-    results_path = os.path.join(script_path, "content")
+    content_path = os.path.join(script_path, "content")
+    uploads_path = os.path.join(script_path, "static", "uploads")
 
     # Initialize logger
     logger = LoggerFacade(log_path, console=True, file=False)
 
-    BoellCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean,
-                       quiet=quiet)
-    LfrCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean, quiet=quiet)
-    UraniaCrawler().run(logger=logger, workspace_path=workspace_path, results_path=results_path, clean=clean,
+    BoellCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+                       uploads_path=uploads_path, clean=clean, quiet=quiet)
+    LfrCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+                     uploads_path=uploads_path, clean=clean, quiet=quiet)
+    UraniaCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+                        uploads_path=uploads_path, clean=clean,
                         quiet=quiet)
 
 

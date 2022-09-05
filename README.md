@@ -35,6 +35,7 @@ pip install firebase-admin
 pip install tqdm
 pip install requests
 pip install urllib3
+pip install opencv-python
 ```
 
 You can start the crawler locally by running

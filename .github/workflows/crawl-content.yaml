@@ -36,6 +36,6 @@ jobs:
         id: commit-changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: content/*.md
+          file_pattern: content/*.md static/uploads/*.webp
           commit_author: Florian Schwanz <florian.schwanz@interoberlin.de>
           commit_message: "data: update content"
