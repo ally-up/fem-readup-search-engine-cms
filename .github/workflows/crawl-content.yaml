@@ -28,6 +28,7 @@ jobs:
           pip install six
           pip install requests
           pip install urllib3
+          pip install opencv-python
       - name: Run main script
         id: run-main-script
         run: |
