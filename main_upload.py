@@ -71,7 +71,7 @@ def main(argv):
         # Upload
         #
 
-        token_name = "fem-readup-firebase-adminsdk-1bw9c-3ea7f7d45a.json",
+        token_name = "fem-readup-firebase-adminsdk-1bw9c-3ea7f7d45a.json"
 
         FirebaseFirestoreUploader().run(
             logger=logger,
