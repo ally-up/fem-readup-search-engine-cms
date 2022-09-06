@@ -29,6 +29,9 @@ jobs:
           pip install requests
           pip install urllib3
           pip install opencv-python
+          pip install tqdm
+          pip install firebase-admin
+          pip install google-cloud-storage
       - name: Run main script
         id: run-main-script
         run: |
