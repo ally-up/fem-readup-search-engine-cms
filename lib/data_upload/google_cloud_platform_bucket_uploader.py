@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 
 from google.cloud import storage
+from tracking_decorator import TrackingDecorator
 
 
 #
@@ -20,7 +21,6 @@ class GoogleCloudPlatformBucketUploader:
         file_path = os.path.realpath(__file__)
         script_path = os.path.dirname(file_path)
         config_file_path = os.path.join(script_path, token_name)
-
 
         # Check for config file
         if not Path(config_file_path).exists():
@@ -77,6 +77,7 @@ class GoogleCloudPlatformBucketUploader:
         if client.lookup_bucket(bucket) == None:
             client.create_bucket(bucket, location="eu")
 
+    @TrackingDecorator.track_time
     def upload_data(self, logger, token_name, data_path, project_id, bucket_name, quiet=False):
         """
         See https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-python
@@ -111,6 +112,7 @@ class GoogleCloudPlatformBucketUploader:
 
             file_count_total += 1
 
+    @TrackingDecorator.track_time
     def upload_file(self, logger, token_name, upload_file_path, project_id, bucket_name, quiet=False):
         """
         See https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-python
