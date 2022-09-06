@@ -21,6 +21,7 @@ for p in library_paths:
 from logger_facade import LoggerFacade
 from content_transformer import ContentTransformer
 from data_uploader_firebase_firestore import FirebaseFirestoreUploader
+from google_cloud_platform_bucket_uploader import GoogleCloudPlatformBucketUploader
 
 
 #
@@ -47,6 +48,7 @@ def main(argv):
     # Set paths
     log_path = os.path.join(script_path, "log")
     data_path = os.path.join(script_path, "content")
+    uploads_path = os.path.join(script_path, "static", "uploads")
     results_path = os.path.join(script_path, "results")
 
     # Initialize logger
@@ -69,11 +71,25 @@ def main(argv):
         # Upload
         #
 
+        token_name = "fem-readup-firebase-adminsdk-1bw9c-3ea7f7d45a.json",
+
         FirebaseFirestoreUploader().run(
             logger=logger,
-            results_path=os.path.join(results_path),
+            token_name=token_name,
+            results_path=results_path,
             type=type,
             clean=clean_data
+        )
+
+        project_id = "fem-readup"
+        bucket_name = "fem-readup.appspot.com"
+
+        GoogleCloudPlatformBucketUploader().upload_data(
+            logger=logger,
+            token_name=token_name,
+            data_path=uploads_path,
+            project_id=project_id,
+            bucket_name=bucket_name,
         )
 
 

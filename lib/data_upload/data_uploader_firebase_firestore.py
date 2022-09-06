@@ -56,7 +56,7 @@ def upload_data(results_path, type):
 class FirebaseFirestoreUploader:
 
     @TrackingDecorator.track_time
-    def run(self, logger, results_path, type, clean=False):
+    def run(self, logger, token_name, results_path, type, clean=False):
         # Set script path
         script_path = os.path.dirname(__file__)
 
@@ -65,11 +65,10 @@ class FirebaseFirestoreUploader:
 
         # Set project specific parameters
         firebase_database_url = "https://fem-readup.firebaseio.com/"
-        firebase_private_key_file = "fem-readup-firebase-adminsdk-1bw9c-3ea7f7d45a.json"
         firebase_collection_name = type
 
         # Load connection credentials
-        cred = load_private_key(script_path, firebase_private_key_file)
+        cred = load_private_key(script_path, token_name)
 
         # Retrieve collection reference
         coll_ref = open_database_connection(cred, firebase_database_url, firebase_collection_name)
