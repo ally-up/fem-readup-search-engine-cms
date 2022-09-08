@@ -1,11 +1,11 @@
 +++
 title = "„Wahlfamilie“ - Eine Festmahl in der Berolinastraße Mitmachen!"
-start_date = "2022-09-16T14:00:00.000"
+start_date = "2022-09-16T18:00:00.000"
 end_date = "2022-09-16T18:00:00.000"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6165"
 identifier = "wahlfamilie-eine-festmahl-in-der-berolinastraße-mitmachen"
 type = "event"
-updated = "2022-09-06T22:58:41.000"
+updated = "2022-09-08T00:09:48.000"
 languages = []
 [contact]
 +++
