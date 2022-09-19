@@ -7,8 +7,11 @@ category = "Workshop"
 url = "https://calendar.boell.de/de/event/werde-sichtbar-werde-kreativ"
 identifier = "werde-sichtbar-werde-kreativ"
 type = "event"
-updated = "2022-08-31T00:07:22.000"
+updated = "2022-09-19T23:26:31.000"
 subtitle = "Ein visueller Erprobungsraum für deine (geschlechter-) politischen Botschaften"
+source = "Heinrich Böll Stiftung"
+organizer = "Landesstiftung Berlin (Bildungswerk)"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

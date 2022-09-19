@@ -9,7 +9,9 @@ start_date = "2022-10-02T13:00:00.000"
 end_date = "2022-10-02T15:00:00.000"
 category = "Veranstaltung"
 url = "https://calendar.boell.de/de/event/die-feministische-presserunde-2"
-updated = "2022-09-17T13:54:18.000"
+updated = "2022-09-19T23:26:21.000"
+source = "Heinrich Böll Stiftung"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

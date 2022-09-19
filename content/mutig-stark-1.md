@@ -8,9 +8,12 @@ category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/mutig-stark-1"
 identifier = "mutig-stark-1"
 type = "event"
-updated = "2022-09-07T17:19:30.000"
+updated = "2022-09-19T23:26:32.000"
 subtitle = "Als Frau selbstsicher kommunizieren"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/mutig-stark-1.webp"
+source = "Heinrich Böll Stiftung"
+organizer = "Landesstiftung Nordrhein-Westfalen"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

@@ -6,7 +6,10 @@ category = "Workshop"
 url = "https://calendar.boell.de/de/event/empowerment-fuer-queere-menschen"
 identifier = "empowerment-fuer-queere-menschen"
 type = "event"
-updated = "2022-08-31T00:07:21.000"
+updated = "2022-09-19T23:26:29.000"
+source = "Heinrich Böll Stiftung"
+organizer = "Landesstiftung Hamburg"
 languages = []
 [contact]
+[location]
 +++

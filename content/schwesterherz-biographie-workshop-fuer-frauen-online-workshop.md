@@ -7,7 +7,10 @@ category = "Workshop"
 url = "https://calendar.boell.de/de/event/schwesterherz-biographie-workshop-fuer-frauen-online-workshop"
 identifier = "schwesterherz-biographie-workshop-fuer-frauen-online-workshop"
 type = "event"
-updated = "2022-08-31T00:07:20.000"
+updated = "2022-09-19T23:26:28.000"
+source = "Heinrich Böll Stiftung"
+organizer = "Landesstiftung Berlin (Bildungswerk)"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

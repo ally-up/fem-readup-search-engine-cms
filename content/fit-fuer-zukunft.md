@@ -7,9 +7,12 @@ category = "Diskussion"
 url = "https://calendar.boell.de/de/event/fit-fuer-zukunft"
 identifier = "fit-fuer-zukunft"
 type = "event"
-updated = "2022-09-07T17:19:19.000"
+updated = "2022-09-19T23:26:16.000"
 subtitle = "Als Arbeitgeber*in attraktiv sein und bleiben"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/fit-fuer-zukunft.webp"
+source = "Heinrich Böll Stiftung"
+organizer = "Heinrich Böll Stiftung Baden-Württemberg"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

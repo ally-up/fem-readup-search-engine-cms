@@ -7,8 +7,11 @@ category = "Film und Gespräch"
 url = "https://calendar.boell.de/de/event/wie-wir-wollen-0"
 identifier = "wie-wir-wollen-0"
 type = "event"
-updated = "2022-09-07T17:19:21.000"
+updated = "2022-09-19T23:26:19.000"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/wie-wir-wollen-0.webp"
+source = "Heinrich Böll Stiftung"
+organizer = "Petra-Kelly-Stiftung"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

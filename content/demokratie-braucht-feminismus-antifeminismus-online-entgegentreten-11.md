@@ -7,8 +7,11 @@ category = "Online-Seminar"
 url = "https://calendar.boell.de/de/event/demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11"
 identifier = "demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11"
 type = "event"
-updated = "2022-09-07T17:19:34.000"
+updated = "2022-09-19T23:26:35.000"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/demokratie-braucht-feminismus-antifeminismus-online-entgegentreten-11.webp"
+source = "Heinrich Böll Stiftung"
+organizer = "GreenCampus"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++

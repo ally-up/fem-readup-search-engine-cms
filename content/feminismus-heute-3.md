@@ -8,9 +8,12 @@ category = "Bildungsreise"
 url = "https://calendar.boell.de/de/event/feminismus-heute-3"
 identifier = "feminismus-heute-3"
 type = "event"
-updated = "2022-09-17T13:54:11.000"
+updated = "2022-09-19T23:26:13.000"
 subtitle = "Eine Reise ins politische und zivilgesellschaftliche Berlin"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/feminismus-heute-3.webp"
+source = "Heinrich Böll Stiftung"
+organizer = "Landesstiftung Nordrhein-Westfalen"
 languages = ["Deutsch"]
 [contact]
+[location]
 +++
