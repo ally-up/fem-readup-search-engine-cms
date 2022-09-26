@@ -1,13 +1,13 @@
 +++
 title = "Verbundenheit und Einsamkeit im Alter"
-start_date = "2022-10-22T14:00:00.000"
-end_date = "2022-10-22T18:00:00.000"
+start_date = "2022-10-22T09:00:00.000"
+end_date = "2022-10-22T12:30:00.000"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6116"
 identifier = "verbundenheit-und-einsamkeit-im-alter"
 type = "event"
-updated = "2022-09-19T23:26:46.000"
+updated = "2022-09-26T01:50:20.000"
 source = "Landesfrauenrat Berlin"
-organizer = "Deutscher Frauenrat; Harriet Taylor Mill-Institut für Ökonomie und Geschlechterforschung"
+organizer = "BMZ"
 languages = []
 [contact]
 [location]

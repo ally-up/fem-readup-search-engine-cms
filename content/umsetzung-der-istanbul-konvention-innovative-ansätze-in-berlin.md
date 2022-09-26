@@ -4,10 +4,10 @@ source = "Landesfrauenrat Berlin"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6263"
 type = "event"
 title = "Save the Date: Umsetzung der Istanbul-Konvention: Innovative Ansätze in Berlin"
-start_date = "2022-11-21T14:00:00.000"
-end_date = "2022-11-21T18:00:00.000"
-organizer = "Deutscher Frauenrat; Harriet Taylor Mill-Institut für Ökonomie und Geschlechterforschung"
-updated = "2022-09-20T00:00:13.000"
+start_date = "2022-11-21T09:00:00.000"
+end_date = "2022-11-21T12:30:00.000"
+organizer = "BMZ"
+updated = "2022-09-26T01:50:20.000"
 languages = []
 [contact]
 [location]
