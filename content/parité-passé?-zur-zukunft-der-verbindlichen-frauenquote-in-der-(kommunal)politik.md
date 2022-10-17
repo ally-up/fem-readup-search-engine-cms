@@ -4,10 +4,10 @@ source = "Landesfrauenrat Berlin"
 url = "https://www.landesfrauenrat-berlin.de/veranstaltungen-in-berlin/?event_id1=6328"
 type = "event"
 title = "Parité passé? - Zur Zukunft der verbindlichen Frauenquote in der (Kommunal)politik"
-start_date = "2022-10-21T18:00:00.000"
-end_date = "2022-10-21T18:00:00.000"
-organizer = "Friedrich-Ebert-Stiftung"
-updated = "2022-10-03T01:29:08.000"
+start_date = "2022-10-21T6:00:00.000"
+end_date = "2022-10-21T6:00:00.000"
+organizer = "Einstein Center Digital Future"
+updated = "2022-10-17T02:04:29.000"
 languages = []
 [contact]
 [location]
