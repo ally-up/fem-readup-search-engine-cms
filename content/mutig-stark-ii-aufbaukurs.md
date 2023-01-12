@@ -1,0 +1,18 @@
++++
+identifier = "mutig-stark-ii-aufbaukurs"
+source = "Heinrich Böll Stiftung"
+url = "https://calendar.boell.de/de/event/mutig-stark-ii-aufbaukurs"
+type = "event"
+title = "Mutig & Stark II: Aufbaukurs"
+subtitle = "Sich als Frau in Gesprächen behaupten"
+description = "Viele engagierte Frauen kennen das: Herausfordernde Gespräche ( z.B. Gremiensitzungen, Verhandlungen oder intensive Diskussionen), in denen ihre eigenen Ideen und Vorschläge überhört und stattdessen von jemand anders erfolgreich eingebracht werden. Viele Frauen fühlen sich häufig übergangen oder nicht ernst genommen, ringen um Anerkennung und müssen sich dadurch noch mehr beweisen.Nachdem in unserem Grundlagenseminar „Mutig & Stark I“ vor allem rhetorische Grundkenntnisse wie Selbst- & Fremdwahrnehmung, Körper-, Stimm-& Sprechausdruck im Vordergrund standen, liegt der Fokus in diesem Seminar auf Gesprächsprozesse und verschiedene Gesprächssituationen. Wir reflektieren das eigene Kommunikationsverständnis und die Auswirkungen auf den eigenen Kommunikationsstil. Wir besprechen die besonderen Herausforderungen in Gesprächen und erarbeiten Lösungen, sich in diesen souverän und überzeugend zu behaupten. Es gibt Gelegenheit anhand von Fallbeispielen und in Form einer kollegialen Beratung alternative Handlungsstrategien und -möglichkeiten zu entdecken und für sich auszuprobieren. Das Seminar beinhaltet viel Austausch, praktische Gesprächsübungen, Videoanalyse und konstruktive Kritik. Zielgruppe: Das Seminar richtet sich an alle ehrenamtlich oder politisch engagierten Frauen, die in den vergangenen Jahren bereits das Grundlagenseminar „Mutig & Stark I“ in Präsenz oder online besucht haben und sich noch weiter in diesem Bereich verbessern möchten. Neben den Vorkenntnissen sollte das Bedürfnis nach weiterführendem Austausch sowie Interesse an kommunikativem Empowerment mitgebracht werden.Unsere Seminarziele:- Die Teilnehmerinnen kennen wichtige Faktoren und Mittel zur erfolgreichen Gesprächsgestaltung.- Die Teilnehmerinnen können ihren eigenen Kommunikationsstil besser einschätzen und daher in Gesprächen situativ bewusster agieren.- Die Teilnehmerinnen verfügen über Strategien für eine klare, durchsetzungsstarke Kommunikation, um sich in Gesprächen selbstsicher behaupten zu können.Das Seminar wird von Norvisi Stanic geleitet und wird mit 12 Unterrichtsstunden für das Politikmanagement-Zertifikat der GreenCampus-Weiterbildungsakademie im Bereich Gender, Diversity, Rasssismuskritik“ anerkannt.Das Seminar findet an folgenden Terminen statt:1. Teil: 04.03.2023, 10:00 - 16:00 Uhr: Präsenz in der Jugendherberge Düsseldorf2. Teil: 05.03.2023, 10:00 - 16:00 Uhr: Präsenz in der Jugendherberge DüsseldorfHinweis:Die maximale Gruppengrüße beträgt 14 Personen. Eine erfolgreiche Teilnahme setzt die vollständige Anwesenheit voraus. Im Seminarpreis ist die Verpflegung während der Seminarzeiten sowie das Unterrichtsmateriel enthalten. Eine eventuell notwendige Übernachtung ist nicht im Preis enthalten. Sie muss von den Teilnehmerinnen selbständig organisiert und bezahlt werden."
+image = "https://calendar.boell.de/sites/default/files/styles/16d9_large/public/K_618_1.jpg?h=9b7be91d&itok=pEoVraNp"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/mutig-stark-ii-aufbaukurs.webp"
+start_date = "2023-03-04"
+end_date = "2023-03-05"
+organizer = "Landesstiftung Nordrhein-Westfalen"
+updated = "2023-01-12T13:04:22.000"
+languages = ["Deutsch"]
+[contact]
+[location]
++++
