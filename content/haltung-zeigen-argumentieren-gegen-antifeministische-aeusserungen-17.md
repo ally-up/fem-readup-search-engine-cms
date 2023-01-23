@@ -11,7 +11,7 @@ start_date = "2023-05-06T16:00:00.000"
 end_date = "2023-05-07T16:00:00.000"
 category = "Seminar"
 organizer = "Landesstiftung Niedersachsen (Leben & Umwelt)"
-updated = "2023-01-16T00:31:42.000"
+updated = "2023-01-23T00:30:40.000"
 languages = ["Deutsch"]
 [contact]
 [location]
