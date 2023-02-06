@@ -22,6 +22,7 @@ from logger_facade import LoggerFacade
 from boell_crawler import BoellCrawler
 from lfr_crawler import LfrCrawler
 from urania_crawler import UraniaCrawler
+from ffbiz_crawler import FfbizCrawler
 
 
 #
@@ -71,6 +72,8 @@ def main(argv):
     UraniaCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
                         uploads_path=uploads_path, clean=clean,
                         quiet=quiet)
+    FfbizCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+                         uploads_path=uploads_path, clean=clean, quiet=quiet)
 
 
 if __name__ == "__main__":
