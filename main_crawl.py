@@ -23,7 +23,7 @@ from boell_crawler import BoellCrawler
 from lfr_crawler import LfrCrawler
 from urania_crawler import UraniaCrawler
 from ffbiz_crawler import FfbizCrawler
-
+from rosalux_crawler import RosaluxCrawler
 
 #
 # Main
@@ -74,7 +74,8 @@ def main(argv):
                         quiet=quiet)
     FfbizCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
                          uploads_path=uploads_path, clean=clean, quiet=quiet)
-
+    RosaluxCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+                         uploads_path=uploads_path, clean=clean, quiet=quiet)
 
 if __name__ == "__main__":
     main(sys.argv[1:])
