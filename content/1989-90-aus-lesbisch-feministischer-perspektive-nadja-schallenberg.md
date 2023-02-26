@@ -13,10 +13,12 @@ start_date = "2020-06-12T20:00 :00.000"
 end_date = "2020-06-12T20:00 :00.000"
 category = "Zeitzeug*innengespräch"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-02-06T15:02:58.000"
+updated = "2023-02-26T18:53:37.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
 location_city = "10247 Berlin"
 [location]
+location_street = "Eldenaer Straße 35"
+location_city = "10247 Berlin"
 +++
