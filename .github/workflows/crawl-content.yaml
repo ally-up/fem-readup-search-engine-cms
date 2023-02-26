@@ -32,6 +32,7 @@ jobs:
           pip install tqdm
           pip install firebase-admin
           pip install google-cloud-storage
+          pip install selenium
       - name: Run main script
         id: run-main-script
         run: |
