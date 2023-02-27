@@ -8,7 +8,7 @@ description = "Wer sich mit feministischen Themen auseinandersetzt, bemerkt schn
 start_date = "2018-01-22T18:30 :00.000"
 end_date = "2018-01-22T18:30 :00.000"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-02-26T18:53:59.000"
+updated = "2023-02-27T00:35:44.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
