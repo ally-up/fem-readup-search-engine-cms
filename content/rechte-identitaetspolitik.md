@@ -15,7 +15,8 @@ image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/rechte-ide
 start_date = "2023-03-17T18:00:00.000"
 end_date = "2023-03-17T21:00:00.000"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-03-10T12:00:37.000"
+updated = "2023-03-13T00:36:09.000"
+category = "Diskussion/Vortrag"
 languages = []
 [contact]
 [location]
