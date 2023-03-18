@@ -3,7 +3,7 @@ identifier = "maennlichkeiten-in-linken-kontexten-kritisch-reflektieren-und-prak
 source = "Rosa Luxemburg Stiftung"
 url = "https://rosalux.de/veranstaltung/es_detail/A1A1C/maennlichkeiten-in-linken-kontexten-kritisch-reflektieren-und-praktisch-veraendern?cHash=cea728122b44e719b6fdcb4ae1dbd98a"
 type = "event"
-title = "Was bleibt vom Braunkohleausstieg, wenn Lützerath nicht bleibt?"
+title = "Männlichkeiten in linken Kontexten kritisch reflektieren und praktisch verändern"
 subtitle = "Diskussion mit Manfred Maresch und Antje Grothus"
 description = "Workshop 
 Männlichkeiten in linken Kontexten kritisch reflektieren und praktisch verändern
@@ -28,9 +28,9 @@ image = "https://info.rosalux.de/image/event/a1a1c?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/maennlichkeiten-in-linken-kontexten-kritisch-reflektieren-und-praktisch-veraendern.webp"
 start_date = "2023-03-14T14:00:00.000"
 end_date = "2023-03-17T14:00:00.000"
-category = "Diskussion/Vortrag"
+category = "Workshop"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-03-13T00:36:05.000"
+updated = "2023-03-18T17:07:49.000"
 languages = []
 [contact]
 [location]
