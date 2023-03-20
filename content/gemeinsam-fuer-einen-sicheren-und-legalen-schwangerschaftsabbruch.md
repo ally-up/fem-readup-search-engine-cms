@@ -17,7 +17,7 @@ start_date = "2021-09-16T20:00 :00.000"
 end_date = "2021-09-16T20:00 :00.000"
 category = "Diskussion"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-03-18T17:06:42.000"
+updated = "2023-03-20T00:35:23.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"

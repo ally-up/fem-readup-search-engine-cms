@@ -12,7 +12,7 @@ start_date = "2019-11-07T20:00 :00.000"
 end_date = "2019-11-07T20:00 :00.000"
 category = "Zeitzeug*innengespräch"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-03-18T17:06:49.000"
+updated = "2023-03-20T00:35:32.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"

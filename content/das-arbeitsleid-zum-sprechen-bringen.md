@@ -11,7 +11,7 @@ start_date = "2023-04-13T19:00:00.000"
 end_date = "2023-04-13T21:00:00.000"
 category = "Diskussion/Vortrag"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-03-18T17:08:17.000"
+updated = "2023-03-20T00:37:25.000"
 languages = []
 [contact]
 [location]
