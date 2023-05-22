@@ -12,14 +12,15 @@ Juan Rojas Vásquez ist in der Umgebung der Colonia Dignidad aufgewachsen. Sein 
 Wann: Dienstag, 16.5.2023, 18:30h
 Wo: Bezirkszentralbibliothek Pablo Neruda, Frankfurter Allee 14 A, 10247 Berlin
 Bei der Veranstaltung wird es eine Simultan-Übersetzung (deutsch-spanisch) geben.
-Der Eintritt ist frei. Um Voranmeldung"
+Der Eintritt ist frei. Um Voranmeldung 
+Eine Veranstaltung von Nachrichtenpool Lateinamerika (NPLA),"
 image = "https://info.rosalux.de/image/event/j7s3j?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/50-jahre-nach-dem-putsch-in-chile-suche-nach-wahrheit-und-gerechtigkeit-zu-colonia-dignidad.webp"
-start_date = "2023-05-15T18:30:00.000"
-end_date = "2023-05-15T20:30:00.000"
+start_date = "2023-05-16T18:30:00.000"
+end_date = "2023-05-16T20:30:00.000"
 category = "Diskussion/Vortrag"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-05-08T00:33:14.000"
+updated = "2023-05-22T00:34:35.000"
 languages = []
 [contact]
 [location]
