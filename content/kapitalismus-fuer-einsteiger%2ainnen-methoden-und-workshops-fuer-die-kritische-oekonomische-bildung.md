@@ -15,11 +15,11 @@ Referent:
 Anmeldung"
 image = "https://info.rosalux.de/image/event/4fvox?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/kapitalismus-fuer-einsteiger%2ainnen-methoden-und-workshops-fuer-die-kritische-oekonomische-bildung.webp"
-start_date = "2023-06-01T10:00:00.000"
-end_date = "2023-06-01T18:00:00.000"
+start_date = "2023-06-01T15:00:00.000"
+end_date = "2023-06-01T19:00:00.000"
 category = "Seminar"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-05-22T00:34:54.000"
+updated = "2023-05-29T00:34:52.000"
 languages = []
 [contact]
 [location]
