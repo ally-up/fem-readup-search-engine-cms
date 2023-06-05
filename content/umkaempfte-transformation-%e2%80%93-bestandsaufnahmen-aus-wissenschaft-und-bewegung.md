@@ -8,8 +8,7 @@ subtitle = "Tagung des RLS-Graduiertenkollegs «Krise und sozial-ökologische Tr
 description = "Eine sozial-ökologische Transformation ist ebenso erstrebenswert wie notwendig. Seit 2021 forschen und diskutieren im Rahmen des RLS-Graduiertenkollegs «Krise und sozial-ökologische Transformation» rund 30 Wissenschaftler*innen zu den Bedingungen, Prozessen und Konflikten gesellschaftlichen Wandels. Gemeinsamer Ausgangspunkt ist die Annahme: Wenn eine Bearbeitung der ökologischen Krise nachhaltig erfolgreich sein soll, müssen wir die gesellschaftlichen Strukturen in Rechnung stellen, die diese Krise hervorbringen und fortlaufend verschärfen. Eine solche Perspektive begibt sich nicht nur in Konflikt mit gesellschaftlichen Kräften und Positionen, die die Notwendigkeit eines sozial-ökologischen Wandels leugnen. Sie steht auch im Widerstreit mit einem Transformationsverständnis, das darauf abzielt, die sozialen Verhältnisse durch technologische Modernisierung zu stabilisieren. 
 Mit der Tagung möchten wir den Austausch von Menschen aus Wissenschaft und politisch-aktivistischer Praxis anregen und erste Forschungsergebnisse aus dem Kolleg diskutieren. Dabei verfolgt die Tagung zwei Ziele: Sozialwissenschaftliche Analysen von Transformationsstrategien und -widerständen sollen helfen, aktuelle Konflikte rund um gesellschaftlichen Wandel besser zu verstehen. Gleichzeitig möchten wir einen Dialog zwischen Wissenschaftler*innen und Aktivist*innen ermöglichen, um die Bedeutung wissenschaftlicher Kritik für die Praxis des politischen Handgemenges zu erproben. In diesem Sinne fragt die Tagung nicht nur nach den Bedingungen, unter denen aktuelle Transformationskonflikte stattfinden. Sie soll auch Raum schaffen, um gemeinsam darüber nachzudenken, wie die Wissensproduktion in und für Transformation mit diesen Konflikten verstrickt ist. 
 Das Graduiertenkolleg ist eine gemeinsame Einrichtung von Rosa-Luxemburg-Stiftung und der Hochschule für Wirtschaft und Recht Berlin. Das Graduiertenkolleg ist eine gemeinsame Einrichtung von Rosa-Luxemburg-Stiftung und der Hochschule für Wirtschaft und Recht Berlin. Weitere Informationen zu seinen Mitgliedern und Assoziierten unter: 
-Für die Teilnahme an der Tagung ist eine Anmeldung erforderlich (s.o.).
-Wer nur an der Podiumsveranstaltung am Freitagabend teilnehmen möchte, melde sich bitte
+Die Anmeldung für die Tagung ist geschlossen. Wer an der Podiumsveranstaltung am Freitagabend teilnehmen möchte, melde sich bitte
 Programm:
 FREITAG
 13:00 Eröffnung
@@ -51,7 +50,7 @@ start_date = "2023-06-02T13:00:00.000"
 end_date = "2023-06-03T14:00:00.000"
 category = "Tagung/Konferenz"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-05-29T00:35:00.000"
+updated = "2023-06-05T00:37:53.000"
 image = "https://info.rosalux.de/image/event/rjb92?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/umkaempfte-transformation-%e2%80%93-bestandsaufnahmen-aus-wissenschaft-und-bewegung.webp"
 languages = []

@@ -16,7 +16,7 @@ start_date = "2021-09-23"
 end_date = "2021-09-23"
 category = "Lesekreis"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-05-29T00:33:00.000"
+updated = "2023-06-05T00:36:20.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
