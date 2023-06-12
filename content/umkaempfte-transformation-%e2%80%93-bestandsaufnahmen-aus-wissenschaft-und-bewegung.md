@@ -50,7 +50,7 @@ start_date = "2023-06-02T13:00:00.000"
 end_date = "2023-06-03T14:00:00.000"
 category = "Tagung/Konferenz"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-06-05T00:37:53.000"
+updated = "2023-06-12T00:40:18.000"
 image = "https://info.rosalux.de/image/event/rjb92?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/umkaempfte-transformation-%e2%80%93-bestandsaufnahmen-aus-wissenschaft-und-bewegung.webp"
 languages = []
