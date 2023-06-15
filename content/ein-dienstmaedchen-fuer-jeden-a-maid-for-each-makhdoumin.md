@@ -13,11 +13,11 @@ Eine Debatte und Filmvorführung im Rahmen der Ausstellung
 Frankreich, Libanon, Vereinigte Arabische Emirate 2016Regie: Maher Abi Samra - Originalfassung: arabisch - Untertitel: EnglischLänge: 67 min"
 image = "https://info.rosalux.de/image/event/nyxo1?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/ein-dienstmaedchen-fuer-jeden-a-maid-for-each-makhdoumin.webp"
-start_date = "2023-06-22T20:00:00.000"
+start_date = "2023-06-22T20:15:00.000"
 end_date = "2023-06-22T23:30:00.000"
 category = "Film"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-06-12T00:40:40.000"
+updated = "2023-06-15T12:05:01.000"
 languages = []
 [contact]
 [location]
