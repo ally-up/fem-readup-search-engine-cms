@@ -12,7 +12,7 @@ start_date = "2019-06-28T17:00 :00.000"
 end_date = "2019-06-28T17:00 :00.000"
 category = "Filmvorführung"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-06-15T12:03:04.000"
+updated = "2023-06-19T00:36:43.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
