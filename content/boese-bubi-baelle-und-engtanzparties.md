@@ -12,7 +12,7 @@ start_date = "2023-07-18T18:00:00.000"
 end_date = "2023-07-18T20:00:00.000"
 category = "Exkursion"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-07-07T14:06:39.000"
+updated = "2023-07-07T18:33:54.000"
 languages = []
 [contact]
 [location]

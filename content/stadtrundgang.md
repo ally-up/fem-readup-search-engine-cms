@@ -14,7 +14,7 @@ start_date = "2023-03-31T15:00 :00.000"
 end_date = "2023-03-31T15:00 :00.000"
 category = "Stadtrundgang"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-07-07T14:04:47.000"
+updated = "2023-07-07T18:32:14.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
