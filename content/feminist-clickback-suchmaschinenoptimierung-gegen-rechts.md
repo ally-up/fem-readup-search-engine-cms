@@ -9,7 +9,7 @@ start_date = "2018-09-15"
 end_date = "2018-09-15"
 category = "Workshop"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-06-19T00:36:56.000"
+updated = "2023-07-07T10:01:39.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
