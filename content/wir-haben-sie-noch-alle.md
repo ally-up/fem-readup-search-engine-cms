@@ -11,7 +11,7 @@ start_date = "2018-11-08T16:00 :00.000"
 end_date = "2018-11-08T16:00 :00.000"
 category = "Vernissage"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-07-07T18:32:46.000"
+updated = "2023-07-10T00:40:58.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"

@@ -10,7 +10,7 @@ start_date = "2023-07-29T15:00:00.000"
 end_date = "2023-07-29T15:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Georg-Kolbe-Museum"
-updated = "2023-07-07T18:34:23.000"
+updated = "2023-07-10T00:43:17.000"
 languages = []
 [contact]
 location_street = "Sensburger Allee 25"

@@ -12,7 +12,7 @@ start_date = "2015-02-27T17:00 :00.000"
 end_date = "2015-02-27T17:00 :00.000"
 category = "Archivführung"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-07-07T18:32:55.000"
+updated = "2023-07-10T00:41:09.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"

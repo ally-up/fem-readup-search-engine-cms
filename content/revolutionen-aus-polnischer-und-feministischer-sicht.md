@@ -16,13 +16,13 @@ Anna Krenz (geb. 1976, Polen) ist Künstlerin, Illustratorin, Redakteurin und Ak
 - Sprache: Deutsch
 - Gruppengröße: maximal 22 Personen
 - Ort: Berlin Ausstellung, 1. OG"
-image = "https://imgproxy.berlinonline.net/0Bh_UcSDNjSMMZAzrNy3qgm2L-kMrzjlLSCmZlVKrI0/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023070720/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0My9kNDgxNWM4Yy0xOTU1LTU2ZjUtNTNmMy1hZDEzYmUwY2I1MDQuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/-GPcGDw1fuRTyMPN9L2gCfSoFvOdhAZqVTjADGCn9mA/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023071002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0My9kNDgxNWM4Yy0xOTU1LTU2ZjUtNTNmMy1hZDEzYmUwY2I1MDQuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/revolutionen-aus-polnischer-und-feministischer-sicht.webp"
 start_date = "2023-08-05T16:00:00.000"
 end_date = "2023-08-05T16:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Humboldt Forum"
-updated = "2023-07-07T18:34:14.000"
+updated = "2023-07-10T00:43:06.000"
 languages = []
 [contact]
 location_street = "Schloßplatz"
