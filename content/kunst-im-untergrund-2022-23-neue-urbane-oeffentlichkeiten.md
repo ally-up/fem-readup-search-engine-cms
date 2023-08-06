@@ -1,0 +1,24 @@
++++
+identifier = "kunst-im-untergrund-2022-23-neue-urbane-oeffentlichkeiten"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/ausstellungen/kunst-im-untergrund-2022-23-neue-urbane-oeffentlichkeiten-2dc6ae3f-cbcd-4489-85fe-be8071073646/"
+type = "event"
+title = "Kunst im Untergrund 2022/23: Neue urbane Öffentlichkeiten"
+description = "Ausgehend von der Idee des Platzes als Ort des Gemeinwohls, als Treffpunkt und Diskussionsraum, dienen drei Berliner Plätze und ihre U-Bahnhöfe als Ausgangspunkt für Performances und Interventionen.
+Das Kottbusser Tor, der Strausberger Platz und der Platz vor dem Roten Rathaus sind architektonisch markant und äußerst unterschiedlich, teils von Straßen zerschnitten oder von Brücken und Hochbahnen überspannt, teils klassisch symmetrisch angelegt mit Brunnen als zentrales Element. Genutzt wird dieser urbane und öffentliche Raum auf verschiedene Weise: als Verkehrs-, Konsum-, Spiel-, Kommunikations- oder Erholungsraum. Die künstlerischen Arbeiten befragen oder verstärken diese Nutzungen.
+Irene Fernandez Arcas interessiert sich für das Heilungspotenzial von Kunst. Ausgehend von der neoliberalen Vereinnahmung von Selbstfürsorge, Körper und Geist untersucht ihre Arbeit in Form einer per Handy gesteuerten Meditation den Wunsch, Intimität zu schaffen und inmitten urbaner Orte Verbindungen herzustellen.Ein digitales Projekt des Kollektivsimage-shift vonsandy kaltenborn, athena javanmardiundpaco camberlinstellt dem medial vereinfachten Bild des Kottbusser Tors als Problemort einen Entwurf entgegen, der das vielschichtige soziale Gewebe des Platzes sichtbar macht. In Julieta Ortiz de Latierros Beitrag »Keine Werbung« werden behördliche Briefe in Pop-Up-Skulpturen verwandelt. Das Projekt ist dreiteilig: Im U-Bahnhof Kottbusser Tor entsteht eine Intervention auf den Hintergleisflächen, im »Berliner Fenster« wird ein Video-Tutorial ausgestrahlt und in einem Nachbarschaftszentrum am Kotti findet ein offener Workshop statt. Sunny Pfalzers Performance am Strausberger Platz bewegt sich im Spannungsfeld zwischen gefühltem Geschlecht und binären Blickregimen. Drei Performer_innen untersuchen die Parameter, mit denen queere Körper im öffentlichen Raum konfrontiert sind.Für das ProjektChargékommen sechs Künstler_innen(Sinzo Aanza, Jasmina Al-Qaisi, Falonne Mambu, Nada Tshibwabwa, Ralf Wendt und Elsa Westreicher) aus der Demokratischen Republik Kongo und aus Deutschland zusammen, um den Strausberger Platz zu bespielen. Mit Performances, Literatur, Klang- und Grafikarbeiten zeigen sie, wie geografisch weit voneinander entfernte Orte durch zeitgenössischen Konsum und die damit verbundene Produktionsbedingungen eng miteinander verknüpft sind. Die künstlerische Wrestling-Performance Core of Genesis nutzt das Format eines Ringkampfs, um aktuelle globale politische Entwicklungen und Zustände darzustellen. Mit Humor, Storytelling, Choreografie und Kampftricks kreiert das Kollektiv Liminal Beast of Prey eine eigenwillige, energiegeladene Show, die Raum für oft unsichtbare Erzählungen gibt, queere Identitäten feiert und postkapitalistische Sehnsüchte zum Ausdruck bringt.
+Der Kunstwettbewerb fand, ursprünglich mit dem Titel „Kunst statt Werbung“, erstmals im Jahr 1958 in Ostberlin statt und rief Künstler_innen auf, Plakate für den Frieden zu entwerfen. Die eingereichten Arbeiten wurden auf den Hintergleisflächen am U-Bahnhof Alexanderplatz ausgestellt. Während ein Großteil der damaligen DDR-Institutionen nach 1989 aufgelöst oder umbenannt wurde, konnte sich der Wettbewerb behaupten. Seit Anfang der 1990er Jahre setzt die nGbK in Zusammenarbeit mit den Senatsverwaltungen unter dem Projekttitel »Kunst im Untergrund« künstlerische Arbeiten in oder in unmittelbarer Nähe von Berliner U-Bahnhöfen um.
+Zum Abschluss des Projektes erscheint ein Buch auf Deutsch und Englisch.
+nGbK-Arbeitsgruppe: Lorena Juan, Marenka Krasomil, Isabelle Meiffert, Mirko Winkel, Sandra Teitge
+Mitarbeit: Manon Frugier
+Das Projekt wird gefördert von der Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt."
+image = "https://imgproxy.berlinonline.net/3-b1nx3XM6L3GO7kJ6YEv_Oud3Zl0CX-yXGvSfXq4B8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023080614/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEyMC8xNWJlODk1ZC05ZGUzLTVmMWUtMTA3OC0xMDM0ODgxN2Q0ZGQuZ2lm.jpg"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/kunst-im-untergrund-2022-23-neue-urbane-oeffentlichkeiten.webp"
+start_date = "2023-06-08T00:00:00.000"
+end_date = "2023-08-10T00:00:00.000"
+category = "Ausstellungen"
+updated = "2023-08-06T13:15:28.000"
+languages = []
+[contact]
+[location]
++++
