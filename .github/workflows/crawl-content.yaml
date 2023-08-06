@@ -33,6 +33,7 @@ jobs:
           pip install firebase-admin
           pip install google-cloud-storage
           pip install selenium
+          pip install webdriver-manager
       - name: Run main script
         id: run-main-script
         run: |
