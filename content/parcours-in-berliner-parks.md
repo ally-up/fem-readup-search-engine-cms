@@ -10,16 +10,18 @@ Die vierköpfige Jury, bestehend ausOnur Çimen (Kurator & Autor), Astrid Kamins
 Kévin BononoAlvin Collantes & Jun SuzukiChōri CollectiveKdindie & Luisa De SantiShelley EtkinMichelle FélixMelissa Figueiredo & Giuliana Corsi KollingMartha Hincapié CharryJasmin İhraçUmi MaisarohPatrycja MasłowskaTatiana MejíaHea Min JungAnna NattAngelo Petracca & Wojtek BlecharzMing PoonDjibril SallDiana Alina SerbanescuRenae Shadler & CollaboratorsClaire Vivianne SobottkeIgaŚśćkMaren Strack
 “Open Call. Tanz & Ökologie vernetzen” ist einProjekt von Tanz im August / HAU Hebbel am Ufer.Gefördert durch den Hauptstadtkulturfonds und die E.ON Stiftung.
 120 Min"
-image = "https://imgproxy.berlinonline.net/XtvX3T6dKoEZhHVOb6St-xXVZ1n6ZYGYeo1leQaaSZ4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023080614/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzg3LzNmMzk5MTZhLTMxYTctZTFjNS1mZjU3LWY3NmNjZTM0NmFmYS5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/8643eAN6TDEM4SbrKONGXK6q_NyKfgTJo5HQPqGWi_s/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023080702/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzg3LzNmMzk5MTZhLTMxYTctZTFjNS1mZjU3LWY3NmNjZTM0NmFmYS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/parcours-in-berliner-parks.webp"
 start_date = "2023-08-12T14:00:00.000"
 end_date = "2023-08-12T14:00:00.000"
 category = "Tanz"
 organizer = "HAU Hebbel am Ufer - HAU1"
-updated = "2023-08-06T13:16:58.000"
+updated = "2023-08-07T00:38:32.000"
 languages = []
 [contact]
 location_street = "Stresemannstraße 29 A"
 location_city = " 10963 Berlin-Kreuzberg"
 [location]
+location_street = "Stresemannstraße 29 A"
+location_city = " 10963 Berlin-Kreuzberg"
 +++

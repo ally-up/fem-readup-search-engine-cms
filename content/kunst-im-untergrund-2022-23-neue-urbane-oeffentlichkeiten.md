@@ -12,12 +12,12 @@ Zum Abschluss des Projektes erscheint ein Buch auf Deutsch und Englisch.
 nGbK-Arbeitsgruppe: Lorena Juan, Marenka Krasomil, Isabelle Meiffert, Mirko Winkel, Sandra Teitge
 Mitarbeit: Manon Frugier
 Das Projekt wird gefördert von der Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt."
-image = "https://imgproxy.berlinonline.net/3-b1nx3XM6L3GO7kJ6YEv_Oud3Zl0CX-yXGvSfXq4B8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023080614/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEyMC8xNWJlODk1ZC05ZGUzLTVmMWUtMTA3OC0xMDM0ODgxN2Q0ZGQuZ2lm.jpg"
+image = "https://imgproxy.berlinonline.net/ftTzNNNlVNWy1l9Das7zOZpOXDShK97HDQu-QrBg54U/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023080702/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEyMC8xNWJlODk1ZC05ZGUzLTVmMWUtMTA3OC0xMDM0ODgxN2Q0ZGQuZ2lm.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/kunst-im-untergrund-2022-23-neue-urbane-oeffentlichkeiten.webp"
 start_date = "2023-06-08T00:00:00.000"
 end_date = "2023-08-10T00:00:00.000"
 category = "Ausstellungen"
-updated = "2023-08-06T13:15:28.000"
+updated = "2023-08-07T00:37:45.000"
 languages = []
 [contact]
 [location]
