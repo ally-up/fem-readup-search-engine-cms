@@ -10,7 +10,7 @@ start_date = "2023-08-17T19:00:00.000"
 end_date = "2023-08-17T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Uferstudios - Uferstudio 14"
-updated = "2023-08-07T00:39:04.000"
+updated = "2023-08-14T00:32:13.000"
 languages = []
 [contact]
 location_street = "Uferstraße 23"

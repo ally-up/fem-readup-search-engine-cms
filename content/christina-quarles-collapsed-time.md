@@ -13,12 +13,12 @@ Eine Sonderausstellung der Nationalgalerie – Staatliche Museen zu Berlin
 Preisinformationen: Zineb Sedira. Dreams Have No Titles
 Preis: 8,00 €
 Ermäßigter Preis: 4,00 €"
-image = "https://imgproxy.berlinonline.net/I3bN3lrMmjgn2lZBPUZJHsco8hV0hDroGLkcfQWwKyY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023080702/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzE3OC8yYmNmZDM4Yy03ZjNlLTQwNWQtODNiMi00NGY5OTVkMzY4MjMuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/J-QWQYGHPjBGTcmoTh4w0LS7PbVmXJxgZ4ttrhpiBZ8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023081402/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzE3OC8yYmNmZDM4Yy03ZjNlLTQwNWQtODNiMi00NGY5OTVkMzY4MjMuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/christina-quarles-collapsed-time.webp"
 start_date = "2023-03-24T00:00:00.000"
 end_date = "2023-09-17T00:00:00.000"
 category = "Ausstellungen"
-updated = "2023-08-07T00:37:40.000"
+updated = "2023-08-14T00:31:50.000"
 languages = []
 [contact]
 [location]

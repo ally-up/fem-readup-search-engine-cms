@@ -10,7 +10,7 @@ start_date = "2023-08-30T19:00:00.000"
 end_date = "2023-08-30T19:00:00.000"
 category = "Filmveranstaltungen"
 organizer = "f³ – freiraum für fotografie"
-updated = "2023-08-07T00:39:31.000"
+updated = "2023-08-14T00:33:59.000"
 languages = []
 [contact]
 location_street = "Waldemarstraße 17"

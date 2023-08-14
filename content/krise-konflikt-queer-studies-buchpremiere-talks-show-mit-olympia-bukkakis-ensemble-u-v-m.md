@@ -1,0 +1,21 @@
++++
+identifier = "krise-konflikt-queer-studies-buchpremiere-talks-show-mit-olympia-bukkakis-ensemble-u-v-m"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/theater/krise-konflikt-queer-studies-buchpremiere-talks-show-mit-olympia-bukkakis-ensemble-u-v-m-a2126f2a-8a24-441b-8115-0a6676b8f0c1/"
+type = "event"
+title = "Krise, Konflikt, Queer Studies Buchpremiere, Talks & Show mit Olympia Bukkakis, Ensemble u. v. m."
+subtitle = "Karte"
+description = "Sexualität und Gender sind im Kontext multipler Krisen einem Moment heftiger Politisierung ausgesetzt und bilden einen Kernbereich sozialer, kultureller und politisch-ökonomischer Konflikte. Weltweit werden Rechte, die geschlechtliche und sexuelle Minoritäten unlängst errungen haben, wieder zurückgenommen. Es bilden sich von der extremen Rechten dominierte Koalitionen gegen eine angebliche „Gender-Ideologie“. Sie rufen auf zur Verteidigung traditioneller Vorstellungen rund um das biologische Geschlecht, um Geschlechterrollen und -beziehungen sowie die heterosexuelle Familie. Nicht nur in Deutschland werden queere und trans Menschen auf CSD-Paraden angegriffen, werden Gay Bars und andere Einrichtungen attackiert und Drag-Performer*innen dämonisiert. Zugleich mobilisieren weltweit erstarkende queere und trans Bewegungen – und das nicht bloß zur Verteidigung bestehender Rechte und liberaler Anerkennungsformen. Sie entwickeln neue radikalere Vorstellungen von einer queeren und trans Befreiung, mit denen sie auf der Geschichte und den Erkenntnissen früherer Bewegungen aufbauen: Bewegungen, die die Kämpfe von geschlechtlichen und sexuellen Minoritäten mit denen gegen Prekarität und Gentrifizierung, Rassismus und Misogynie verbanden.Seit mehr als 30 Jahren untersuchen Queer Studies die Macht geschlechtlicher und sexueller Normen – und wie diese angefochten werden. Sie tragen damit ganz wesentlich zu einem kritischen Verständnis der genannten Konjunktur bei. Bis heute sind viele der anglophonen Schlüsseltexte jedoch nicht ins Deutsche übersetzt, was die hiesige Rezeption nachhaltig geprägt hat. Der Band Queer Studies: Schlüsseltexte, herausgegeben von Mike Laufenberg und Ben Trott, macht nun eine Reihe von wichtigen Beiträgen des Feldes zum ersten Mal in deutscher Sprache zugänglich. Sie zeugen von einem queeren Neu- und Weiterdenken der kritischen Analyse von Kapitalismus, Behinderung, Rassismus, Geschlechterverhältnissen, Geopolitik, Aktivismus und „Identitätspolitik” und zählen zu den einflussreichsten Werken der Queer-of-Color-Kritik und queeren Diasporaforschung, des queeren Marxismus, des queeren Negativitätsdenkens und der Queer Crip Theory.Die Buchpremiere präsentiert, kommentiert und reflektiert einige der Texte – mit Lesungen, Shows und Kurzvorträgen des Volksbühnen-Ensembles und Special Guests.Queer Studies: Schlüsseltexte erscheint im September 2023 bei suhrkamp taschenbuch wissenschaft mit Übersetzungen von Texten der anglophonen Queer Theory: von Eve Kosofsky Sedgwick, Cathy J. Cohen, Judith Butler und José Esteban Muñoz über Ann Cvetkovich, Robert McRuer, Kevin Floyd und Lee Edelman bis zu Roderick A. Ferguson, Gayatri Gopinath, Petrus Liu und Karma R. Chávez.suhrkamp.de/buch/queer-studies [Moderation: Mike Laufenberg  Ben TrottPerformances: Olympia BukkakisSpecial Guests: Edna Bonhomme, Omar Kasmani, Isabell Lorey"
+image = "https://imgproxy.berlinonline.net/zV0BfhI7GdV0kbDXSl0lCjqwOAUernDMGVXLWchjcz4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023081402/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEwNi8xNGYzZWJiYy00MzUxLTU4MDItZTI2YS1jYzc1ZmRhMjU4YWIuanBn.jpg"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/krise-konflikt-queer-studies-buchpremiere-talks-show-mit-olympia-bukkakis-ensemble-u-v-m.webp"
+start_date = "2023-09-11T20:00:00.000"
+end_date = "2023-09-11T20:00:00.000"
+category = "Theater"
+organizer = "Volksbühne am Rosa-Luxemburg-Platz - Großes Haus"
+updated = "2023-08-14T00:35:17.000"
+languages = []
+[contact]
+location_street = "Rosa-Luxemburg-Platz"
+location_city = " 10178 Berlin-Mitte"
+[location]
++++
