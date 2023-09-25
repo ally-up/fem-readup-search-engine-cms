@@ -12,16 +12,18 @@ In der Regie von Katharina Bill stehen sieben junge, weiblich gelesene Personen 
 Das gesamte Team der Inszenierung solidarisiert sich mit allen weltweiten feministischen Bewegungen, die die Freiheit und Selbstbestimmung aller Menschen zum Ziel haben. Aufgrund der aktuellen Proteste im Iran möchten wir den Protestierenden vor Ort sagen: Wir hören Euch, wir sehen Euch, wir bewundern Euch, wir bangen um Euch, wir sind an Eurer Seite.
 Dauer: 90 Minuten, keine Pause
 aus dem Schwedischen von Katharina Erben in einer Fassung von Katharina Bill und Christiane Lehmann"
-image = "https://imgproxy.berlinonline.net/mGo1TWoQ6zlM0Zn8roniKKh2BD3nRnwLSCBCsexlrM8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092210/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzU1LzhmZjI1OWU0LTNlNGEtODI3OS0xNjM3LTI0NDkyZmRmMTY5NC5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/0UwWcWhP1kmTisnU0kZ3LUBqsWL9cZd2kkLYu9wNrPg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092502/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzU1LzhmZjI1OWU0LTNlNGEtODI3OS0xNjM3LTI0NDkyZmRmMTY5NC5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/im-spiegelsaal.webp"
-start_date = "2023-09-24T19:00:00.000"
-end_date = "2023-09-24T19:00:00.000"
+start_date = "2023-09-25T19:30:00.000"
+end_date = "2023-09-25T19:30:00.000"
 category = "Theater"
 organizer = "Deutsches Theater Berlin - Box und Bar"
-updated = "2023-09-22T08:42:21.000"
+updated = "2023-09-25T00:33:58.000"
 languages = []
 [contact]
 location_street = "Schumannstraße 13 A"
 location_city = " 10117 Berlin-Mitte"
 [location]
+location_street = "Schumannstraße 13 A"
+location_city = " 10117 Berlin-Mitte"
 +++

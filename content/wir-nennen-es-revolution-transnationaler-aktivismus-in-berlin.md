@@ -16,7 +16,7 @@ start_date = "2023-10-12T18:00:00.000"
 end_date = "2023-10-12T20:00:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-09-22T08:40:40.000"
+updated = "2023-09-25T00:32:50.000"
 languages = []
 [contact]
 [location]

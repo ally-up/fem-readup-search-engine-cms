@@ -15,13 +15,13 @@ Abendzettel UND SICHER IST MIT MIR DIE WELT VERSCHWUNDEN
 {preview_thumbnail:/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/F2_p0jxcdjA.jpg?itok=4cuUKvfS,video_url:,settings:{responsive:1,width:854,height:480,autoplay:0},settings_summary:[Eingebettetes Video (Responsiv).]}
 Foto: Esra RotthoffBühnenfotos: Ute Langkafel"
 {preview_thumbnail:/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/F2_p0jxcdjA.jpg?itok = "4cuUKvfS,video_url:,settings:{responsive:1,width:854,height:480,autoplay:0},settings_summary:[Eingebettetes Video (Responsiv).]}"
-image = "https://imgproxy.berlinonline.net/YNZ_h8Pb5jUuDmLSgSDmgaIdHsgsARWMlT2GEd3xXoU/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092210/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzg1LzFmZjY2YjI0LWE2ODQtZTI1YS05MjU1LThkMmRlYjA2NjU2Zi5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/RGnDWZni2IZcG5Et_rpey0x59k2tV1EcCZo_rnpb5JY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092502/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzg1LzFmZjY2YjI0LWE2ODQtZTI1YS05MjU1LThkMmRlYjA2NjU2Zi5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/und-sicher-ist-mit-mir-die-welt-verschwunden.webp"
 start_date = "2023-10-15T19:30:00.000"
 end_date = "2023-10-15T19:30:00.000"
 category = "Theater"
 organizer = "Maxim Gorki Theater"
-updated = "2023-09-22T08:49:05.000"
+updated = "2023-09-25T00:42:00.000"
 languages = []
 [contact]
 location_street = "Am Festungsgraben 2"

@@ -11,7 +11,7 @@ start_date = "2018-12-11T10:30 :00.000"
 end_date = "2018-12-11T10:30 :00.000"
 category = "Fachtagung"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-09-22T08:38:20.000"
+updated = "2023-09-25T00:30:42.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"

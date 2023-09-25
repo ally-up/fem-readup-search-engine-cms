@@ -16,12 +16,12 @@ Künstlerische Leitung: Florian Hertweck, Christian Hiller, Markus Krieger, Alex
 Preis: 9,00 €
 Ermäßigter Preis: 6,00 €
 Informationen zum ermäßigten Preis: Bis 18 Jahre Eintritt frei."
-image = "https://imgproxy.berlinonline.net/3Fhv4_UJRMzhn84IWWkEpJ6qvsQYRGYyouYiG1T9c_I/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092210/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE5Ny81OThiNzlhZC0yNTE5LWI5NDItNWJjNS02YmM4NDM3YTdhNmIuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/Z32TA8svbhvaIdI28ODDcV8jpDNDbWzvFTilcrWxcMw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092502/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE5Ny81OThiNzlhZC0yNTE5LWI5NDItNWJjNS02YmM4NDM3YTdhNmIuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/the-great-repair.webp"
 start_date = "2023-10-14T00:00:00.000"
 end_date = "2024-01-14T00:00:00.000"
 category = "Ausstellungen"
-updated = "2023-09-22T08:48:44.000"
+updated = "2023-09-25T00:41:08.000"
 languages = []
 [contact]
 [location]

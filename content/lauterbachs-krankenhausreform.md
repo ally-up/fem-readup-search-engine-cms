@@ -14,7 +14,7 @@ start_date = "2023-09-15T19:30:00.000"
 end_date = "2023-09-15T21:00:00.000"
 category = "Diskussion/Vortrag"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-09-22T08:39:48.000"
+updated = "2023-09-25T00:31:57.000"
 image = "https://info.rosalux.de/image/event/d1f1l?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/lauterbachs-krankenhausreform.webp"
 languages = []

@@ -12,11 +12,11 @@ Oehmke ist Autor der Biografie Am Anfang war der Lärm über Die Toten Hosen.
 „Schönwald“ erscheint am 27.07.23 im Piper Verlag, 544 Seiten
 -----
 Eine Veranstaltung von Literatur LIVE in Kooperation mit dem Piper Verlag und der Thalia Buchhandlung"
-image = "https://imgproxy.berlinonline.net/s2C8fVm5x-4Ud_TI5ktawD7464T9Kbfr96IP7fw4Xas/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092210/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzEzNy9lNzQ5MWZhNC1mMDg5LTQ4OWUtYTE4OS01NDQyNjI5YTg1M2IuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/k5aeKlVjKs6WpMlg8R6yOPqpuGmx8WmLK0x83x8L-dk/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023092502/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzEzNy9lNzQ5MWZhNC1mMDg5LTQ4OWUtYTE4OS01NDQyNjI5YTg1M2IuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/philipp-oehmke-im-gespraech-mit-marion-brasch-schoenwald.webp"
 category = "Literatur"
 organizer = "Dienstag, 17. Oktober 2023, 20:00 Uhr"
-updated = "2023-09-22T08:49:38.000"
+updated = "2023-09-25T00:42:39.000"
 languages = []
 [contact]
 [location]
