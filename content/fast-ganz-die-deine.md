@@ -14,11 +14,9 @@ start_date = "2023-09-29T20:00:00.000"
 end_date = "2023-09-29T20:00:00.000"
 category = "Vermischtes"
 organizer = "Theater unterm Dach"
-updated = "2023-09-25T00:36:05.000"
+updated = "2023-10-13T09:40:11.000"
 languages = []
 [contact]
-location_street = "Danziger Straße 101"
-location_city = " 10405 Berlin-Prenzlauer Berg"
 [location]
 location_street = "Danziger Straße 101"
 location_city = " 10405 Berlin-Prenzlauer Berg"

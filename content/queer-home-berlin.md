@@ -13,7 +13,7 @@ start_date = "2021-07-09T19:30 :00.000"
 end_date = "2021-07-09T19:30 :00.000"
 category = "Werkstattgespräch"
 organizer = "Das feministische Archiv FFBIZ"
-updated = "2023-09-25T00:30:27.000"
+updated = "2023-10-13T09:26:50.000"
 languages = []
 [contact]
 location_street = "Eldenaer Straße 35"
