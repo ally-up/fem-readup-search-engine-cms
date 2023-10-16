@@ -1,7 +1,7 @@
 +++
 identifier = "untergetaucht-eine-junge-juedische-frau-ueberlebt-in-berlin-1940-1945"
 source = "Rosa Luxemburg Stiftung"
-url = "https://rosalux.de/veranstaltung/es_detail/WB942/untergetaucht-eine-junge-juedische-frau-ueberlebt-in-berlin-1940-1945?cHash=5caf0b2bfce8696d5e79ca9c53cf8e53"
+url = "https://rosalux.de/veranstaltung/es_detail/WB942/untergetaucht-eine-junge-juedische-frau-ueberlebt-in-berlin-1940-1945?cHash=65f119f36932b841a687b3a550992816"
 type = "event"
 title = "Untergetaucht. Eine junge jüdische Frau überlebt in Berlin 1940-1945"
 subtitle = "Lesung mit Vortrag und Musik - mit Dr. Hermann Simon, Nicole Haase und Juliane Thiel"
@@ -17,7 +17,7 @@ start_date = "2023-11-06T17:00:00.000"
 end_date = "2023-11-06T18:30:00.000"
 category = "Buchvorstellung"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-10-13T09:29:45.000"
+updated = "2023-10-16T00:33:28.000"
 languages = []
 [contact]
 [location]

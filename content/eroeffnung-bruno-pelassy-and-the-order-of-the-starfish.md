@@ -10,10 +10,12 @@ start_date = "2023-10-19T19:00:00.000"
 end_date = "2023-10-19T19:00:00.000"
 category = "Vermischtes"
 organizer = "Haus am Waldsee"
-updated = "2023-10-13T09:35:19.000"
+updated = "2023-10-16T00:36:46.000"
 languages = []
 [contact]
 location_street = "Argentinische Allee 30"
 location_city = " 14163 Berlin-Zehlendorf"
 [location]
+location_street = "Argentinische Allee 30"
+location_city = " 14163 Berlin-Zehlendorf"
 +++

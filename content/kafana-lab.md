@@ -10,10 +10,12 @@ start_date = "2023-10-17T19:30:00.000"
 end_date = "2023-10-17T19:30:00.000"
 category = "Vermischtes"
 organizer = "Volksbühne am Rosa-Luxemburg-Platz - Grüner Salon"
-updated = "2023-10-13T09:34:26.000"
+updated = "2023-10-16T00:35:06.000"
 languages = []
 [contact]
 location_street = "Rosa-Luxemburg-Platz"
 location_city = " 10178 Berlin-Mitte"
 [location]
+location_street = "Rosa-Luxemburg-Platz"
+location_city = " 10178 Berlin-Mitte"
 +++
