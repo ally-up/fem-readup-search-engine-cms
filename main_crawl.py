@@ -73,8 +73,8 @@ def main(argv):
     UraniaCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
                         uploads_path=uploads_path, clean=clean,
                         quiet=quiet)
-    FfbizCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
-                         uploads_path=uploads_path, clean=clean, quiet=quiet)
+    # FfbizCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+    #                      uploads_path=uploads_path, clean=clean, quiet=quiet)
     RosaluxCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
                          uploads_path=uploads_path, clean=clean, quiet=quiet)
     BerlinDeCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
