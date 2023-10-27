@@ -14,12 +14,12 @@ Idee und Konzept von Felix Sattler und Dr. Jochen Hennig.
 Preisinformationen: Derzeit aufgrund der Hygienebestimmungen beschränkte Besucher_innenzahlen, max. 20 Personen.
 Informationen zum ermäßigten Preis: Derzeit aufgrund der Hygienebestimmungen beschränkte Besucher_innenzahlen, max. 20 Personen
 Geeignet für Rollstuhlfahrer_innen"
-image = "https://imgproxy.berlinonline.net/-QMrY5g07nKAUeje8mfc-Bxiouq0S9ut0ygbTUxu-6E/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023101602/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM2L2E5OGE1MGQ1LWEyZDUtY2QxMy1hNDI0LWI0MzhmZTM5Mzk1Ni5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/vjMS3KStkoSe_X8efKnyU2sCwwTh5MNMY5qlxq7gJpw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023102710/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM2L2E5OGE1MGQ1LWEyZDUtY2QxMy1hNDI0LWI0MzhmZTM5Mzk1Ni5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/flechtwerk-der-dinge.webp"
 start_date = "2019-10-01T00:00:00.000"
-end_date = "2024-01-14T00:34:22.429182"
+end_date = "2024-01-25T09:18:40.580572"
 category = "Ausstellungen"
-updated = "2023-10-16T00:34:22.000"
+updated = "2023-10-27T09:18:40.000"
 languages = []
 [contact]
 [location]

@@ -10,12 +10,12 @@ Mit ihrer Arbeit hinterfragt Fusco jene institutionellen Infrastrukturen, die di
 Parallel zu der Ausstellung in den KW erscheint im Verlag Thames & Hudson eine umfangreiche, gleichnamige Monografie zu Fuscos Werk mit Beiträgen von Julia Bryan-Wilson, Anna Gritz, Jill Lane, Antonio José Ponte und der Künstlerin selbst.
 Kurator*innen: Anna Gritz, Léon Kruijswijk
 Kuratorische Assistenz: Linda Franken"
-image = "https://imgproxy.berlinonline.net/Bs5TOvF-4cLZDYeDKdZzhqADnC1HKqw5FCH4buiT7Bk/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023101602/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE0Mi83OWE2NTA0Yy05ZWFlLTgxODUtNzc4ZS05OTc5OWMwNGI5MzUuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/Y_zeJxRgOoIUigsQR0ydDZ-x9Z0JKBBJ1-x4Fld9fX4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023102710/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE0Mi83OWE2NTA0Yy05ZWFlLTgxODUtNzc4ZS05OTc5OWMwNGI5MzUuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/coco-fusco-tomorrow-i-will-become-an-island.webp"
 start_date = "2023-09-14T00:00:00.000"
 end_date = "2024-01-07T00:00:00.000"
 category = "Ausstellungen"
-updated = "2023-10-16T00:34:37.000"
+updated = "2023-10-27T09:18:55.000"
 languages = []
 [contact]
 [location]

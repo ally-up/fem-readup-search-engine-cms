@@ -7,10 +7,10 @@ title = "Wohnen klimagerecht organisieren"
 subtitle = "Eine Werkstatt vom Gesprächskreis Stadtpolitik, dem Arbeitskreis Organizing und der Fachgruppe…"
 description = "Die CO2-Neutralität im Wohnsektor gehört zu den größten Aufgaben für den Klimaschutz. Und sie birgt erheblichen sozialen Sprengstoff. So gehören energetische Modernisierungen seit Beginn der Mietenkrise zu den wesentlichen Werkzeugen der Mieterhöhung und Verdrängung. Hinzu kommt der Abriss von bezahlbarem Wohnraum und der Neubau hochpreisiger Wohnungen unter Einsatz von energieintensiven und klimaschädlichen Materialien wie Beton und Stahl.
 Um dieses Dilemma aufzulösen, müssen Mieten- und Klimabewegung an einem Strang ziehen und sich gemeinsam organisieren. Die Aufgabe ist groß und es braucht viele Aktionen, um Druck von Unten aufzubauen und die Machtverhältnisse zu verschieben. Fachwissen und gute Argumente gehören ebenso zum notwendigen Repertoire wie Werkzeuge des Organisierens und eine gemeinsame Strategie.
-Die Werkstatt «Wohnen klimagerecht organisieren» will Interessierte und schon Aktive aus Klima- und Mietenbewegung zusammenbringen. Wir laden internationale Expert*innen und Organizer*innen ein und schaffen Räume, um Wissen und Erfahrungen zu teilen. Unter anderem sind vertreten: Alliance Citoyenne, Frankreich, Architects for Future, Berliner Energietisch, Berliner Mieterverein, BUND, Communia, Deutsche Umwelthilfe, Deutsche Wohnen & Co. enteignen, Berlin, Front Slobode, Bosnien, IG Habersaathstraße, Berlin, Mietentisch Gropiusstadt, Berlin, Mieter*innen for Future, RWE & Co. enteignen, Werkstatt für Bewegungsbildung
+Die Werkstatt «Wohnen klimagerecht organisieren» will Interessierte und schon Aktive aus Klima- und Mietenbewegung zusammenbringen. Wir laden internationale Expert*innen und Organizer*innen ein und schaffen Räume, um Wissen und Erfahrungen zu teilen. Unter anderem sind vertreten: Alliance Citoyenne, Frankreich, Architects for Future, Berliner Energietisch, Berliner Mieterverein, BUND, Communia, Deutsche Umwelthilfe, Deutsche Wohnen & Co. enteignen, Berlin, Front Slobode, Bosnien, IG Habersaathstraße, Berlin, Mietentisch Gropiusstadt, Berlin, Mieter*innen for Future, RWE & Co. enteignen, Stadt für alle Frankfurt/M, Werkstatt für Bewegungsbildung
 Aktuelle Informationen auf den Telegram-Kanälen des 
 Programm
-Freitag, 10. November 2023ab 18:00 Uhr: KneipenabendPläne lassen sich nicht nur am Schreibtisch oder in Konferenzsälen schmieden. Deshalb laden wir alle Teilnehmenden zum Auftakt der Werkstatt ein, sich bei einem gemeinsamen Kneipenabend auszutauschen, zu vernetzen und auf die kommenden Tage einzustimmen. Der Ort wird zeitnah zur Werkstatt bekannt gegeben.
+Freitag, 10. November 2023ab 19:00 Uhr: KneipenabendPläne lassen sich nicht nur am Schreibtisch oder in Konferenzsälen schmieden. Deshalb laden wir alle Teilnehmenden zum Auftakt der Werkstatt ein, sich bei einem gemeinsamen Kneipenabend auszutauschen, zu vernetzen und auf die kommenden Tage einzustimmen. Der Ort wird zeitnah zur Werkstatt bekannt gegeben.
 Samstag, 11. November 20239:00 Uhr bis 11:15 Uhr: Start mit allen im MünzenbergsaalDie gemeinsamen Werkstatt-Phasen werden moderiert von Ronald Höhner und Caroline Hüglin (beide Rosa Luxemburg Stiftung).
 11:15 Uhr bis 11:30 Uhr: Pause
 11:30 Uhr bis 13:30 Uhr: Workshops
@@ -35,7 +35,7 @@ start_date = "2023-11-10T18:00:00.000"
 end_date = "2023-11-12T15:00:00.000"
 category = "Workshop"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-10-16T00:33:45.000"
+updated = "2023-10-27T09:17:51.000"
 languages = []
 [contact]
 [location]

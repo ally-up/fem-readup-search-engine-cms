@@ -11,13 +11,13 @@ London, 1873: Mrs. Eliza Touchet, schottische Haushälterin bei einem Schriftste
 Zadie Smith stellt auf Einladung von radioeins und rbbKultur in Kooperation mit dem Verlag Kiepenheuer & Witsch ihren neuen Roman in einer Deutschlandpremiere im Großen Sendesaal des rbb vor. Die deutschen Texte spricht die Autorin und Journalistin Jackie Thomae, durch den Abend führt radioeins Literaturagentin Marie Kaiser.
 Zadie Smith, wurde 1975 im Norden Londons geboren. Ihr erster Roman »Zähne zeigen«, 2001 erschienen, wurde mit zahlreichen Preisen ausgezeichnet und ein internationaler Bestseller. Der Roman »Von der Schönheit«, 2006 erschienen bei Kiepenheuer & Witsch, war auf der Shortlist des Man Booker Prize 2005 und gewann den Orange Prize. Zadie Smith erhielt u.a. 2016 den Welt-Literaturpreis und 2018 den Österreichischen Staatspreis für europäische Literatur. Sie lebt mit ihrer Familie in London.
 Jackie Thomae, geb. 1972 in Halle (Saale) ist eine deutsche Journalistin und Schriftstellerin. Ihr mit Heike Blümner geschriebenes Ratgeberbuch „Eine Frau – ein Buch“ wurde ein Bestseller. 2015 erschien der erste Roman „Momente der Klarheit.“ 2020 erhielt Thomae für ihren 2019 erschienenen Roman „Brüder“ den Düsseldorfer Literaturpreis."
-image = "https://imgproxy.berlinonline.net/vn6O__Y9MmUz_hJ9ZkOjHbfbQuXUjzfz9qUhh35pQJ4/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023101602/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgyL2I3NGM3YmI3LWVkNzMtN2I2OC04YzUyLTVmOWEzZjhkZDU5MC5qcGc.png"
+image = "https://imgproxy.berlinonline.net/qJtmwu473QYDvrPLiPo6tUNASlTAw1u3leavvQLEu8k/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023102711/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgyL2I3NGM3YmI3LWVkNzMtN2I2OC04YzUyLTVmOWEzZjhkZDU5MC5qcGc.png"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/zadie-smith-betrug.webp"
 start_date = "2023-11-01T00:00:00.000"
 end_date = "2023-11-01T00:00:00.000"
 category = "Literatur"
 organizer = "Mittwoch, 01. November 2023, 20:00 Uhr"
-updated = "2023-10-16T00:40:10.000"
+updated = "2023-10-27T09:21:39.000"
 languages = []
 [contact]
 [location]
