@@ -16,7 +16,7 @@ start_date = "2023-10-12T18:00:00.000"
 end_date = "2023-10-12T20:00:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-10-27T09:16:28.000"
+updated = "2023-10-30T00:29:45.000"
 image = "https://info.rosalux.de/image/event/nejnv?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/wir-nennen-es-revolution-transnationaler-aktivismus-in-berlin.webp"
 languages = []

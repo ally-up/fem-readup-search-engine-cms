@@ -17,7 +17,7 @@ start_date = "2023-11-07T10:00:00.000"
 end_date = "2023-11-08T18:00:00.000"
 category = "Seminar"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-10-27T09:17:24.000"
+updated = "2023-10-30T00:30:41.000"
 languages = []
 [contact]
 [location]

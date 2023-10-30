@@ -12,10 +12,12 @@ start_date = "2023-11-19T16:00:00.000"
 end_date = "2023-11-19T16:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Novilla (Hasselwerder Villa)"
-updated = "2023-10-27T09:24:29.000"
+updated = "2023-10-30T00:36:30.000"
 languages = []
 [contact]
 location_street = "Hasselwerderstraße 22"
 location_city = " 12439 Berlin-Köpenick"
 [location]
+location_street = "Hasselwerderstraße 22"
+location_city = " 12439 Berlin-Köpenick"
 +++

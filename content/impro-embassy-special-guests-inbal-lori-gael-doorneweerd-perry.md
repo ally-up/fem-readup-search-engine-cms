@@ -6,13 +6,13 @@ type = "event"
 title = "Impro Embassy - Special Guests: Inbal Lori + Gael Doorneweerd-Perry"
 subtitle = "Special Guest: Amy Jane"
 description = "A combo of Beatrix Brunschko (Austria), Nele Kießling (Germany) and Rama Nicholas (Australia). A combo of feminism, the topic of sex and sexuality and performing arts. A combo of personal confessions, playful movement meetings and foremost improvisation.In English."
-image = "https://imgproxy.berlinonline.net/C9q1qkQRzM9-VcWuclY3UHR6TpTwAJLlBsdo_280wFw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023102711/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE5My8wMDMxNGExNi1kMDE1LTM1MDktM2JjMS04NGE0ODJkMTJiZjgucG5n.jpg"
+image = "https://imgproxy.berlinonline.net/e7zXZmxbMKb6kpxUz36XychA5nxI7fx9isSWb6ORVio/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023103001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE5My8wMDMxNGExNi1kMDE1LTM1MDktM2JjMS04NGE0ODJkMTJiZjgucG5n.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/impro-embassy-special-guests-inbal-lori-gael-doorneweerd-perry.webp"
 start_date = "2023-11-16T00:00:00.000"
 end_date = "2023-11-16T00:00:00.000"
 category = "Theater"
 organizer = "Donnerstag, 16. November 2023, 20:30 Uhr"
-updated = "2023-10-27T09:24:20.000"
+updated = "2023-10-30T00:36:20.000"
 languages = []
 [contact]
 [location]
