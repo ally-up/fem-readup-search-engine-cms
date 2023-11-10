@@ -5,15 +5,17 @@ url = "https://www.berlin.de/tickets/bildung-vortraege/jenseits-der-norm-ein-que
 type = "event"
 title = "Jenseits der Norm? Ein queerer Blick auf Geschlechter und Sexualitäten in der ethnologischen Sammlung"
 subtitle = "Karte"
-description = "Im dialogischen Rundgang durch die Neupräsentation der Sammlungen des Ethnologischen Museums erhalten Sie Einblicke in vielfältige Geschlechterrollen, Beziehungsformen und Sexualitäten rund um den Globus.Beleuchtet werden gesellschaftliche Normen, Initiationsrituale und der Umgang mit dem jeweilig anderem Verhalten.Zudem werden Schlaglichter auf koloniale Sammelpraxen und Forschung geworfen und die Etablierung von Geschlechternarrativen im musealen Kontext kritisch thematisiert.- 8,00 EUR pro Person- Bitte buchen Sie die Führung online oder im Foyer- ab 14 Jahre. Sprache: Deutsch- 2. OG, 3. OG- Gruppengröße: max. 15 Personen"
-start_date = "2023-10-22T17:30:00.000"
-end_date = "2023-10-22T17:30:00.000"
+description = "Im dialogischen Rundgang durch die Neupräsentation der Sammlungen des Ethnologischen Museums erhalten Sie Einblicke in vielfältige Geschlechterrollen, Beziehungsformen und Sexualitäten rund um den Globus.Beleuchtet werden gesellschaftliche Normen, Initiationsrituale und der Umgang mit dem jeweilig anderem Verhalten.Zudem werden Schlaglichter auf koloniale Sammelpraxen und Forschung geworfen und die Etablierung von Geschlechternarrativen im musealen Kontext kritisch thematisiert. Weitere Informationen:- 8,00 EUR pro Person für die öffentliche Führung. Bitte buchen Sie die Führung online oder im Foyer im Humboldt Forum- Angebot für Gruppen: 160,00 EUR. Bitte erfragen Sie Termine und buchen Sie die Führung telefonisch unter +49 30 99 211 89 89 oder via E-Mail an .- ab 14 Jahre- Sprache: Deutsch- 2. OG, 3. OG- Gruppengröße: max. 20 Personen Barrierefreie Parkplätze stehen südlich des Humboldt Forums auf dem Schlossplatz zur Verfügung. Weitere Informationen finden Sie hier.Öffentlicher Nahverkehr: U-Bahn Museumsinsel (U5) 1 Min zu Fuß; S/U Alexanderplatz 15 Min zu Fuß; S-Bhf Hackescher Markt 10 Min zu Fuß, Bus 100, 200, 300, 147, N5"
+start_date = "2023-12-03T17:30:00.000"
+end_date = "2023-12-03T17:30:00.000"
 category = "Bildung & Vorträge"
 organizer = "Humboldt Forum"
-updated = "2023-10-13T09:36:27.000"
+updated = "2023-11-10T09:17:34.000"
 languages = []
 [contact]
 location_street = "Schloßplatz"
 location_city = " 10178 Berlin-Mitte"
 [location]
+location_street = "Schloßplatz"
+location_city = " 10178 Berlin-Mitte"
 +++

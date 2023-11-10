@@ -12,7 +12,7 @@ start_date = "2023-11-19T16:00:00.000"
 end_date = "2023-11-19T16:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Novilla (Hasselwerder Villa)"
-updated = "2023-10-30T00:36:30.000"
+updated = "2023-11-10T09:16:08.000"
 languages = []
 [contact]
 location_street = "Hasselwerderstraße 22"
