@@ -23,7 +23,7 @@ start_date = "2023-11-16T14:00:00.000"
 end_date = "2023-11-16T17:00:00.000"
 category = "Tagung/Konferenz"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-11-10T09:13:43.000"
+updated = "2023-11-13T00:31:10.000"
 image = "https://info.rosalux.de/image/event/xieiu?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/1973-zwischen-euphorie-und-trauer-teil-1-das-jahr-der-x-weltfestspiele.webp"
 languages = []

@@ -10,7 +10,7 @@ start_date = "2023-12-07T19:00:00.000"
 end_date = "2023-12-07T21:00:00.000"
 category = "Diskussionsreihe"
 organizer = "Landesstiftung Berlin (Bildungswerk)"
-updated = "2023-11-10T09:12:45.000"
+updated = "2023-11-13T00:30:06.000"
 languages = ["Deutsch"]
 [contact]
 [location]

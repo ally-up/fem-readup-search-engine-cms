@@ -10,11 +10,11 @@ Dass es sich bei diesen Verwandlungen auch um ein maskiertes Spiel mit Geschlech
 Für seine Inszenierung ugly duckling wurde Bastian Kraft 2019 von Travestie für Deutschland mit dem Ehrenstöckel ausgezeichnet.
 Alle Vorstellungen werden mit englischen Übertiteln gezeigt.
 Hinweis: In der Vorstellung wird Stroboskop-Licht eingesetzt."
-image = "https://imgproxy.berlinonline.net/aygYAp_dAg6G5cdbZujgT5cgROR3V17OYSHCC8gZy7c/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023111010/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzUyL2EyYThjODcwLWU3ODYtOWZlZS04NjM0LTJjZjI4MmFmZjM5ZS5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/K4DkY5soBb3JVRivoXSFjwvqfblXUL2-SxYzqxGEidg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023111301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzUyL2EyYThjODcwLWU3ODYtOWZlZS04NjM0LTJjZjI4MmFmZjM5ZS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/ugly-duckling.webp"
 category = "Theater"
 organizer = "Dienstag, 21. November 2023, 20:00 Uhr"
-updated = "2023-11-10T09:16:14.000"
+updated = "2023-11-13T00:33:47.000"
 languages = []
 [contact]
 [location]

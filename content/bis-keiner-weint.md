@@ -11,13 +11,13 @@ In ihrer Verzweiflung lädt Vanessa ein bunt zusammengewürfeltes Kreativ-Team z
 Das Autor*innen-Trio Constanze Behrends, Franziska Kuropka und Lukas Nimscheck stellt in BIS KEINER WEINT eine der aktuellsten Fragen in der Kulturbranche: Wie korrekt muss Entertainment heute sein – und wann verliert es dadurch an Gehalt? Entstanden ist ein musikalisch-politischer Spagat zwischen Kunst und Korrektheit – mit märchenhaften Musicalsongs, scharfen Pointen und klarer Haltung.
 MITTara Friese, Laura Goblirsch, Nathan Johns, Fabio Kopf, Anna-Sophie Weidinger sowie den Musiker*innen Tobias Bartholmeß/Markus Syperek, Oliver Busch, Lorraine Buzea, Jo Gehlmann, Jessica Ling, Leonardo von Papp
 KOMPOSITIONLukas NimscheckBUCHConstanze Behrends & Franziska KuropkaSONGTEXTEFranziska KuropkaREGIEMathias NoackMUSIKAL. ARRANGEMENTSMarkus SyperekMUSIKALISCHE LEITUNGTobias Bartholmeß/Markus SyperekCHOREOGRAFIESabine HackSTEPCHOREOGRAFIE Marie-Christine Zeisset"
-image = "https://imgproxy.berlinonline.net/7DExjM2unu26TrnZebuFM6z6kgAiKsRqpjcL5rc9WfQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023111010/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEzMC8wYWZmYzU0NC05ZTA0LTRjZjQtODA4Mi0yMTUxYjY3YjQzZDkuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/vdC6hR7CZ5TbQU00qXME4RBhcgpO_x5r8ohJ9Y3ukPA/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023111301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEzMC8wYWZmYzU0NC05ZTA0LTRjZjQtODA4Mi0yMTUxYjY3YjQzZDkuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/bis-keiner-weint.webp"
 start_date = "2023-11-25T20:00:00.000"
 end_date = "2023-11-25T20:00:00.000"
 category = "Musical"
 organizer = "Neuköllner Oper - Saal/Studio"
-updated = "2023-11-10T09:17:04.000"
+updated = "2023-11-13T00:34:43.000"
 languages = []
 [contact]
 location_street = "Karl-Marx-Straße 131"
