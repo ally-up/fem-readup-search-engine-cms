@@ -11,12 +11,12 @@ Das Ausstellungsprojekt „The Great Repair“ diskutiert die Widersprüche zwis
 Im Rahmen eines begleitenden Workshop-Programms erörtern und vertiefen Beteiligte der Ausstellung mit Besucher*innen diese Politiken einer Reparaturgesellschaft.
 Beteiligte:Assemble, Kader Attia, Atelier Bow-Wow, Brenne Architekten mit Jana Hainbach / TU München & HfBK Dresden und dem AdK Baukunstarchiv, Manuel Chavajay, Santiago del Hierro mit AWAI und Cabildo Inga de Mocoa, Kathrin Dörfler, Edit, Anna Heringer, Florian Hertweck / Master Architektur, Universität Luxembourg, Manuel Herz, Hans Hortig, Interboro, Folke Köbberling & Martin Kaltwasser, Lacaton & Vassal, Mierle Laderman Ukeles/Bettina Knaup, Silke Langenberg, Limbo Accra, Charlotte Malterre-Barthes, Mapping Ukraine ETH Zürich, Material Cultures, Riccardo McAvinue / Kleine Gebäudereinigung, Ana Miljački, Sarah Nichols, Fuminori Nousaku & Mio Tsuneyama, Marjetica Potrč, Bas Princen, Maksym Rokmaniko / Center for Spatial Technologies, Sakiya, Alexander Stumm, Paulo Tavares, Milica Topalović / Architecture of Territory ETH Zürich, UVW-SAW, Michael Wolf, ZAS* u. a.
 Eintritt: 9 Euro, ermäßigt 6 Euro (bis 18 Jahre Eintritt frei)"
-image = "https://imgproxy.berlinonline.net/5LnnI0upmp4pQ7lLBMWxtzYf7zIj8lQns4KFokfST0s/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023111301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzQwLzA5ZjM5OTI5LWMxODAtNDlkOS1iMDI4LWMwMDhmMmY2ZTdjZS5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/vb8tzEgBB5KMiu4QiQicNBLClOlNJ_H-AyUKGBfVWF4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023112701/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzQwLzA5ZjM5OTI5LWMxODAtNDlkOS1iMDI4LWMwMDhmMmY2ZTdjZS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/the-great-repair.webp"
 start_date = "2023-10-14T00:00:00.000"
 end_date = "2024-01-14T00:00:00.000"
 category = "Ausstellungen"
-updated = "2023-11-13T00:31:57.000"
+updated = "2023-11-27T00:32:17.000"
 languages = []
 [contact]
 [location]

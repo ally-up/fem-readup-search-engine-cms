@@ -15,13 +15,13 @@ Abendzettel UND SICHER IST MIT MIR DIE WELT VERSCHWUNDEN
 {preview_thumbnail:/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/F2_p0jxcdjA.jpg?itok=4cuUKvfS,video_url:,settings:{responsive:1,width:854,height:480,autoplay:0},settings_summary:[Eingebettetes Video (Responsiv).]}
 Foto: Esra RotthoffBühnenfotos: Ute Langkafel"
 {preview_thumbnail:/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/F2_p0jxcdjA.jpg?itok = "4cuUKvfS,video_url:,settings:{responsive:1,width:854,height:480,autoplay:0},settings_summary:[Eingebettetes Video (Responsiv).]}"
-image = "https://imgproxy.berlinonline.net/Hmer7MCWZlJPLCHiIO9tvXD0mEKZKqzfcXaRYE40lpw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023111301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM5L2E0ZjEyMzk3LTk1ODQtNTY1MC01YzI3LTVkYjUxODQxYzkyZi5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/BJzn2isS5KQtbBElLQdHrqs8okQuf2D2_AaOlK9A0_w/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023112701/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM5L2E0ZjEyMzk3LTk1ODQtNTY1MC01YzI3LTVkYjUxODQxYzkyZi5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/und-sicher-ist-mit-mir-die-welt-verschwunden.webp"
 start_date = "2023-10-15T19:30:00.000"
 end_date = "2023-10-15T19:30:00.000"
 category = "Theater"
-organizer = "Mittwoch, 15. November 2023, 19:30 Uhr"
-updated = "2023-11-13T00:32:34.000"
+organizer = "Samstag, 23. Dezember 2023, 19:30 Uhr"
+updated = "2023-11-27T00:35:52.000"
 languages = []
 [contact]
 [location]

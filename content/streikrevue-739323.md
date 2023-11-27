@@ -17,7 +17,9 @@ start_date = "2023-11-28T19:00:00.000"
 end_date = "2023-11-28T21:00:00.000"
 category = "Diskussion/Vortrag"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-11-13T00:31:18.000"
+updated = "2023-11-27T00:31:31.000"
+image = "https://info.rosalux.de/image/event/ehvgx?type=2"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/streikrevue-739323.webp"
 languages = []
 [contact]
 [location]
