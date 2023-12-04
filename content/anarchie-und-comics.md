@@ -12,10 +12,12 @@ start_date = "2023-12-15T19:00:00.000"
 end_date = "2023-12-15T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Bibliothek der Freien"
-updated = "2023-11-27T00:35:09.000"
+updated = "2023-12-04T00:33:56.000"
 languages = []
 [contact]
 location_street = "Greifswalder Straße 4"
 location_city = " 10405 Berlin-Prenzlauer Berg"
 [location]
+location_street = "Greifswalder Straße 4"
+location_city = " 10405 Berlin-Prenzlauer Berg"
 +++

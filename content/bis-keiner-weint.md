@@ -11,13 +11,13 @@ In ihrer Verzweiflung lädt Vanessa ein bunt zusammengewürfeltes Kreativ-Team z
 Das Autor*innen-Trio Constanze Behrends, Franziska Kuropka und Lukas Nimscheck stellt in BIS KEINER WEINT eine der aktuellsten Fragen in der Kulturbranche: Wie korrekt muss Entertainment heute sein – und wann verliert es dadurch an Gehalt? Entstanden ist ein musikalisch-politischer Spagat zwischen Kunst und Korrektheit – mit märchenhaften Musicalsongs, scharfen Pointen und klarer Haltung.
 MITTara Friese, Laura Goblirsch, Nathan Johns, Fabio Kopf, Anna-Sophie Weidinger sowie den Musiker*innen Tobias Bartholmeß/Markus Syperek, Oliver Busch, Lorraine Buzea, Jo Gehlmann, Jessica Ling, Leonardo von Papp
 KOMPOSITIONLukas NimscheckBUCHConstanze Behrends & Franziska KuropkaSONGTEXTEFranziska KuropkaREGIEMathias NoackMUSIKAL. ARRANGEMENTSMarkus SyperekMUSIKALISCHE LEITUNGTobias Bartholmeß/Markus SyperekCHOREOGRAFIESabine HackSTEPCHOREOGRAFIE Marie-Christine Zeisset"
-image = "https://imgproxy.berlinonline.net/TyLLmYkaiaPDexfBWz_7mvf895DbMKm50MdZ4NK8Y0I/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023112701/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0Ni8yNmQ3Yjc1Yi1iMzE0LTgzYTktNDNmNi1mMWE1OWJkMDBjMDYuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/2w-5t3VuV2o5EC24iLUaWSRbcgeMTXv5Go085_ofTdg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023120401/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0Ni8yNmQ3Yjc1Yi1iMzE0LTgzYTktNDNmNi1mMWE1OWJkMDBjMDYuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/bis-keiner-weint.webp"
-start_date = "2023-12-01T20:00:00.000"
-end_date = "2023-12-01T20:00:00.000"
+start_date = "2023-12-09T20:00:00.000"
+end_date = "2023-12-09T20:00:00.000"
 category = "Musical"
 organizer = "Neuköllner Oper - Saal/Studio"
-updated = "2023-11-27T00:33:24.000"
+updated = "2023-12-04T00:32:51.000"
 languages = []
 [contact]
 location_street = "Karl-Marx-Straße 131"

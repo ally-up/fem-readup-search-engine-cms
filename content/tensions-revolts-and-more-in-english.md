@@ -6,16 +6,18 @@ type = "event"
 title = "Tensions, Revolts, and More (in English)"
 subtitle = "Karte"
 description = "What makes the collection of the National Gallery so special? What traces of history can be found? The broad spectrum of art since 1945 is shown in 14 thematic rooms. From abstraction and figuration, everyday life and pop, nature and ecology to feminism and identity. Together, immerse yourself in the works in a dialogical guided tour. Participation fee including admission: € 15Participation fee with valid admission ticket (annual pass, sponsoring association, ICOM, etc.), entitlement to discount or free admission: € 10"
-image = "https://imgproxy.berlinonline.net/ICO52nxiCp33EOK_4wWYdYfRkbwUQ_YyTT-jI5KOXXw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023112701/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIzMS9kMmQyYjZlOC1lMGUwLTUyNjItN2RlNy04NjY5ZTQ3OWU1M2YuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/FzLrEFA-PGt7WII0W4gEJk7Al00EZHNtmYo2k17Yhm8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023120401/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIzMS9kMmQyYjZlOC1lMGUwLTUyNjItN2RlNy04NjY5ZTQ3OWU1M2YuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/tensions-revolts-and-more-in-english.webp"
-start_date = "2023-12-03T12:00:00.000"
-end_date = "2023-12-03T12:00:00.000"
+start_date = "2023-12-10T12:00:00.000"
+end_date = "2023-12-10T12:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Neue Nationalgalerie"
-updated = "2023-11-27T00:33:42.000"
+updated = "2023-12-04T00:32:55.000"
 languages = []
 [contact]
 location_street = "Potsdamer Straße 50"
 location_city = " 10785 Berlin-Tiergarten"
 [location]
+location_street = "Potsdamer Straße 50"
+location_city = " 10785 Berlin-Tiergarten"
 +++

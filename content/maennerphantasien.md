@@ -12,15 +12,17 @@ Denn: Während das Ideal vom „starken Mann“ einerseits überholt scheint, br
 Wie wirken Theweleits Texte heute? Welche Anknüpfungspunkte bieten sie? Um das zu ergründen, haben die Dramatikerinnen Svenja Viola Bungarten, Ivana Sokola und Gerhild Steinbuchdie Männerphantasien textlich ergänzt und aus heutigen, weiblichen Perspektiven weitergedacht.
 Gerhild Steinbuchs Text portraitiert in poetischer Sprache eine Tätermutter: eine Frau, deren Sohn sexualisierte Gewalt gegen Frauen ausübt, der zum Täter wird und damit das Selbst- und Fremdbild seiner Mutter erschüttert. In Ivana Sokolas Beitrag befragt ein erschöpfter Männersprechchor die eigene Zugehörigkeit in der Gesellschaft und sucht zwischen Gesangsverein, freiwilliger Feuerwehr und Angelurlaub nach seinem Platz. Svenja Viola Bungarten beschäftigt sich mit den rechten Rändern der Internetkultur: in ihrem Text berichtet eine Influencerin ihren Followern von ihrer persönlichen Verwandlung – von raging feminist zu trad wife.
 Auf Grundlage von Klaus Theweleits gleichnamigem Buch mit neuen Texten von Svenja Viola Bungarten, Ivana Sokola und Gerhild Steinbuch"
-image = "https://imgproxy.berlinonline.net/hIHsZ1ksXnV1MqLj5gjo4UJvm4IxEN0VmMkTKI2umY4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023112701/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzE5My9lZDNhMTA4NS0wMWM4LTQ1Y2QtODdjMS1mNDZlMTZiYjQ2NTEuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/EEfwH6DoUEMk05VUV1f_CvRYgSU6BjCUCdxSWx7OfmI/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2023120401/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzE5My9lZDNhMTA4NS0wMWM4LTQ1Y2QtODdjMS1mNDZlMTZiYjQ2NTEuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/maennerphantasien.webp"
-start_date = "2023-12-01T19:30:00.000"
-end_date = "2023-12-01T19:30:00.000"
+start_date = "2023-12-10T19:00:00.000"
+end_date = "2023-12-10T19:00:00.000"
 category = "Theater"
-organizer = "Freitag, 01. Dezember 2023, 19:30 Uhr"
-updated = "2023-11-27T00:33:10.000"
+organizer = "Deutsches Theater Berlin - Box und Bar"
+updated = "2023-12-04T00:33:08.000"
 languages = []
 [contact]
+location_street = "Schumannstraße 13 A"
+location_city = " 10117 Berlin-Mitte"
 [location]
 location_street = "Schumannstraße 13 A"
 location_city = " 10117 Berlin-Mitte"

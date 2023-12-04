@@ -9,7 +9,6 @@ description = "[
 Nach den Neuwahlen im Mai 1981 übernahm die CDU in West-Berlin die Regierungsgeschäfte. Eine ihrer ersten Entscheidung war es, das Migrationsrecht einzuschränken. Wer arbeitslos geworden war, sollte ins Herkunftsland abgeschoben werden. Diese Verschärfung stieß auf den Widerstand organisierter Migrant*innen und ihrer Verbündeten. 
 Der Fotograf Jürgen Henschel dokumentierte Demonstrationen und Kulturveranstaltungen türkeistämmiger Aktivist*innen, für die Berlin längst zur Heimat geworden war. Ihre Kämpfe sind ein wichtiger Teil der deutschen Geschichte, dennoch ist dieses Kapitel vielen bis heute unbekannt. Mit Henschels Bildern zeigt die Ausstellung «Wir sind keine Rausländer», wie sich türkeistämmige Berliner*innen als politische Akteure in die Politik einmischten und progressiven Widerstand leisteten. In die Türkei zurückzukehren, wo die wirtschaftliche Krise und politische Repression täglich zunahmen, war für sie keine Option. Stattdessen kamen über den Familiennachzug zwischen 1977 und 1980 rund 30.000 Angehörige nach Berlin, darunter vor allem Jugendliche. Fehlende Investitionen im Bildungssektor riefen die Gewerkschaften und Elternvertretungen auf den Plan, die sich sowohl für Unterricht in der Muttersprache als auch für eine ausreichende Anzahl an Deutschkursen einsetzten. Auch türkische Faschisten und Islamisten organisierten sich in West-Berlin. Der Gewerkschafter und Kommunist Celalettin Kesim starb am 5. Januar 1980 an den Folgen eines faschistischen Angriffs.
 Die zweisprachige Ausstellung gewährt einen Einblick in die politische Organisierung und das kulturelle Leben türkeistämmiger Menschen im West-Berlin der 1970er und 1980er Jahre. Die gegenwärtigen Debatten um das Recht auf Migration und eine große Fluchtbewegung aus der Türkei zeigen die Aktualität dieser Themen – und die Notwendigkeit von organisiertem, antirassistischem Widerstand.
-VERNISSAGE | 27.9.2023, 18 UhrMit Daniela Trochowski (Geschäftsführerin der Rosa-Luxemburg-Stiftung), Svenja Huck (Kuratorin) und Murat Çakır (Zeitzeuge und Leiter der Rosa-Luxemburg-Stiftung Hessen).Musik: M. Mert Güney
 «Wir sind keine Rausländer»
 Batı Berlin'deki Türkiyeli göçmenlerin siyasi mücadeleleri
 1981 Mayıs’ındaki seçimlerden sonra CDU Batı Berlin’de hükümet oldu. İlk kararlarından birisi ise göç hukukunu kısıtlamak oldu. İşsiz kalanlar sınır dışı edilerek kendi ülkelerine gönderilecekti. Bu sertleştirme örgütlü göçmenler ve müttefikleri tarafından direniş karşılandı. 
@@ -21,7 +20,7 @@ start_date = "2023-09-27T18:00:00.000"
 end_date = "2024-01-24T18:00:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-09-25T00:32:09.000"
+updated = "2023-12-04T00:31:11.000"
 languages = []
 [contact]
 [location]

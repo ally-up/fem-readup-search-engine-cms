@@ -9,14 +9,15 @@ description = "Kliniken sind am Limit. Menschen sterben, weil am Personal gespar
 Wir sind ein Kollektiv aus Krankenhausbeschäftigten aus ganz Deutschland, die angesichts der eigenen Arbeitserfahrungen nicht länger still sein können. Uns eint der Wunsch, das Gesundheitssystem von Grund auf zu verändern, um endlich wieder unserem professionellen Anspruch und den Bedürfnissen unserer Patient*innen gerecht zu werden. Wir kämpfen für eine Aufwertung sorgender Berufe und dagegen, dass mit Gesundheit Profitegemacht werden.
 Die Veranstaltung wird organisiert von Beschäftigten im Krankenhaus, dem Berliner Bündnis 
 Mit Live-Musik von «Walk of Care».
-Eintritt: 8 Euro / erm. 5 Euro"
+Eintritt: 8 Euro / erm. 5 Euro
+Tickets auf der"
 image = "https://info.rosalux.de/image/event/rdty6?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/schwarzbuch-krankenhaus.webp"
 start_date = "2023-12-06T19:30:00.000"
 end_date = "2023-12-06T22:00:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-11-27T00:31:52.000"
+updated = "2023-12-04T00:30:55.000"
 languages = []
 [contact]
 [location]
