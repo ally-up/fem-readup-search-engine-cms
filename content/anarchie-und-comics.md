@@ -12,7 +12,7 @@ start_date = "2023-12-15T19:00:00.000"
 end_date = "2023-12-15T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Bibliothek der Freien"
-updated = "2023-12-04T00:33:56.000"
+updated = "2023-12-11T00:33:49.000"
 languages = []
 [contact]
 location_street = "Greifswalder Straße 4"

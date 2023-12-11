@@ -10,7 +10,7 @@ Ermäßigter Preis: 5,00 €"
 start_date = "2023-10-20T00:00:00.000"
 end_date = "2024-01-14T00:00:00.000"
 category = "Ausstellungen"
-updated = "2023-12-04T00:31:33.000"
+updated = "2023-12-11T00:32:44.000"
 languages = []
 [contact]
 [location]

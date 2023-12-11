@@ -10,7 +10,7 @@ start_date = "2023-12-20T17:30:00.000"
 end_date = "2023-12-20T17:30:00.000"
 category = "Bildung & Vorträge"
 organizer = "Humboldt Forum"
-updated = "2023-12-04T00:34:30.000"
+updated = "2023-12-11T00:34:58.000"
 languages = []
 [contact]
 location_street = "Schloßplatz"

@@ -13,7 +13,7 @@ organizer = "Volksbühne am Rosa-Luxemburg-Platz - Großes Haus"
 updated = "2023-11-27T00:32:44.000"
 languages = []
 [contact]
+[location]
 location_street = "Rosa-Luxemburg-Platz"
 location_city = " 10178 Berlin-Mitte"
-[location]
 +++
