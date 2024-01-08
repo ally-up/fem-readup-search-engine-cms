@@ -10,10 +10,12 @@ start_date = "2024-01-22T19:30:00.000"
 end_date = "2024-01-22T19:30:00.000"
 category = "Bildung & Vorträge"
 organizer = "Ballhaus Ost"
-updated = "2024-01-05T07:48:44.000"
+updated = "2024-01-08T00:34:37.000"
 languages = []
 [contact]
 location_street = "Pappelallee 15 A"
 location_city = " 10437 Berlin-Prenzlauer Berg"
 [location]
+location_street = "Pappelallee 15 A"
+location_city = " 10437 Berlin-Prenzlauer Berg"
 +++

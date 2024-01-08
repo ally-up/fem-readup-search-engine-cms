@@ -10,10 +10,12 @@ start_date = "2024-01-29T19:00:00.000"
 end_date = "2024-01-29T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Theater an der Parkaue - Bühne 3"
-updated = "2024-01-05T07:49:29.000"
+updated = "2024-01-08T00:35:20.000"
 languages = []
 [contact]
 location_street = "Parkaue 29"
 location_city = " 10367 Berlin-Lichtenberg"
 [location]
+location_street = "Parkaue 29"
+location_city = " 10367 Berlin-Lichtenberg"
 +++

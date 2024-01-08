@@ -10,10 +10,12 @@ start_date = "2024-01-26T20:00:00.000"
 end_date = "2024-01-26T20:00:00.000"
 category = "Vermischtes"
 organizer = "C/O Berlin (im Amerika-Haus)"
-updated = "2024-01-05T07:49:26.000"
+updated = "2024-01-08T00:35:18.000"
 languages = []
 [contact]
 location_street = "Hardenbergstraße 22"
 location_city = " 10623 Berlin-Charlottenburg"
 [location]
+location_street = "Hardenbergstraße 22"
+location_city = " 10623 Berlin-Charlottenburg"
 +++

@@ -22,11 +22,11 @@ Mit unserer 10er-Karte erhalten Sie zu jeder zehnten Vorstellung an der Abendkas
 TANZCARD
 Mit der Tanzcard erhalten Sie 20% Ermäßigung auf den regulären Eintrittspreis von Tanzveranstaltungen. Weitere Informationen zur Tanzcard erhalten Sie hier.
 KINDER BIS 12 JAHRE zahlen 5 Euro"
-image = "https://imgproxy.berlinonline.net/5_0Mw0B0GHh2LCgOk7P4bRIVF4iY9fddzvJKMfCYMA4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024010508/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyLzIxMDkzYTJmLTViODItMTNkMy0xMjE2LTE2N2ZjMmFiNGViYi5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/ygnJByyS0Qh4l4ujN3tMlBDsLd9pnE1pYdZQLGvrtZs/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024010801/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyLzIxMDkzYTJmLTViODItMTNkMy0xMjE2LTE2N2ZjMmFiNGViYi5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/makisig-akin-anya-cloud-the-love-makers-company-we-are-nothing-everything.webp"
 category = "Tanz"
 organizer = "Donnerstag, 18. Januar 2024, 20:00 Uhr"
-updated = "2024-01-05T07:48:28.000"
+updated = "2024-01-08T00:34:21.000"
 languages = []
 [contact]
 [location]
