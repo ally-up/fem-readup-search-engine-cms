@@ -10,7 +10,7 @@ start_date = "2024-01-29T19:00:00.000"
 end_date = "2024-01-29T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Theater an der Parkaue - Bühne 3"
-updated = "2024-01-15T00:35:51.000"
+updated = "2024-01-22T00:34:36.000"
 languages = []
 [contact]
 location_street = "Parkaue 29"
