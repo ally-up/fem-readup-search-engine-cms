@@ -16,12 +16,12 @@ Freier Eintritt an jedem ersten Sonntag im Monat (Museumssonntag).Bitte beachten
 Preis: 10,00 €
 Ermäßigter Preis: 4,00 €
 Informationen zum ermäßigten Preis: Der ermäßigte Eintritt gilt für Schüler*innen, Studierende, Rentner*innen, Schwerbehinderte, Inhaber*innen von artCard."
-image = "https://imgproxy.berlinonline.net/VqTptwxOWei0ZBWQpMmllbvZM9WsuYH5pTS4ZuNk-r8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024012201/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxNS84M2NmMTIyNC03ZDI5LTE2M2MtMTFkNy1kYjA4NTZiNjQyY2MuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/czOr7ZcaaNtnDMHQOGUlpBJZ50kKYNhhviz9-UShcR4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024012901/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxNS84M2NmMTIyNC03ZDI5LTE2M2MtMTFkNy1kYjA4NTZiNjQyY2MuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/poly-a-fluid-show.webp"
 start_date = "2023-09-17T00:00:00.000"
 end_date = "2024-02-25T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-01-22T00:33:24.000"
+updated = "2024-01-29T00:30:30.000"
 languages = []
 [contact]
 [location]

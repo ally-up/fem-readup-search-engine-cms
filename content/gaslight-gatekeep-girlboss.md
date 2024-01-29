@@ -10,8 +10,8 @@ start_date = "2024-02-10T20:00:00.000"
 end_date = "2024-02-10T20:00:00.000"
 category = "Filmveranstaltungen"
 organizer = "Digitales Event"
-updated = "2024-01-22T00:35:40.000"
-image = "https://imgproxy.berlinonline.net/BVu1UvEkijvwWwwh9A-OfwQHUZkO8yX5C0xeSEHqQbQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024012201/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE0Ny82ZWRlYWViMS1kMGIzLTEwMGEtNmU5My0yMTQ5YTNkMWIwMzkucG5n.jpg"
+updated = "2024-01-29T00:32:40.000"
+image = "https://imgproxy.berlinonline.net/gf1NYNaXTJR1ERALsSfNrBW8JG-a0VQ5m5icuyfih-Q/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024012901/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE0Ny82ZWRlYWViMS1kMGIzLTEwMGEtNmU5My0yMTQ5YTNkMWIwMzkucG5n.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/gaslight-gatekeep-girlboss.webp"
 languages = []
 [contact]

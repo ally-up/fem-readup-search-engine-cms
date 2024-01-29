@@ -13,7 +13,7 @@ start_date = "2024-02-29T15:00:00.000"
 end_date = "2024-02-29T17:00:00.000"
 category = "Konzert"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-01-22T00:33:08.000"
+updated = "2024-01-29T00:30:13.000"
 languages = []
 [contact]
 [location]
