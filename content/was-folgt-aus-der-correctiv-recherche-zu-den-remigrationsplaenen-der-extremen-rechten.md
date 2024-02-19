@@ -15,7 +15,7 @@ start_date = "2024-02-07T19:00:00.000"
 end_date = "2024-02-07T21:00:00.000"
 category = "Diskussion/Vortrag"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-02-18T08:40:09.000"
+updated = "2024-02-19T00:30:21.000"
 subtitle = "Ein Gespräch mit David Begrich von Miteinander e. V. aus Magdeburg und Martina Renner (MdB).  Reihe:…"
 languages = []
 [contact]
