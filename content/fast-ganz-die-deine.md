@@ -10,8 +10,8 @@ start_date = "2024-03-09T20:00:00.000"
 end_date = "2024-03-09T20:00:00.000"
 category = "Theater"
 organizer = "Theater unterm Dach"
-updated = "2024-02-19T00:33:56.000"
-image = "https://imgproxy.berlinonline.net/EFpFiVhsmGAiS9IJQhf9YHtCcbgG2c-jPmrTz-flVTM/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024021901/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzQyLzFkMDk2ZmNkLTEzMTItNDQ2Ni0xMTJhLTlmNjBmODNjN2I5My5qcGc.jpg"
+updated = "2024-02-26T00:33:50.000"
+image = "https://imgproxy.berlinonline.net/7mH1UsxEZIvYIT2EqlXZrtQYyZTWecxU4BIgXvAdPNQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024022601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzQyLzFkMDk2ZmNkLTEzMTItNDQ2Ni0xMTJhLTlmNjBmODNjN2I5My5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/fast-ganz-die-deine.webp"
 languages = []
 [contact]

@@ -6,11 +6,11 @@ type = "event"
 title = "Ost*|West*|Frau* - Volksbühne am Rosa-Luxemburg-Platz"
 subtitle = "Karte"
 description = "Eine transgenerationale und feministische Momentaufnahme: Was hat unser Frau*sein mit Ost und West zu tun? Auf der Bühne begegnen sich Schriftsteller:innen, die durch die DDR respektive die BRD geprägt wurden. Eine vielstimmige und je subjektive Betrachtung der ost-westdeutschen Geschichte. Von Prägungen und Zuschreibungen, erzählt anhand eigener Biografien und der eigenen Intimität. Mit neuen Texten und im Dialog."
-image = "https://imgproxy.berlinonline.net/iqjB0hnkXr7lAYdn82O7xIWZZRbpt17-_IZDu-SEJmo/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024021901/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzc5Lzc0MjQzN2U1LTU3OWYtZjFlZi0yZjRmLTgxMzE3Zjg4NWYwYy5qcGc.png"
+image = "https://imgproxy.berlinonline.net/Czxa8oPBW2R3DQ-M57QdDfYC4lA-FrUZWT2eARDGDWE/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024022601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzc5Lzc0MjQzN2U1LTU3OWYtZjFlZi0yZjRmLTgxMzE3Zjg4NWYwYy5qcGc.png"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/ost-west-frau-volksbuehne-am-rosa-luxemburg-platz.webp"
 category = "Theater"
 organizer = "Freitag, 08. März 2024, 18:00 Uhr"
-updated = "2024-02-19T00:33:14.000"
+updated = "2024-02-26T00:33:25.000"
 languages = []
 [contact]
 [location]

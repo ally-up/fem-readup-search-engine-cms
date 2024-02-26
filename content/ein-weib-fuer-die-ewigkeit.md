@@ -12,7 +12,7 @@ start_date = "2024-02-29T15:00:00.000"
 end_date = "2024-02-29T17:00:00.000"
 category = "Konzert"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-02-19T00:30:25.000"
+updated = "2024-02-26T00:30:49.000"
 subtitle = "Reihe: Rendezvous"
 languages = []
 [contact]

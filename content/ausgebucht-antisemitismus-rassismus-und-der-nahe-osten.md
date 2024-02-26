@@ -17,7 +17,7 @@ start_date = "2024-02-12T10:00:00.000"
 end_date = "2024-02-13T18:00:00.000"
 category = "Seminar"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-02-19T00:30:23.000"
+updated = "2024-02-26T00:30:47.000"
 languages = []
 [contact]
 [location]

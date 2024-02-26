@@ -24,11 +24,11 @@ Eine Produktion im Rahmen des Festivals Postcolonial Poly Perspectives von Kultu
 Hinweise zu Ermäßigungen: Ermäßigte Tickets (8,- Euro) können, mit dem entsprechenden Nachweis, an unserer Abendkasse erworben oder auch vorher telefonisch unter 030 754 537 25 reserviert werden.
 Beim Kauf von Print@home-Tickets kann eine Bestellbestätigung nicht als Eintrittskarte akzeptiert werden. Bitte drucken Sie ihre Tickets selbst aus."
 Wenn wir uns erinnern - zugedeckt werden * Schaumtiere formen, viel Seife = "Sauberkeit * abgetrocknet werden * dick Butter aufs Brot * wenn wir wegfahren mit Tränen in den Augen * Unkraut jäten * Oh Gott, zwei verschiedene Socken * Nicht in ihre Haare fassen! Die Haare in Unordnung bringen! Und meine Haare? * Grüß die Nachbarn ordentlich! * Sie kann enttäuscht werden - oder war es damals anders?"
-image = "https://imgproxy.berlinonline.net/5m4spyx4kHFjRhC-56A3G3EoWO5z0DWNSY3Iwwz354A/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024021901/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzUwL2JkZDFhODkwLTM1NzYtMTIyYi04OTMyLTYzZGFiZDE5Y2FmNy5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/_Oy1dJn69UTaC7X89vldV32H-NKDtKktDMLaDdtOtqs/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024022601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzUwL2JkZDFhODkwLTM1NzYtMTIyYi04OTMyLTYzZGFiZDE5Y2FmNy5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/stricken.webp"
 category = "Theater"
 organizer = "Donnerstag, 14. März 2024, 20:00 Uhr"
-updated = "2024-02-19T00:34:21.000"
+updated = "2024-02-26T00:34:33.000"
 languages = []
 [contact]
 [location]

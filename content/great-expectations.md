@@ -10,7 +10,7 @@ start_date = "2024-03-01T20:00:00.000"
 end_date = "2024-03-01T20:00:00.000"
 category = "Vermischtes"
 organizer = "Volksbühne am Rosa-Luxemburg-Platz: Videothek"
-updated = "2024-02-19T00:32:15.000"
+updated = "2024-02-26T00:31:58.000"
 languages = []
 [contact]
 location_street = "Linienstraße 227"

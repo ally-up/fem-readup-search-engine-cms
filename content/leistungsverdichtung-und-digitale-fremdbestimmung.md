@@ -5,7 +5,7 @@ url = "https://rosalux.de/veranstaltung/es_detail/news_51617/leistungsverdichtun
 type = "event"
 title = "Leistungsverdichtung und digitale Fremdbestimmung"
 subtitle = "Zur Entwicklung von Qualitätsmanagement, Lean Production und Digitalisierung von Arbeit.  Reihe:…"
-description = "Die quot;Digitalisierung von Arbeitquot; ist in aller Munde - aber was 
+description = "Die quot;Digitalisierung von Arbeitquot; ist in aller Munde  aber was ist das eigentlich? Ausgehend von den betriebswirtschaftlichen Rationalitäten hinter der aktuellen Welle der Digitalisierung von Arbeit analysiert Adrian Mengay die Entstehung des Dispositivs einer Regierung der Qualität. Er zeichnet nach, wie das Qualitätsmanagement totalitär werden konnte und wie sich die damit einhergehende Aneignung und Standardisierung des Wissens und der Arbeit auf arbeitende Menschen auswirkt. Die Logiken einer immer effizienteren Produktion und einer euphemistisch beschriebenen quot;Reduzierung von Verschwendungquot; und die damit verbundenen Nachteile und Angriffe auf abhängig Beschäftigte verfolgt er in die Herausbildung von Ganzheitlichen Produktionssystemen, Lean Production und Digitalisierung von Arbeit und stellt seine Kritik der digitalen Arbeit und des damit verbundenen neoliberalen Projekts der Umgestaltung der Gesellschaft und der Aneignung von Arbeit im 21. Jahrhundert vor.
 Referent: 
 Moderation: 
 Helle Panke e.V.  Rosa-Luxemburg-Stiftung Berlin, Kopenhagener Str. 9, 10437 Berlin
@@ -14,7 +14,7 @@ start_date = "2024-03-06T19:00:00.000"
 end_date = "2024-03-06T21:00:00.000"
 category = "Diskussion/Vortrag"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-02-19T00:30:36.000"
+updated = "2024-02-26T00:31:00.000"
 languages = []
 [contact]
 [location]
