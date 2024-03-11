@@ -21,7 +21,7 @@ start_date = "2024-03-22T14:00:00.000"
 end_date = "2024-03-22T17:00:00.000"
 category = "Workshop"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-03-04T00:30:06.000"
+updated = "2024-03-11T00:30:49.000"
 languages = []
 [contact]
 [location]
