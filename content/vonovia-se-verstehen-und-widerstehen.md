@@ -10,6 +10,7 @@ Programm
 Freitag, 22. März 2024, 18:30 Uhr:
 Exorbitante Heizkosten bei Vonovia & Co – wie können wir uns schützen?
 Podiumsdiskussion mit Anna Wolff (Fachreferentin im DMB), Stefan Schetschorke (BMV Abteilungsleiter Recht), Jasmina Rühl (Mieterexpertin Vonovia Vernetzung), Reiner Wild (Klimaschutzrat Berlin) Moderation Ralf Hoffrogge von Deutsche Wohnen & Co Enteignen. (Einlass 18 Uhr)
+Die Abendveranstaltung wird per Video aufgezeichnet und 
 Samstag, 23. März 2024,ab 10Uhr:
 Konzernkritik und Mieterorganisierung
 Wir bitten die Teilnehmenden, uns vorab ihre Interessenschwerpunkte und Vorschläge mitzuteilen: 
@@ -32,7 +33,7 @@ start_date = "2024-03-22T18:30:00.000"
 end_date = "2024-03-23T17:00:00.000"
 category = "Tagung/Konferenz"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-03-11T00:30:52.000"
+updated = "2024-03-28T22:17:46.000"
 languages = []
 [contact]
 [location]

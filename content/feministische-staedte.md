@@ -7,11 +7,11 @@ title = "Feministische Städte"
 subtitle = "Einstieg in die feministische Geografie/Stadtforschung"
 description = "Was bietet der Workshop?
 Feministische Städte sind solche, die für alle Geschlechter gerechte Zugänge und Leben in der Stadt ermöglichen. Viele Städte und Stadtteile sind auf ihre eigene Art und Weise feministisch: ob es die Stadt der kurzen Wege ist, ein Markt der informellen Ökonomie, das Nachbarschaftszentrum im Zeichen der Stadtteilorganisierung oder der Kampf um bezahlbaren Wohnraum – all diese Kämpfe setzen an unterschiedlichen Ebenen an, und sind doch unter dem Begriff der feministischen Stadtpolitik zu fassen. Dabei stellt sichdie Frage: Für wen wurden die Städte gebaut und welche Zielsetzung steckt hinter der Stadtplanung, wie wir sie üblicherweise kennen und erleben? Welches Leben wird hier ermöglicht – und welches nicht? 
-Entdecke mit einer interaktiven Karte [
+Entdecke mit einer 
 Ausgehend vom Alltag in der Stadt undunseren eigenen Erfahrungen nehmen wir in diesem Workshop das Bildungsmaterial «Feministische Städte» der Rosa-Luxemburg-Stiftung als Grundlage und gehen von dort aus weiter in die Fragen: Was sind Feministische Städte und was zeichnet sie aus? Welche Bedeutung hat Intersektionalität in der feministischen Stadtforschung? Und wo sind bereits Transformationsansätze für feministische Städte zu erkennen und wie können wir handlungsfähig werden? Neben einem Input zu feministischer Stadtforschung und Geografie vermittelt der Workshop die Bedeutung von Intersektionalität in der Betrachtung. In Kleingruppen lernen wir das interaktive Bildungsmaterial «Feministische Städte» nicht nur kennen, sondern entwickeln und ergänzen die Karte um weitere Szenarien und Lebensrealitäten. Neben persönlichen Erfahrungen betrachten wir auch strukturelle Konflikte und intersektionale Kritik und diskutieren gemeinsam Transformationsansätze, um feministischen Städten näherzukommen und handlungsfähig zu werden.
 Der Workshop richtet sich an feministisch Interessierte, für einen Einstieg in die feministische Geografie/Stadtforschung, auch an Stadtmacher*innen und Multiplikator*innen, die die Materialien in ihrer eigenen Nachbarschafts- und Bildungsarbeit nutzen wollen.
 Der Workshop ist offen für Menschen jeden Geschlechts und findet in deutscher Lautsprache statt. Es wird eine 20min Pause zur Hälfte des Workshops geben und kürzere bedürfnisorientierte Pausen werden vor Ort abgestimmt. Eine Verdolmetschung auf Englisch oder in Gebärdensprache ist leider nicht möglich.
-Anmeldung erforderlich (s.o.)!
+Die Veranstaltung ist bereits ausgebucht, schicke uns eine Mail an 
 Der Veranstaltungsraum, sowie Toiletten sind barrierefrei zugänglich.
 Die Veranstaltung ist für die Teilnehmenden kostenfrei. Es wird Snacks und alkoholfreie Getränke geben.
 Zum Bildungsmaterial «Feministische Städte» auf der Lernplattform L!nx: 
@@ -21,7 +21,7 @@ start_date = "2024-03-22T14:00:00.000"
 end_date = "2024-03-22T17:00:00.000"
 category = "Workshop"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-03-11T00:30:49.000"
+updated = "2024-03-28T22:17:43.000"
 languages = []
 [contact]
 [location]
