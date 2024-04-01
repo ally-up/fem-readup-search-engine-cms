@@ -11,7 +11,7 @@ start_date = "2024-04-22T20:00:00.000"
 end_date = "2024-04-22T21:40:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-03-28T22:18:22.000"
+updated = "2024-04-01T00:33:59.000"
 languages = []
 [contact]
 [location]

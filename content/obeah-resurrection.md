@@ -10,10 +10,12 @@ start_date = "2024-04-03T19:00:00.000"
 end_date = "2024-04-03T19:00:00.000"
 category = "Ausstellungen"
 organizer = "Kindl - Zentrum für zeitgenössische Kunst"
-updated = "2024-03-28T22:19:48.000"
+updated = "2024-04-01T00:34:48.000"
 languages = []
 [contact]
 location_street = "Am Sudhaus 3"
 location_city = " 12053 Berlin-Neukölln"
 [location]
+location_street = "Am Sudhaus 3"
+location_city = " 12053 Berlin-Neukölln"
 +++

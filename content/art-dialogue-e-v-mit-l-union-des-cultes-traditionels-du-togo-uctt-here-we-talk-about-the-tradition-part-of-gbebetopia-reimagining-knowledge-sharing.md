@@ -10,10 +10,12 @@ start_date = "2024-04-27T14:00:00.000"
 end_date = "2024-04-27T14:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Vierte Welt"
-updated = "2024-03-28T22:22:08.000"
+updated = "2024-04-01T00:38:04.000"
 languages = []
 [contact]
 location_street = "Adalbertstraße 96"
 location_city = " 10999 Berlin-Kreuzberg"
 [location]
+location_street = "Adalbertstraße 96"
+location_city = " 10999 Berlin-Kreuzberg"
 +++
