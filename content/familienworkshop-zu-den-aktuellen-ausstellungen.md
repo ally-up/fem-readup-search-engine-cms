@@ -6,13 +6,13 @@ type = "event"
 title = "Familienworkshop zu den aktuellen Ausstellungen"
 subtitle = "Karte"
 description = "Für Gruppen von Menschen, die sich als Familie identifizieren, unabhängig von Geschlecht oder Verwandtschaft."
-image = "https://imgproxy.berlinonline.net/p1XldBmGD46aNLhFJqol9VqXkgyqHzSTfKJxjPftupY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024040102/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzExNC8xOTZmZWI4ZS00ZDRiLWY1MzEtYWI3Mi0xZjlhM2I1YjJlNzYuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/Ok_XW_t5vRI60FdgRPdZPVxT-GxFHcJlszdqSm7_3G4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024040802/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzExNC8xOTZmZWI4ZS00ZDRiLWY1MzEtYWI3Mi0xZjlhM2I1YjJlNzYuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/familienworkshop-zu-den-aktuellen-ausstellungen.webp"
 start_date = "2024-02-18T15:00:00.000"
 end_date = "2024-02-18T15:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Kindl - Zentrum für zeitgenössische Kunst"
-updated = "2024-04-01T00:38:26.000"
+updated = "2024-04-08T00:35:40.000"
 languages = []
 [contact]
 [location]
