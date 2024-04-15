@@ -10,7 +10,7 @@ start_date = "2024-04-17T21:00:00.000"
 end_date = "2024-04-17T21:00:00.000"
 category = "Filmveranstaltungen"
 organizer = "Volksbühne am Rosa-Luxemburg-Platz: Videothek"
-updated = "2024-04-08T00:33:48.000"
+updated = "2024-04-15T03:01:59.000"
 languages = []
 [contact]
 location_street = "Linienstraße 227"

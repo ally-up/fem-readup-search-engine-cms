@@ -12,16 +12,18 @@ Und wenn der Zuschauer sich fragt: „Darf man das so sagen?“, dann antwortet 
 Schwetzinger Zeitung
 „Ätzend, bitterböse, ein brillanter Intellektueller, der den großen Wurf verfolgt. Einer der Großen des politischen Kabaretts“
 Die Rheinpfalz"
-image = "https://imgproxy.berlinonline.net/cVLkXNQUUdcUqO3cPwpxelVGxTf0mxpgpzsbTl_CcF8/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024040802/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI3L2VjNWE3MTZkLWYxZjktNTQwYy03NDFiLTliNzdlNWM5Yzg0Yi5qcGc.png"
+image = "https://imgproxy.berlinonline.net/fpYPETiQBNAWhzff--8EHbDK7-7ztCRtSdqxqe-13g4/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024041505/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI3L2VjNWE3MTZkLWYxZjktNTQwYy03NDFiLTliNzdlNWM5Yzg0Yi5qcGc.png"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/rene-sydow-in-ganzen-saetzen.webp"
 start_date = "2024-05-04T20:00:00.000"
 end_date = "2024-05-04T20:00:00.000"
 category = "Comedy"
 organizer = "Mehringhof-Theater"
-updated = "2024-04-08T00:35:20.000"
+updated = "2024-04-15T03:04:17.000"
 languages = []
 [contact]
 location_street = "Gneisenaustraße 2 A"
 location_city = " 10961 Berlin-Kreuzberg"
 [location]
+location_street = "Gneisenaustraße 2 A"
+location_city = " 10961 Berlin-Kreuzberg"
 +++

@@ -8,13 +8,13 @@ subtitle = "Karte"
 description = "Die Themenführung stellt vier Zeitgenossinnen von Wolf Biermann ins Zentrum: Die Führung gewährt einen Einblick in die künstlerischen und politischen Leistungen von Gabriele Stötzer, Christa Wolf, Bärbel Bohley und Sarah Kirsch.
 Anhand der Biographien dieser vier Frauen, die als Künstlerinnen Teil der unabhängigen Frauenbewegung der DDR waren und nur in geschützten Räumen arbeiten konnten, wird das Verhältnis von Kunst und Politik in der DDR thematisiert. Die Führung zielt darauf ab, die Ausdrucksmöglichkeiten feministischer Perspektiven in der DDR-Gesellschaft zu beleuchten. Welche Bedeutung hatte feministische Kunst innerhalb der DDR-Opposition und worin bestand ihre spezifische Kritik?
 Preisinformationen: kostenfrei, zzgl. Eintritt"
-image = "https://imgproxy.berlinonline.net/XINUymGw8DUOWRenbZfSYGjCxaQ_Hz4EP2OzPL886gE/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024040802/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzQzLzRlOWJkNzkwLTdkZDMtNmY0YS01MjJiLTAzZjhjYjk5YjljZC5wbmc.jpg"
+image = "https://imgproxy.berlinonline.net/MtLksAMZLkzHAIKO6buJX8V-WhIUmXGF2zFzbqyJKCY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024041505/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzQzLzRlOWJkNzkwLTdkZDMtNmY0YS01MjJiLTAzZjhjYjk5YjljZC5wbmc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/dissidentinnen-kunst-und-feminismus-in-der-ddr.webp"
 start_date = "2024-04-18T18:00:00.000"
 end_date = "2024-04-18T18:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Deutsches Historisches Museum"
-updated = "2024-04-08T00:33:53.000"
+updated = "2024-04-15T03:02:04.000"
 languages = []
 [contact]
 location_street = "Hinter dem Gießhaus 3"

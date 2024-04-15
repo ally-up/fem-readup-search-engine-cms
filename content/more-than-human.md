@@ -5,8 +5,8 @@ url = "https://www.berlin.de/tickets/ausstellungen/more-than-human-88ffe676-763b
 type = "event"
 title = "More than Human"
 subtitle = "Design nach dem Anthropozän"
-description = "Das Kunstgewerbemuseum startet eine neue diskursive Plattform mit Pop-up-Ausstellungen, Vorträgen, Workshops und Diskussionspanels, um sich mit dem komplexen Konzept des more than human aus der Perspektive der Gestaltungsdisziplinen, insbesondere des Designs, auseinanderzusetzen.
-Parallel entsteht eine spekulative Wunderkammer, die auch bislang vernachlässigte Beiträge von nicht-menschlichen Akteur*innen berücksichtigen wird.
+description = "Das Kunstgewerbemuseum startet eine neue diskursive Plattform mit Pop-up-Ausstellungen, Vorträgen, Workshops und Diskussionspanels.
+Ziel ist, sich mit dem komplexen Konzept des more than human aus der Perspektive der Gestaltungsdisziplinen, insbesondere des Designs, auseinanderzusetzen. Parallel entsteht eine spekulative Wunderkammer, die auch bislang vernachlässigte Beiträge von nicht-menschlichen Akteur*innen berücksichtigen wird.
 More than human umfasst ein Spektrum an transdisziplinären Theorien und Ansätzen, in denen herkömmliche anthropozentrische Perspektiven in Frage gestellt und ein Paradigmenwechsel hin zu einer intensiveren Vernetzung zwischen Mensch und Umwelt eingefordert werden.
 Die amerikanische, feministische Wissenschaftlerin Donna Haraway führte den Begriff ‚Natureculture‘ in den Diskurs ein, um auf die existenten Verflechtungen menschlicher und nicht-menschlicher Spezies auf unserem Planeten hinzuweisen. Die Aufhebung der Grenzen zwischen Natur und Kultur erfordert zugleich neue Denkweisen in Bezug auf Macht und Handlungsfähigkeit, Differenz und Gemeinschaftlichkeit, Atmosphären und Erkenntnistheorie.
 Vor dem Hintergrund der aktuellen Klimakrise und wachsender Ressourcenknappheit stehen auch Gestaltungsdisziplinen wie Architektur und Design auf dem Prüfstand. Daher stellt sich die Frage: Was bedeutet more than human für ein Designkonzept bzw. für eine Designphilosophie, die den Menschen und seine Bedürfnisse in den Mittelpunkt stellt?
@@ -20,12 +20,12 @@ Kulturforum alle Ausstellungen: 20,00 €
 Preis: 10,00 €
 Ermäßigter Preis: 5,00 €
 Informationen zum ermäßigten Preis: Kulturforum alle Ausstellungen: 10,00 €"
-image = "https://imgproxy.berlinonline.net/bQW-MYHOTWMuKaCoSX6uTUsRGRueMfIcgTyUSmmLKyY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024040802/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxMy82ZGVlZDE1Mi00ZDkxLTcwOTItMTJkNS0wODQ5MjcwYzQ1ZmYuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/1utF3iDfTHnxZ0vDnF-GqlShvd8__OMmE-aOJK5iEfA/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024041505/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxMy82ZGVlZDE1Mi00ZDkxLTcwOTItMTJkNS0wODQ5MjcwYzQ1ZmYuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/more-than-human.webp"
 start_date = "2024-03-01T00:00:00.000"
-end_date = "2024-07-07T00:32:13.482628"
+end_date = "2024-07-14T03:01:39.497890"
 category = "Ausstellungen"
-updated = "2024-04-08T00:32:13.000"
+updated = "2024-04-15T03:01:39.000"
 languages = []
 [contact]
 [location]
