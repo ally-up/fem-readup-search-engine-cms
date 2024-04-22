@@ -70,9 +70,9 @@ def main(argv):
                        uploads_path=uploads_path, clean=clean, quiet=quiet)
     LfrCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
                      uploads_path=uploads_path, clean=clean, quiet=quiet)
-    UraniaCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
-                        uploads_path=uploads_path, clean=clean,
-                        quiet=quiet)
+    # UraniaCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
+    #                     uploads_path=uploads_path, clean=clean,
+    #                     quiet=quiet)
     # FfbizCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
     #                      uploads_path=uploads_path, clean=clean, quiet=quiet)
     RosaluxCrawler().run(logger=logger, workspace_path=workspace_path, content_path=content_path,
