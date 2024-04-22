@@ -16,23 +16,20 @@ Das soeben beim Bielefelder Verlag transcript erschienene Buch «
 Die im März erschienene Studie «
 In dem 
 Programm
-18:30 Uhr: Einlass
-19 Uhr:Begrüßung
-19:30 Uhr:Panel I: What´s (extreme) right in this world?
-Mit: Martina Renner,Björn Ihler,Malene Gürgen,Hugo FantonModeration: Franziska Albrecht 
-20:40 Uhr:Performance vom Kollektiv Stimmlinies
-21 - 21:30 Uhr: Parcours mit Stationen zu verschiedenen Projekten der Rosa Luxemburg Stiftung
-21:30 Uhr:Panel II: Left Alternatives and strategies against far right, autoritarianism and Neo-Nazism
-Mit: Hanna Grześkiewicz,Steven HummelModeration: Anika Taschke
-22:30 - 24 Uhr:Vernetzung, Prosecco und Musik von VEX (
-In Kooperation mit"
+18:30 – Einlass 
+19:00 –Begrüßung 
+19:30 –Panel: What’s right? Transnationale Perspektiven auf Autoritarismus und extreme Rechte 
+20:40 –Performance: STIMMLINIE
+21-21:30 –Parcours:
+21:30 – Panel: What’s Left? Internationalismus und antifaschistische Strategien für das 21. Jahrhundert 
+22:30-24:00 –Prosecco & Music mit VEX ("
 image = "https://info.rosalux.de/image/event/jt5qs?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/good-night-far-right.webp"
 start_date = "2024-04-25T19:00:00.000"
 end_date = "2024-04-25T23:59:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-04-15T03:00:46.000"
+updated = "2024-04-22T12:40:39.000"
 languages = []
 [contact]
 [location]

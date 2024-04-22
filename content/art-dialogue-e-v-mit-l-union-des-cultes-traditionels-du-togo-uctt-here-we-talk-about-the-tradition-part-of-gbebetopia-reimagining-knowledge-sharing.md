@@ -10,7 +10,7 @@ start_date = "2024-04-27T14:00:00.000"
 end_date = "2024-04-27T14:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Vierte Welt"
-updated = "2024-04-15T03:03:34.000"
+updated = "2024-04-22T12:42:22.000"
 languages = []
 [contact]
 location_street = "Adalbertstraße 96"

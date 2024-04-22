@@ -10,10 +10,12 @@ start_date = "2024-05-05T12:00:00.000"
 end_date = "2024-05-05T12:00:00.000"
 category = "Filmveranstaltungen"
 organizer = "delphi LUX"
-updated = "2024-04-15T03:04:21.000"
+updated = "2024-04-22T12:42:55.000"
 languages = []
 [contact]
 location_street = "Kantstraße 10"
 location_city = " 10623 Berlin-Charlottenburg"
 [location]
+location_street = "Kantstraße 10"
+location_city = " 10623 Berlin-Charlottenburg"
 +++
