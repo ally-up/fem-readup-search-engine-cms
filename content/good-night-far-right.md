@@ -19,9 +19,11 @@ Programm
 18:30 – Einlass 
 19:00 –Begrüßung 
 19:30 –Panel: What’s right? Transnationale Perspektiven auf Autoritarismus und extreme Rechte 
+Es diskutieren:
 20:40 –Performance: STIMMLINIE
 21-21:30 –Parcours:
 21:30 – Panel: What’s Left? Internationalismus und antifaschistische Strategien für das 21. Jahrhundert 
+Es diskutieren:
 22:30-24:00 –Prosecco & Music mit VEX ("
 image = "https://info.rosalux.de/image/event/jt5qs?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/good-night-far-right.webp"
@@ -29,7 +31,7 @@ start_date = "2024-04-25T19:00:00.000"
 end_date = "2024-04-25T23:59:00.000"
 category = "Ausstellung/Kultur"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-04-22T12:40:39.000"
+updated = "2024-04-29T00:31:34.000"
 languages = []
 [contact]
 [location]

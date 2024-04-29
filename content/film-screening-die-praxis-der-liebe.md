@@ -10,7 +10,7 @@ start_date = "2024-05-05T12:00:00.000"
 end_date = "2024-05-05T12:00:00.000"
 category = "Filmveranstaltungen"
 organizer = "delphi LUX"
-updated = "2024-04-22T12:42:55.000"
+updated = "2024-04-29T00:32:49.000"
 languages = []
 [contact]
 location_street = "Kantstraße 10"
