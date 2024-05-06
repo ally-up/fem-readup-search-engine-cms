@@ -1,23 +1,22 @@
 +++
 identifier = "schwarzbuch-krankenhaus"
 source = "Rosa Luxemburg Stiftung"
-url = "https://rosalux.de/veranstaltung/es_detail/RDTY6/schwarzbuch-krankenhaus?cHash=70b93b2e09fec7619a4ed541d97cb018"
+url = "https://rosalux.de/veranstaltung/es_detail/8TTN7/schwarzbuch-krankenhaus?cHash=2c258c00a1a8f90325f896ca0103137c"
 type = "event"
 title = "Schwarzbuch Krankenhaus"
-subtitle = "Das Schweigen brechen | Szenische Lesung"
-description = "Kliniken sind am Limit. Menschen sterben, weil am Personal gespart wird. Täglich spielen sich unvorstellbare Szenen ab. Von Neugeborenen, die ins Leben stürzen, weil keine Hebamme da ist, um sie aufzufangen. Über Patient*innen, die nicht davon abgehalten werden können, sich im Krankenhaus das Leben zu nehmen, weil die Kolleg*innen völlig überarbeitet sind. Bis hin zu Menschen, die in Wartezimmern unbemerkt versterben.
-Wir sind ein Kollektiv aus Krankenhausbeschäftigten aus ganz Deutschland, die angesichts der eigenen Arbeitserfahrungen nicht länger still sein können. Uns eint der Wunsch, das Gesundheitssystem von Grund auf zu verändern, um endlich wieder unserem professionellen Anspruch und den Bedürfnissen unserer Patient*innen gerecht zu werden. Wir kämpfen für eine Aufwertung sorgender Berufe und dagegen, dass mit Gesundheit Profitegemacht werden.
-Die Veranstaltung wird organisiert von Beschäftigten im Krankenhaus, dem Berliner Bündnis 
-Mit Live-Musik von «Walk of Care».
-Eintritt: 8 Euro / erm. 5 Euro
-Tickets auf der"
-image = "https://info.rosalux.de/image/event/rdty6?type=2"
+subtitle = "Eine Szenische Lesung auf der re:publica24"
+description = "Der Personalnotstand und die daraus resultierende Gefährdung von Patient:innen sind immer wieder Gegenstand von Medienberichten und von Gesprächen unter Beschäftigten in deutschen Kliniken. Mit dem Schwarzbuch Krankenhaus nehmen die Beschäftigten die Beschreibung des Klinikalltag selbst in die Hand.
+Kliniken sind am Limit. Menschen sterben, weil am Personal gespart wird. Täglich spielen sich unvorstellbare Szenen ab. Von Neugeborenen, die ins Leben stürzen, weil keine Hebamme da ist, um sie aufzufangen. Über Patient:innen, die nicht davon abgehalten werden können, sich im Krankenhaus das Leben zu nehmen, weil die Kolleg:innen völlig überarbeitet sind.
+Wir sind ein Kollektiv aus Krankenhausbeschäftigten, die angesichts der eigenen Arbeitserfahrungen nicht länger still sein können. Uns eint der Wunsch, das Gesundheitssystem von Grund auf zu verändern, um endlich wieder unserem professionellen Anspruch und den Bedürfnissen unserer Patient: innen gerecht zu werden. Wir kämpfen für eine Aufwertung sorgender Berufe und dagegen, dass mit Gesundheit Profite gemacht werden.
+Das 
+Auf der re:publica lesen die Beschäftigten die Texte vor, mit Videos die von erfolgreichen Kämpfen berichten und am Ende wird es ein Q&A zur Lesung geben."
+image = "https://info.rosalux.de/image/event/8ttn7?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/schwarzbuch-krankenhaus.webp"
-start_date = "2023-12-06T19:30:00.000"
-end_date = "2023-12-06T22:00:00.000"
-category = "Ausstellung/Kultur"
+start_date = "2024-05-29T17:30:00.000"
+end_date = "2024-05-29T18:30:00.000"
+category = "Lesung/Gespräch"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2023-12-11T00:32:02.000"
+updated = "2024-05-06T00:31:32.000"
 languages = []
 [contact]
 [location]
