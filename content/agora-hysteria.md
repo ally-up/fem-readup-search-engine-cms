@@ -1,0 +1,17 @@
++++
+identifier = "agora-hysteria"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/bildung-vortraege/agora-hysteria-864528d8-2c0b-4254-92c0-07667d21213a/"
+type = "event"
+title = "Agora Hysteria"
+subtitle = "#1: SO SICK"
+description = "Agora Hysteria #1: SO SICK!: 06.06.2024, 17:00–21:00, Ca./ca. 4hAgora Hysteria #2: Speculative Biographies: 07.06.2024, 17:00–21:00, Ca./ca. 4hAgora Hysteria #3: Gender Euphoria: 08.06.2024, 17:00–22:00, Ca./ca. 5hDeutsch, EnglischGenug der patriarchalen Diskurse, ewigen Machtkämpfe und andauernden Diskriminierungen: Olivia Hyunsin Kim/ddanddarakim verwandeln die Kantine der Sophiensæle an vier Tagen in eine moderne Version der antiken Agora. Anders aber als ihr antikes Vorbild wird die Agora Hysteria eine Plattform für inklusiven Austausch. Zusammen mit ihrem Publikum schaffen die Künstler*innen ein performatives Zentrum für Konversation und Diskussion, das Platz bietet für Momente des Innehaltens und die Möglichkeit, Wissen zu teilen.Agora Hysteria #1: SO SICK!Am 06.06. geht es bei SO SICK! um chronische Krankheiten und einen Ansatz, gemeinschaftliche Verantwortung für Krankheit zu übernehmen. Der erste Tag der Agora Hysteria sucht so in verschiedenen Performances nach Strategien des Entschleunigens. Mit u.a. Alexander Hahne und Hendrik Quast. Der Tag endet mit einem Konzert.Agora Hysteria #2: Speculative BiographiesAm 07.06. widmet sich die Agora Hysteria der transnationalen Adoption. Mit Speculative Biographies wird das Machtverhältnis zwischen globalem Süden und Norden beleuchtet. Unter anderem zeigt kimura byol lemoine, kanadische*r Künstler*in und Aktivist*in, Videoarbeiten und Objekte; Wissenschaftler*in und Autor*in Anja Sunhyun Michaelsen gibt Einblicke in die eigene Forschung. Am Abend lädt Olivia Hyunsin Kim zu ihrer legendären Tanzkaraoke Everybody Danceoke.Agora Hysteria #3: Gender EuphoriaAm 08.06. feiert die Agora Hysteria mit dem Titel Gender Euphoria einen Tag lang den performativen Aspekt von Gender und die Körperselbstbestimmung, u.a. mit Olympia Bukkakis, The Darvish und der queerfeministischen Opernband Die Schlangenknaben.Konzept, Künstlerische Leitung: Olivia Hyunsin Kim, Jones SeitzMit: Alexander Hahne, Hendrik Quast, kimura byol lemoine, Anja Sunhyun Michaelsen, Olympia Bukkakis, The Darvish, Die SchlangenknabenRaumausstattung: Luca PlaumannTechnische Leitung: Gefährliche Arbeit/Frieder MillerProduktionsleitung: ehrliche arbeit – freies KulturbüroFotos, Dokumentation: Christian CattelanEine Produktion von Olivia Hyunsin Kim/ddanddarakim in Koproduktion mit Sophiensæle. Gefördert aus Mitteln der Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt des Landes Berlin sowie durch den Fonds Darstellende Künste aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien. Medienpartner: Siegessäule, taz.Foto © Gedvilė Tamošiūnaitė"
+image = "https://imgproxy.berlinonline.net/f11QnfW2TrEzSOrWFC1_RxcfbRfxDQ89R3lKEO3AzYQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024051509/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgvNjQ4Nzk1MDctN2E4ZS03N2E0LTIyMDgtY2UzMmE2MDg5ZTUwLmpwZw.jpg"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/agora-hysteria.webp"
+category = "Bildung & Vorträge"
+organizer = "Donnerstag, 06. Juni 2024, 17:00 Uhr"
+updated = "2024-05-15T07:34:42.000"
+languages = []
+[contact]
+[location]
++++

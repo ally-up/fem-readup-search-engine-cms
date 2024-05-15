@@ -10,7 +10,7 @@ start_date = "2024-05-16T18:00:00.000"
 end_date = "2024-05-16T18:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Brücke Museum"
-updated = "2024-05-06T00:33:46.000"
+updated = "2024-05-15T07:32:06.000"
 languages = []
 [contact]
 location_street = "Bussardsteig 9"

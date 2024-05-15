@@ -10,8 +10,8 @@ start_date = "2024-04-18T20:00:00.000"
 end_date = "2024-04-18T20:00:00.000"
 category = "Vermischtes"
 organizer = "Volksbühne am Rosa-Luxemburg-Platz: Videothek"
-updated = "2024-05-06T00:35:48.000"
-image = "https://imgproxy.berlinonline.net/PcSXcE1x1Of6vM6GoH0-CCxZNVWezwKKPmRmQlP1CsA/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024050602/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzc5LzExZmMwZTkyLTY1YWItZWIxYi05MTRmLWIzM2QxNTlmZWViZS5qcGc.jpg"
+updated = "2024-05-15T07:35:57.000"
+image = "https://imgproxy.berlinonline.net/QBgiRzm0Dc8srPFpBBaiLbObErgY3vhmErGkcFnMZlE/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024051509/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzc5LzExZmMwZTkyLTY1YWItZWIxYi05MTRmLWIzM2QxNTlmZWViZS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/great-expectations.webp"
 languages = []
 [contact]

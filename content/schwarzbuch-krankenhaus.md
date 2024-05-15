@@ -9,14 +9,14 @@ description = "Der Personalnotstand und die daraus resultierende Gefährdung von
 Kliniken sind am Limit. Menschen sterben, weil am Personal gespart wird. Täglich spielen sich unvorstellbare Szenen ab. Von Neugeborenen, die ins Leben stürzen, weil keine Hebamme da ist, um sie aufzufangen. Über Patient:innen, die nicht davon abgehalten werden können, sich im Krankenhaus das Leben zu nehmen, weil die Kolleg:innen völlig überarbeitet sind.
 Wir sind ein Kollektiv aus Krankenhausbeschäftigten, die angesichts der eigenen Arbeitserfahrungen nicht länger still sein können. Uns eint der Wunsch, das Gesundheitssystem von Grund auf zu verändern, um endlich wieder unserem professionellen Anspruch und den Bedürfnissen unserer Patient: innen gerecht zu werden. Wir kämpfen für eine Aufwertung sorgender Berufe und dagegen, dass mit Gesundheit Profite gemacht werden.
 Das 
-Auf der re:publica lesen die Beschäftigten die Texte vor, mit Videos die von erfolgreichen Kämpfen berichten und am Ende wird es ein Q&A zur Lesung geben."
+Auf der"
 image = "https://info.rosalux.de/image/event/8ttn7?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/schwarzbuch-krankenhaus.webp"
 start_date = "2024-05-29T17:30:00.000"
 end_date = "2024-05-29T18:30:00.000"
 category = "Lesung/Gespräch"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-05-06T00:31:32.000"
+updated = "2024-05-15T07:31:05.000"
 languages = []
 [contact]
 [location]

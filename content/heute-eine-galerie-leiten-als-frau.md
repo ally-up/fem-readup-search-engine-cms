@@ -10,10 +10,12 @@ start_date = "2024-05-30T18:00:00.000"
 end_date = "2024-05-30T18:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Brücke Museum"
-updated = "2024-05-06T00:35:14.000"
+updated = "2024-05-15T07:34:18.000"
 languages = []
 [contact]
 location_street = "Bussardsteig 9"
 location_city = " 14195 Berlin-Zehlendorf"
 [location]
+location_street = "Bussardsteig 9"
+location_city = " 14195 Berlin-Zehlendorf"
 +++

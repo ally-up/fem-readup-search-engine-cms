@@ -13,7 +13,7 @@ Eine Ausstellung von Sarnt Utamachote & Wisanu Phu-artdun, Rosalia Namsai Engchu
 start_date = "2024-03-07T00:00:00.000"
 end_date = "2024-05-18T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-05-06T00:32:04.000"
+updated = "2024-05-15T07:31:45.000"
 languages = []
 [contact]
 [location]

@@ -12,13 +12,13 @@ Wer hat in dieser Geschichte also wen benutzt, ging es wirklich um Liebe und die
 Regisseurin Yael Ronen, Komponist Shlomi Shaban und das Ensemble untersuchen mit Slippery Slope lustvoll den Wunsch nach einfachen Wahrheiten und das Manipulationspotential einer guten Erzählstrategie - eine bitterböse musikalische Revue über Kunst und Macht in einer postfaktischen Gesellschaft.
 In englischer Sprache mit deutschen Übertiteln
 Hinweis: Die Produktion enthält Stroboskop-Lichteffekte, schnelle und flackernde Bildabfolgen, die negative Auswirkungen auf lichtempfindliche Zuschauer*innen haben können."
-image = "https://imgproxy.berlinonline.net/CNCpIlfG0iWjJ7WIP7a8_9uJXddvdK65am3HUYqlUvs/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024050602/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzYyL2I2YzcyMTkzLWNlNDctZDczNS01YzNlLTVlZTllZWYxMDcyZS5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/AYgnfFIl2J948HXcyWqjeRoBcq4JTa28799OWXCJqbs/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024051509/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzYyL2I2YzcyMTkzLWNlNDctZDczNS01YzNlLTVlZTllZWYxMDcyZS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/slippery-slope.webp"
 start_date = "2024-05-21T19:30:00.000"
 end_date = "2024-05-21T19:30:00.000"
 category = "Theater"
 organizer = "Maxim Gorki Theater"
-updated = "2024-05-06T00:34:40.000"
+updated = "2024-05-15T07:33:09.000"
 languages = []
 [contact]
 location_street = "Am Festungsgraben 2"
