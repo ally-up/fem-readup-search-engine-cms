@@ -10,13 +10,13 @@ Themen wie Migration, Gendern oder Klima erscheinen hochstrittig, die Positionen
 Zusammen mit Thomas Lux und Linus Westheuser hat Steffen Mau, Professor für Makrosoziologie an der Humboldt Universität, sich wissenschaftlich der Frage angenähert, wie die tief die vermeintlichen Gräben tatsächlich sind und wo sie liegen. Das Buch stützt sich dabei auf umfangreiches empirisches Material wie auf Befragungen in Fokusgruppen.
 Die Ergebnisse der Untersuchungen sind nun in dem Buch „Triggerpunkte“ im Oktober 2023 der Öffentlichkeit zugänglich geworden mit durchaus überraschenden Befunden.
 Mit Prof. Dr. Steffen Mau, der spätestens seit seinem Buch „Lütten Klein“ (2019) auch einer größeren Öffentlichkeit bekannt geworden ist und jüngst für seine Fähigkeit, soziologische Befunde einem breiten Publikum zugänglich zu machen mit dem Communicator-Preis 2023 der Deutschen Forschungsgemeinschaft & des Stifterverbandes für die deutsches Wissenschaft ausgezeichnet worden ist, wird Sören Benn über die wesentlichen Befunde des Buches sprechen."
-image = "https://imgproxy.berlinonline.net/lzzkYwsxxIhtpGR-ZFEMhH7WsqhE-e0XjJ2kTot8ec4/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024051509/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI1My8zNTVhMDQ0MC03NWVjLTNhODktYzJmZC01MDE5MWQwMTViYzYuanBn.png"
+image = "https://imgproxy.berlinonline.net/lrtP5-CxBIUPvEG5VWTDWZigIEslcLZRFUyQo4PL4Ak/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024052002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI1My8zNTVhMDQ0MC03NWVjLTNhODktYzJmZC01MDE5MWQwMTViYzYuanBn.png"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/benn-trifft-triggerpunkte.webp"
 start_date = "2024-06-04T20:00:00.000"
 end_date = "2024-06-04T20:00:00.000"
 category = "Wissenschaft"
 organizer = "Bildungs- und Kulturzentrum Peter Edel"
-updated = "2024-05-15T07:34:32.000"
+updated = "2024-05-20T00:37:15.000"
 languages = []
 [contact]
 location_street = "Berliner Allee 125"

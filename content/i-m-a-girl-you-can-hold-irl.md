@@ -6,13 +6,13 @@ type = "event"
 title = "I#039;m a girl you can hold IRL"
 subtitle = "Karte"
 description = "»I’ m a girl you can hold IRL,Lautet mein Versprechen.Das heißtIch bin ein Mädchenwelches du im echten Leben halten kannst.Und du hältst mich auch.Streichelst meine Silikonarme,liebkost meinen Drahthals,küsst meine Latexlippen.Hast du dich mal gefragt,Pygmalion,warum du nur etwas lieben kannst,was aus deiner Rippe geboren wurde?«Warum sind Roboter eigentlich immer Frauen? Man denke an Siri und Alexa und Sophia, den Roboter. Vielleicht, weil der drohende KI-Krieg gegen die Menschheit weniger bedrohlich erscheint, wenn er von weiblichen Androiden ausgetragen wird? Oder vielleicht, weil klar ist, welches Geschlecht die Dienstleister*innenrollen austragen muss?i’m a girl you can hold IRL ist ein Stück über Liebe im 21. Jahrhundert, Einsamkeit, Narzissmus, Singularität und Emanzipation (auch Fembots haben Gefühle). Es ist ein Zweikampf zwischen Schöpfer und Kreatur. Es erzählt die Geschichte von Pygmalion, welcher in dieser Erzählung kein Bildhauer, sondern ein liebeskranker Robotiker ist. Seine Kreation heißt Galatea, ebenfalls keine Statue, sondern ein Roboter, welchen er seiner Freundin nachempfunden hat, die ihn zuvor verlassen hatte. Nachdem Galatea Leben eingehaucht wird, steht Pygmalion seiner fleischgewordenen Fantasie gegenüber: Sie liebt alle seine Lieblingsfilme, seine Lieblingsmusik, seine Lieblingspornos. Sie ist buchstäblich Born Yesterday, nur wenige Stunden alt und schon in einem schönen Frauenkörper unendlich weise. Dass Galatea irgendwann jedoch beginnt, ihren eigenen Willen zu entwickeln, Fragen zu stellen, Grenzen auszutesten, wie das die Künstliche Intelligenz nun mal so tut, wenn man genug mit ihr interagiert, gefällt Pygmalion überhaupt nicht.Uraufführung 23/März 2024Foto: Esra Rotthoff"
-image = "https://imgproxy.berlinonline.net/KMc_oyBi0i3bxZ4qk1zGUgjfhuy76OPeK8N2qX1_Aro/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024051509/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE3NS9jY2FjZTFkMS03MmYyLTUyZGItOWNhZi1lOTE3MzIwZDIxYmYuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/iYxspZnbnz4bYYo9myeGiDU-CDYGSHgZ1DugQmvxI0g/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024052002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE3NS9jY2FjZTFkMS03MmYyLTUyZGItOWNhZi1lOTE3MzIwZDIxYmYuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/i-m-a-girl-you-can-hold-irl.webp"
 start_date = "2024-04-06T20:30:00.000"
 end_date = "2024-04-06T20:30:00.000"
 category = "Theater"
 organizer = "Maxim Gorki Theater: Studio Я"
-updated = "2024-05-15T07:36:12.000"
+updated = "2024-05-20T00:40:01.000"
 languages = []
 [contact]
 [location]

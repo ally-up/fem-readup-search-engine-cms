@@ -15,13 +15,13 @@ Abendzettel UND SICHER IST MIT MIR DIE WELT VERSCHWUNDEN
 {preview_thumbnail:/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/F2_p0jxcdjA.jpg?itok=4cuUKvfS,video_url:,settings:{responsive:1,width:854,height:480,autoplay:0},settings_summary:[Eingebettetes Video (Responsiv).]}
 Foto: Esra RotthoffBühnenfotos: Ute Langkafel"
 {preview_thumbnail:/sites/default/files/styles/video_embed_wysiwyg_preview/public/video_thumbnails/F2_p0jxcdjA.jpg?itok = "4cuUKvfS,video_url:,settings:{responsive:1,width:854,height:480,autoplay:0},settings_summary:[Eingebettetes Video (Responsiv).]}"
-image = "https://imgproxy.berlinonline.net/EStOY4Ah7-adZydFIWjd0Qd6lcA4e05kN3i5e0YsC8Q/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024051509/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM5L2E0ZjEyMzk3LTk1ODQtNTY1MC01YzI3LTVkYjUxODQxYzkyZi5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/_ijBOQK-olhVeWrv7pPM9ySiWDRUyr3XpJ53LY2pI7U/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024052002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM5L2E0ZjEyMzk3LTk1ODQtNTY1MC01YzI3LTVkYjUxODQxYzkyZi5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/und-sicher-ist-mit-mir-die-welt-verschwunden.webp"
 start_date = "2024-04-12T19:30:00.000"
 end_date = "2024-04-12T19:30:00.000"
 category = "Theater"
 organizer = "Donnerstag, 23. Mai 2024, 19:30 Uhr"
-updated = "2024-05-15T07:33:31.000"
+updated = "2024-05-20T00:35:41.000"
 languages = []
 [contact]
 [location]
