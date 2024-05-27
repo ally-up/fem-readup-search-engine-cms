@@ -10,7 +10,7 @@ start_date = "2024-02-28T17:00:00.000"
 end_date = "2024-02-28T17:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Humboldt Forum"
-updated = "2024-05-20T00:39:42.000"
+updated = "2024-05-27T00:39:26.000"
 languages = []
 [contact]
 [location]
