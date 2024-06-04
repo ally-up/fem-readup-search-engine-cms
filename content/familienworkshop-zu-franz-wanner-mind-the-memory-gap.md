@@ -10,7 +10,7 @@ start_date = "2024-06-09T15:00:00.000"
 end_date = "2024-06-09T15:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Kindl - Zentrum für zeitgenössische Kunst"
-updated = "2024-05-27T00:36:28.000"
+updated = "2024-06-04T09:04:59.000"
 languages = []
 [contact]
 location_street = "Am Sudhaus 3"

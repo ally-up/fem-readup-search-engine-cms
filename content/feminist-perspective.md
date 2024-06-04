@@ -10,7 +10,7 @@ start_date = "2024-06-22T13:00:00.000"
 end_date = "2024-06-22T13:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Hamburger Bahnhof - Museum für Gegenwart"
-updated = "2024-05-27T00:38:34.000"
+updated = "2024-06-04T09:07:32.000"
 languages = []
 [contact]
 location_street = "Invalidenstraße 51"

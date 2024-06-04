@@ -10,10 +10,12 @@ start_date = "2024-06-21T19:00:00.000"
 end_date = "2024-06-21T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Berliner Ringtheater"
-updated = "2024-05-27T00:38:03.000"
+updated = "2024-06-04T09:06:42.000"
 languages = []
 [contact]
 location_street = "Alt-Stralau 68"
 location_city = " 10245 Berlin-Friedrichshain"
 [location]
+location_street = "Alt-Stralau 68"
+location_city = " 10245 Berlin-Friedrichshain"
 +++
