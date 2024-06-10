@@ -12,13 +12,13 @@ Teresa Vittucci geht dem Hymen auf die Spur: Auch Jungfernhäutchen  genannt, i
 Das Solo, mit dem Swiss Dance Award und dem PREMIO Nachwuchspreis  ausgezeichnet, war seit 2019 europaweit auf zahlreichen Festivals und in  Theatern zu sehen und ist der erste Teil von Teresa Vittuccis Trilogie in praise of vulnerability.  Nach dem 2021 kreierten Duett Doom wird im März 2024 der dritte und  letzte Teil der Trilogie am Tanzhaus Zürich Premiere feiern. Am  Deutschen Theater Berlin wird Teresa Vittucci diesen ersten Teil mit Hate me, Tender_ Revisited erneut untersuchen und für die Box aktualisieren.
 In englischer Sprache.
 Ausgezeichnet mit dem Swiss Dance Award und dem Premio Nachwuchspreis."
-image = "https://imgproxy.berlinonline.net/p3mcjmqrgGhkoRXIhSn9TUQC-N9JHCjThm7lxadrRDc/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024060410/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzE2NS84NDcxZDVkNS1lZGI4LTQ3ZGYtYjdhNS0wNTRkZGY1ZTc1ZDguanBn.jpg"
+image = "https://imgproxy.berlinonline.net/UDsTYaP9yUcGBxsk9gDdXkDE5A5qc9t-7mJ2U8_y0Nk/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024061002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzE2NS84NDcxZDVkNS1lZGI4LTQ3ZGYtYjdhNS0wNTRkZGY1ZTc1ZDguanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/hate-me-tender-revisited.webp"
 start_date = "2024-06-24T19:30:00.000"
 end_date = "2024-06-24T19:30:00.000"
 category = "Theater"
 organizer = "Deutsches Theater Berlin - Box und Bar"
-updated = "2024-06-04T09:08:14.000"
+updated = "2024-06-10T00:38:37.000"
 languages = []
 [contact]
 location_street = "Schumannstraße 13 A"

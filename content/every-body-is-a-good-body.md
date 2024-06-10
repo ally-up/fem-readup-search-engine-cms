@@ -10,10 +10,12 @@ start_date = "2024-06-21T14:00:00.000"
 end_date = "2024-06-21T14:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Haus der Kulturen der Welt"
-updated = "2024-06-04T09:06:39.000"
+updated = "2024-06-10T00:36:57.000"
 languages = []
 [contact]
 location_street = "John-Foster-Dulles-Allee 10"
 location_city = " 10557 Berlin-Tiergarten"
 [location]
+location_street = "John-Foster-Dulles-Allee 10"
+location_city = " 10557 Berlin-Tiergarten"
 +++

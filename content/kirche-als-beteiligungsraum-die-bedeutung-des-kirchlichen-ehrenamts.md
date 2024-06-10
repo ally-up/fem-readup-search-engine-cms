@@ -10,10 +10,12 @@ start_date = "2024-06-27T19:00:00.000"
 end_date = "2024-06-27T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Französische Friedrichstadtkirche"
-updated = "2024-06-04T09:08:40.000"
+updated = "2024-06-10T00:39:03.000"
 languages = []
 [contact]
 location_street = "Gendarmenmarkt 5"
 location_city = " 10117 Berlin-Mitte"
 [location]
+location_street = "Gendarmenmarkt 5"
+location_city = " 10117 Berlin-Mitte"
 +++

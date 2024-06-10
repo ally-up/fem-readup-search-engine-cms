@@ -10,7 +10,7 @@ start_date = "2024-06-21T19:00:00.000"
 end_date = "2024-06-21T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Berliner Ringtheater"
-updated = "2024-06-04T09:06:42.000"
+updated = "2024-06-10T00:37:00.000"
 languages = []
 [contact]
 location_street = "Alt-Stralau 68"

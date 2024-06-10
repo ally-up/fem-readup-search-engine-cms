@@ -10,7 +10,7 @@ start_date = "2024-06-22T16:00:00.000"
 end_date = "2024-06-22T16:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Haus der Kulturen der Welt"
-updated = "2024-06-04T09:07:44.000"
+updated = "2024-06-10T00:38:03.000"
 languages = []
 [contact]
 location_street = "John-Foster-Dulles-Allee 10"

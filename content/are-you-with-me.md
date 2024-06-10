@@ -1,0 +1,19 @@
++++
+identifier = "are-you-with-me"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/ausstellungen/are-you-with-me-ba673232-c75a-43c1-b6a3-9daa0fde11bf/"
+type = "event"
+title = "Are you with me?"
+subtitle = "Performance"
+description = "Schauspieler_in und darstellende Künstler_in Jules* Elting (keine Pronomen /Jules*) untersucht mit einer eigens für das Brücke-Museum entwickelten Performance das Thema der „chosen family“ (= selbst gewählte Familie). Das Wort „chosen“ (=auswählen) wird in dieser interaktiven Performance wortwörtlich genommen: die Teilnehmer_innen sind eingeladen, im Dialog mit Elting persönliche Entscheidungen zu treffen, die den Ablauf und Inhalt jeder Performance individuell gestalten. Denn: Jede Beziehung ist anders.Dabei werden Fragen untersucht wie:  Was ist relevant für unsere Verbindung? Wie erkennen wir uns? Was brauche ich, um mich sicher zu fühlen? Und was unterscheidet für mich eine freiwillige Beziehung von einer, die ich nicht selbst ausgewählt habe, wie zum Beispiel der biologischen Familie?Die Sammlerin Hanna Bekker vom Rath lebte in vielen Aspekten ihres Lebens nicht gesellschaftlich und politisch normativ, sie war emanzipiert, unabhängig und pflegte ihre Freund_innenschaften ausgiebig. Aktuell werden die Konzepte zwischen romantischer Liebe, bürgerlicher Kleinfamilie und freundschaftlichen Beziehungen vielfach diskutiert. Drei Performances im Programm des Sommerfests laden dazu ein, sich in unterschiedlichen Formaten wie Performances, Workshops, Lesungen mit Ideen von Beziehungen, zwischenmenschlichen Verbindungen und dem Konzept der „chosen family“ auseinanderzusetzen.Für die Performance von Jules* Elting gibt es keine Anmeldung und die Teilnahme entsteht spontan. Wer neugierig geworden ist und Teil dieser Kompliz_innenschaft werden will, bleibe beim Sommerfest wachsam und offen.Uhrzeit: 13-17 Uhrkeine festen Zeiten, interaktive, andauernde Performance im gesamten Museumsbereich (innen und außen)JULES* ELTING (keine Pronomen/Jules*) studierte Zeitgenössischer Tanz in NYC und Schauspiel an der Hochschule für Musik und Theater „Felix-Mendelssohn-Bartholdy“, Leipzig. Nach einer klassischen Theaterkarriere an deutschen Stadttheatern, ab 2005 für 10 Jahre Ensemblemitglied im „Teatro Oficina“ in São Paulo/Brasilien, eine der größten und bekanntesten Theater Kompanien des Landes.Seit 2015 bekannt vor allem durch internationale Kinofilme, wie “Der Ornithologe” von João Pedro Rodrigues. 2019 ausgewählt als Berlinale TALENTS. Der holländische Kinofilm „Melk“ feierte im Sommer 2023 auf dem Filmfestival in Venedig Weltpremiere und kommt 2024 in die Kinos. Jules* Elting spielte zuletzt auch in mehreren großen deutschen TV Produktionen, wie Tatort und Soko und verkörpert eine durchgehende Rolle in der queeren Debut Serie „Brüt“, die gerade Premiere in der ARD Mediathek hatte. Anfang 2024 wurde Jules* vom Brazilian Critics Award als Newcomer nominiert.Elting entwickelt regelmäßig eigene ortsspezifische Peformances, zuletzt für Museen in São Paulo, Brasilien, Goethe Institut Südamerika oder ein Kollektiv im Roten Salon der Volksbühne Berlin.2021 war Jules* Elting Teil von #ActOut. Seitdem regelmässige Teilnahme an Panels, sowie Talks und intersektionale Workshops zu Gendersensiblen Castingprozessen und der Situation von trans Personen in der Filmbranche. 2022 sprach Elting die Audio Tracks der Ausstellung “Werner Düttmann: Berlin Bau Werk” für das Brücke-Museum ein."
+start_date = "2024-06-16T13:00:00.000"
+end_date = "2024-06-16T13:00:00.000"
+category = "Ausstellungen"
+organizer = "Brücke Museum"
+updated = "2024-06-10T00:35:53.000"
+languages = []
+[contact]
+location_street = "Bussardsteig 9"
+location_city = " 14195 Berlin-Zehlendorf"
+[location]
++++

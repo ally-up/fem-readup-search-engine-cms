@@ -8,11 +8,11 @@ subtitle = "Karte"
 description = "Ein fantastischer Abend mit englischer Stand-up Comedy: Erfahrene und professionelle Comics und Debütanten bringen Sie jauf der Bühne des Kookabura Comedy Clubs zum Lachen.
 Dies ist eine Showcase-Veranstaltung mit einer abwechslungsreichen Mischung aus Berliner Komikern und internationalen Acts in einer gemütlichen und freundlichen Atmosphäre. Wir lieben es, einen Ort zu schaffen, an dem Menschen (unabhängig von Alter, Nationalität, Geschlecht oder Religion) zusammenkommen, sich sicher fühlen, zusammen lachen und einander kennenlernen können.
 Der Einlass beginnt um 19.45 Uhr. Die Veranstaltung beginnt um 21 Uhr. Gratis Pizza und Shots an der Bar inklusive!"
-image = "https://imgproxy.berlinonline.net/nSnOLgVF-cu2qspdSXeORP_4qToRUHdpWYPZGxJ8y6M/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024060410/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzg3L2FjYjdlNjg5LWZhZjgtNGFkZC1iNTU3LWYyYjNkNzRjZTE0OC5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/D_2kRDvr-8VjjkAJhmM_x4z7m1AUGZm1khx24DivufM/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024061002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzg3L2FjYjdlNjg5LWZhZjgtNGFkZC1iNTU3LWYyYjNkNzRjZTE0OC5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/cosmic-comedy-berlin-showcase.webp"
 category = "Comedy"
-organizer = "Freitag, 07. Juni 2024, 20:00 Uhr"
-updated = "2024-06-04T09:04:30.000"
+organizer = "Freitag, 14. Juni 2024, 20:00 Uhr"
+updated = "2024-06-10T00:35:36.000"
 languages = []
 [contact]
 [location]
