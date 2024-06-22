@@ -10,11 +10,9 @@ start_date = "2024-06-09T15:00:00.000"
 end_date = "2024-06-09T15:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Kindl - Zentrum für zeitgenössische Kunst"
-updated = "2024-06-04T09:04:59.000"
+updated = "2024-06-22T06:37:46.000"
 languages = []
 [contact]
-location_street = "Am Sudhaus 3"
-location_city = " 12053 Berlin-Neukölln"
 [location]
 location_street = "Am Sudhaus 3"
 location_city = " 12053 Berlin-Neukölln"

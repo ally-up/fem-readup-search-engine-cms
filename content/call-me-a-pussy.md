@@ -21,13 +21,13 @@ Termine:
 27.04.2024 // 20:00
 Mit Unterstützung von:
 Fonds Darstellende Künste, Gale Family Foundation, Kate Russell, Nicole Hixon, Zirkus Schatzinsel, Freiraum in der Box, Nirgendwo, Theater im Delphi"
-image = "https://imgproxy.berlinonline.net/qvyjD6TR1gyu9uW0AvbpRSID-1Yfd7NDi8mYiWzISeA/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024061002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzExLzFjNDBkMDg1LTk3YmItZGM4NS00OTBiLWI3OGY0MzI1ZWMwOS5wbmc.jpg"
+image = "https://imgproxy.berlinonline.net/djq7pZThY0RYY03Rm4wWjS6gw2ddpqTULCqhSb3D15Y/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062208/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzExLzFjNDBkMDg1LTk3YmItZGM4NS00OTBiLWI3OGY0MzI1ZWMwOS5wbmc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/call-me-a-pussy.webp"
-start_date = "2024-06-15T20:00:00.000"
-end_date = "2024-06-15T20:00:00.000"
+start_date = "2024-07-12T20:00:00.000"
+end_date = "2024-07-12T20:00:00.000"
 category = "Theater"
 organizer = "Ballhaus Prinzenallee"
-updated = "2024-06-10T00:35:50.000"
+updated = "2024-06-22T06:37:22.000"
 languages = []
 [contact]
 location_street = "Prinzenallee 33"

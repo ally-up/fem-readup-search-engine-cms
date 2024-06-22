@@ -6,16 +6,18 @@ type = "event"
 title = "»Genderdiversität und queeres Leben im deutschen Film«"
 subtitle = "Einblicke in die Geschichte des queeren Filmschaffens"
 description = "Während des Rundgangs durch die ständige Ausstellung werden Einblicke in die Geschichte des queeren Filmschaffens gegeben, Genderdiversität vor und hinter der Kamera betrachtet aber Lücken in Filmgeschichte und Ausstellungserzählung aufgezeigt.Ein Führungsangebot mit der Künstlerin und Filmvermittlerin Kaaren Beckhof, anlässlich des Pride Month Berlin 2024."
-image = "https://imgproxy.berlinonline.net/IKhR8NEGarg5OTht-wmR7FJDv12yqk3AA3EQ16ITmCY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024061002/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIwNi9kZmJkM2UwMy04YjQwLWRlZWEtOWFjZS0yMWYzNWRjNmRhODcuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/o0qyGAfG0_u9uGPHrr0Ja90UqxHDAYPfprNjLGs2RzQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062208/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIwNi9kZmJkM2UwMy04YjQwLWRlZWEtOWFjZS0yMWYzNWRjNmRhODcuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/genderdiversitaet-und-queeres-leben-im-deutschen-film.webp"
 start_date = "2024-07-07T16:00:00.000"
 end_date = "2024-07-07T16:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Deutsche Kinemathek"
-updated = "2024-06-10T00:39:45.000"
+updated = "2024-06-22T06:36:17.000"
 languages = []
 [contact]
 location_street = "Potsdamer Straße 2"
 location_city = " 10785 Berlin-Tiergarten"
 [location]
+location_street = "Potsdamer Straße 2"
+location_city = " 10785 Berlin-Tiergarten"
 +++

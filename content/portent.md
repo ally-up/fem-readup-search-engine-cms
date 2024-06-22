@@ -10,7 +10,7 @@ start_date = "2024-06-22T15:00:00.000"
 end_date = "2024-06-22T15:00:00.000"
 category = "Ausstellungen"
 organizer = "Haus der Kulturen der Welt"
-updated = "2024-06-10T00:37:58.000"
+updated = "2024-06-22T06:32:16.000"
 languages = []
 [contact]
 location_street = "John-Foster-Dulles-Allee 10"
