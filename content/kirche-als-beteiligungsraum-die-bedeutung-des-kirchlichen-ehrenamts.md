@@ -10,7 +10,7 @@ start_date = "2024-06-27T19:00:00.000"
 end_date = "2024-06-27T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Französische Friedrichstadtkirche"
-updated = "2024-06-22T06:34:02.000"
+updated = "2024-06-24T00:36:19.000"
 languages = []
 [contact]
 location_street = "Gendarmenmarkt 5"

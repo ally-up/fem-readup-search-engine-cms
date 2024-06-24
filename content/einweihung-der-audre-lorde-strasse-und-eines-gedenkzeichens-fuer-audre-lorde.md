@@ -10,10 +10,12 @@ start_date = "2024-06-28T17:00:00.000"
 end_date = "2024-06-28T17:00:00.000"
 category = "Vermischtes"
 organizer = "Fhxb Friedrichshain-Kreuzberg Museum"
-updated = "2024-06-22T06:34:34.000"
+updated = "2024-06-24T00:36:40.000"
 languages = []
 [contact]
 location_street = "Adalbertstraße 95A"
 location_city = " 10999 Berlin-Kreuzberg"
 [location]
+location_street = "Adalbertstraße 95A"
+location_city = " 10999 Berlin-Kreuzberg"
 +++

@@ -16,11 +16,11 @@ Hinweise zu Ermäßigungen: Ermäßigte Karten erhalten Schüler*innen, Student*
 Ermäßigungen nur nach Verfügbarkeit und Vorlage des entsprechenden Nachweises.
 Rollstuhlfahrer:
 Rollstuhlfahrer*innen bitten wir, ihren Besuch vor der Vorstellung unter folgender Emailadresse anzumelden: tickets@theater-im-delphi.de"
-image = "https://imgproxy.berlinonline.net/vmzhWZVVmeP0RXm_KXdMKesrG7Jx_Ad5XpQHXSN1REU/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062208/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI2LzY3NzYwYTFkLTk1N2ItNDA1ZS1mYTFhLWU4ZTBkNmM4YWFjOS5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/CgcWrDKJEzf58VJh2itfeh9ic7KNBdMntrNNygjhmXo/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062402/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI2LzY3NzYwYTFkLTk1N2ItNDA1ZS1mYTFhLWU4ZTBkNmM4YWFjOS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/virtual-sexploration.webp"
 category = "Vermischtes"
 organizer = "Mittwoch, 10. Juli 2024, 18:00 Uhr"
-updated = "2024-06-22T06:36:30.000"
+updated = "2024-06-24T00:39:32.000"
 languages = []
 [contact]
 [location]

@@ -19,12 +19,12 @@ Arbeitslose, EmpfängerInnen von Hartz IV oder Grundsicherung,InhaberInnen des b
 Schwerbehinderte (mindestens 50 v. H. MdE)
 Journalistinnen und Journalisten erhalten nur nach vorheriger Akkreditierung freien Eintritt
 Führungen für Gruppen sind nach vorheriger Absprache mit uns möglich, bitte senden Sie dazu eine E-Mail mit Ihren Terminwünschen an."
-image = "https://imgproxy.berlinonline.net/FotfdESSsUlFKNQQBZUqsthVvOFHBrRhkt-rVj9IydQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062208/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE1NC9jNzM3MTQyZi0yNjdmLWExOWQtODI5YS0yZmZmNjg3MDEzODkuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/CKB7q_X8XpJoXDpFcL5TyPGvEyqUyC7FyGClfqFkCCw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062402/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE1NC9jNzM3MTQyZi0yNjdmLWExOWQtODI5YS0yZmZmNjg3MDEzODkuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/like-a-whirlwind-die-genderplays-von-marie-hoeeg-bolette-berg.webp"
 start_date = "2024-06-14T00:00:00.000"
 end_date = "2024-08-25T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-06-22T06:31:58.000"
+updated = "2024-06-24T00:35:51.000"
 languages = []
 [contact]
 [location]

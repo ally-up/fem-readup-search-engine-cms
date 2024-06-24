@@ -14,10 +14,12 @@ start_date = "2024-06-27T20:30:00.000"
 end_date = "2024-06-27T20:30:00.000"
 category = "Vermischtes"
 organizer = "Kantine am Berghain"
-updated = "2024-06-22T06:34:32.000"
+updated = "2024-06-24T00:36:37.000"
 languages = []
 [contact]
 location_street = "Am Wriezener Bahnhof"
 location_city = " 10243 Berlin-Friedrichshain"
 [location]
+location_street = "Am Wriezener Bahnhof"
+location_city = " 10243 Berlin-Friedrichshain"
 +++

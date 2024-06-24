@@ -22,12 +22,12 @@ Das Humboldt Forum ist ein offenes Haus und viele Ausstellungen und Veranstaltun
 Buchen Sie bitte für den Besuch der folgenden Ausstellungen vorab online ein Zeitfenster-Ticket: Berlin Global, Nach der Natur.
 Preis: 0,00 €
 Ermäßigter Preis: 0,00 €"
-image = "https://imgproxy.berlinonline.net/uykPQJRw8B15CFy1mOa3LJWub0dDkZPw2pKWXz-oc3E/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062208/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgwLzE0YTJkY2JkLTU2YjItNmQ4Ny1iZDUwLTZiZDIwNWI5YjgwNS5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/DjRbHjkoCUGJGE3V13325jk4f-3sqBCSQ8oOw400s34/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062402/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgwLzE0YTJkY2JkLTU2YjItNmQ4Ny1iZDUwLTZiZDIwNWI5YjgwNS5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/berlin-global-freiflaeche-wir-bleiben-gentrifizierung-und-widerstand-in-berlin.webp"
 start_date = "2023-03-04T00:00:00.000"
 end_date = "2024-10-28T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-06-22T06:31:19.000"
+updated = "2024-06-24T00:35:05.000"
 languages = []
 [contact]
 [location]

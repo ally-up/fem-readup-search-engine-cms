@@ -15,12 +15,12 @@ Beteiligte Künstler*innen: Emre Busse, Ernestine Pastorello, Ginger Angelica, G
 Gefördert von der Berliner Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt.
 Preis: 9,00 €
 Ermäßigter Preis: 3,00 €"
-image = "https://imgproxy.berlinonline.net/k0OoV3GN-s1QxsZ66oMRVMZaCOpblDFQoZmo8hgGrO0/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062208/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxMi9jYmIzZWEzOC0yYjAxLTRhM2UtNWRkNC1lMGYzYjljZDI2YTEuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/BvB4c54Ai-5UsUgX7yF4sR7DnnsQJ19R0qe5qRooAL8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024062402/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxMi9jYmIzZWEzOC0yYjAxLTRhM2UtNWRkNC1lMGYzYjljZDI2YTEuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/with-legs-wide-open-ein-hurenritt-durch-die-geschichte.webp"
 start_date = "2024-03-27T00:00:00.000"
 end_date = "2024-08-26T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-06-22T06:31:24.000"
+updated = "2024-06-24T00:35:10.000"
 languages = []
 [contact]
 [location]

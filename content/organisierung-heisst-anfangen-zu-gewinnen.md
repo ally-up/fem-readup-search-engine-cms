@@ -14,7 +14,7 @@ start_date = "2024-06-06T18:00:00.000"
 end_date = "2024-06-06T21:00:00.000"
 category = "Workshop"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-06-22T06:30:32.000"
+updated = "2024-06-24T00:34:17.000"
 image = "https://info.rosalux.de/image/event/hp32c?type=2"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/organisierung-heisst-anfangen-zu-gewinnen.webp"
 languages = []
