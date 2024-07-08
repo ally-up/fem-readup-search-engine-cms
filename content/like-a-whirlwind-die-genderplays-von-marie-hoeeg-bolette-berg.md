@@ -9,12 +9,12 @@ Die FotografinnenBolette BergundMarie Høeggründeten 1894 das Fotostudio Berg &
 Bei der Versteigerung ihres Nachlasses in den 1970er Jahren erwarb der norwegische Sammler Leif Preus die Glasnegative der beiden Fotografinnen. Neben Aufnahmen von Landschaften und Reproduktionen von Kunstwerken befanden sich zwei Kisten, die mit dem Hinweis „privat“ versehen waren undMarie Høeg,Bolette Bergsowie ihre Geschwister und Freund*innen beim Posieren vor der Kamera zeigen. Mit konventioneller Portraitfotografie hatten diese Aufnahmen nichts gemein. Die spielerisch, humorvoll und voller Lebensfreude komponierten Fotografien stellen die Weiblichkeitsideale des 19. und frühen 20. Jahrhunderts sowie die Geschlechterrollen der damaligen Zeit radikal und frech in Frage. Erstaunlich ist die Aktualität der Bildsprache und die visuelle Auseinandersetzung mit dem Thema, die mit zeitgenössischer künstlerischer Praxis vergleichbar ist. Witzig und frisch nehmen die beiden Fotografinnen Stereotype auf und verwandeln sie mithilfe von Requisiten und Kostümen in frivole Fotografien.
 Die moderne Herangehensweise der Fotograf*innen zeugt von Selbstbewusstsein, von einer spielerischen Auseinandersetzung mit gesellschaftlichen Normen; gleichzeitig macht der Nachlass deutlich, dass die Aufnahmen zu ihren Lebzeiten nur für den Privatgebrauch, nicht für die Öffentlichkeit, bestimmt waren. Das fotografische Atelier war der Safe Space, der sichere Ort, an dem sich die Protagonist*innen der Bilder selbstbestimmt präsentieren konnten.
 DasPreus Museum, das norwegische Nationalmuseum für Fotografie, verwaltet den Nachlass vonMarie HøegundBolette Bergund besitzt die Original-Glasnegative in seiner Sammlung. Die AusstellungLike a Whirlwindim f³ – freiraum für fotografie zeigt digitale Reproduktionen dieses einzigartigen Materials, das in Deutschland so erstmalig zu sehen sein wird."
-image = "https://imgproxy.berlinonline.net/-prZGt-b3pHrdKqQ-7wEmYKqgPhWFF7Wo1UzD-iNOvE/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024070119/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE1NC9jNzM3MTQyZi0yNjdmLWExOWQtODI5YS0yZmZmNjg3MDEzODkuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/IVpsf5t5NnId4rqVviGSsH9dhlFMyoROtiui3iQAUn0/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024070802/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE1NC9jNzM3MTQyZi0yNjdmLWExOWQtODI5YS0yZmZmNjg3MDEzODkuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/like-a-whirlwind-die-genderplays-von-marie-hoeeg-bolette-berg.webp"
 start_date = "2024-06-14T00:00:00.000"
 end_date = "2024-08-25T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-07-01T17:42:35.000"
+updated = "2024-07-08T00:36:29.000"
 languages = []
 [contact]
 [location]

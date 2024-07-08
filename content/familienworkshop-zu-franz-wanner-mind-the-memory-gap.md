@@ -10,7 +10,7 @@ start_date = "2024-06-09T15:00:00.000"
 end_date = "2024-06-09T15:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Kindl - Zentrum für zeitgenössische Kunst"
-updated = "2024-07-01T17:47:00.000"
+updated = "2024-07-08T00:40:46.000"
 languages = []
 [contact]
 [location]

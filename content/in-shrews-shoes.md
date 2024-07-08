@@ -10,10 +10,12 @@ start_date = "2024-07-11T19:30:00.000"
 end_date = "2024-07-11T19:30:00.000"
 category = "Vermischtes"
 organizer = "Berliner Ringtheater"
-updated = "2024-07-01T17:45:10.000"
+updated = "2024-07-08T00:37:22.000"
 languages = []
 [contact]
 location_street = "Alt-Stralau 68"
 location_city = " 10245 Berlin-Friedrichshain"
 [location]
+location_street = "Alt-Stralau 68"
+location_city = " 10245 Berlin-Friedrichshain"
 +++

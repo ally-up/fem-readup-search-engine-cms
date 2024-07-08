@@ -10,7 +10,7 @@ start_date = "2024-07-13T16:00:00.000"
 end_date = "2024-07-13T16:00:00.000"
 category = "Ausstellungen"
 organizer = "Radialsystem V"
-updated = "2024-07-01T17:45:50.000"
+updated = "2024-07-08T00:38:23.000"
 languages = []
 [contact]
 location_street = "Holzmarktstraße 33"

@@ -11,12 +11,12 @@ Die Ausstellung wird von einer umfangreichen Publikation mit neuen Texten beglei
 Kuratorin: Sofie Krogh Christensen
 Wissenschaftlicher Volontär und Kuratorische Assistenz: Aykon Süslü
 Die Ausstellung in den KW wird gefördert durch die New Carlsberg Foundation."
-image = "https://imgproxy.berlinonline.net/OmBIAhRWLWDa8Ne3Imx6hMnplRrptYQo2VLjO2BAcUY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024070119/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgxLzBlYzI2ZTgwLTExMzktNTA0My1kYzUxLTQxODkwY2ZhM2QxNC5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/Ynb5q5_2ft1eG_NNzgOano3igh-ew-DXM3l7h3bt-RE/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024070802/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzgxLzBlYzI2ZTgwLTExMzktNTA0My1kYzUxLTQxODkwY2ZhM2QxNC5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/pia-arke-arctic-hysteria.webp"
 start_date = "2024-07-06T00:00:00.000"
 end_date = "2024-10-20T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-07-01T17:44:16.000"
+updated = "2024-07-08T00:36:32.000"
 languages = []
 [contact]
 [location]

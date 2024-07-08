@@ -11,7 +11,7 @@ start_date = "2024-07-12T18:00:00.000"
 end_date = "2024-07-12T20:00:00.000"
 category = "Podiumsdiskussion"
 organizer = "Heinrich-Böll-Stiftung - Bundesstiftung Berlin"
-updated = "2024-07-01T17:41:09.000"
+updated = "2024-07-08T00:34:45.000"
 languages = ["Deutsch"]
 [contact]
 [location]
