@@ -15,13 +15,13 @@ Julia Albrechtist eine konzeptionelle Fotokünstlerin, deren Arbeiten sich tiefg
 Moritz Wehrmannist Medienkünstler und künstlerischer Mitarbeiter an der Bauhaus-Universität Weimar. Sein künstlerisches Schaffen ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt. Besonders interessieren ihn die Möglichkeiten und kritischen Aspekte künstlicherIntelligenz sowie die analogen und digitalen Formen menschlicher und maschineller Interaktionen.Neben dem Exzellenzcluster Bild Wissen Gestaltung an der Humboldt-Universität zu Berlin war er am Internationalen Kolleg für Kulturtechnikforschung und Medienphilosophie (IKKM)tätig.Seine Werke wurden u.a. auf der Ars Electronica in Linz und Tokio, im Gropius Bau in Berlin, bei der Bauhaus-Stiftung Dessau und im Deutschen Hygiene-Museum Dresdenausgestellt.
 Anmeldung/Buchung: bis zum 7. Juli nur über dasOnline-Formular.
 Teilnehmende werden per Zufallsprinzip ausgewählt."
-image = "https://imgproxy.berlinonline.net/8054PCn1S7ItfV1TcIHQWjh_BsMq_U_YJYfoGGXZhBQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024072202/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEwMy80NWI5NjIyMy02N2EyLTc2M2UtMTM2Ny01NmI0NWVmYzY0NzIuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/mfDrtIyRDF3UAT2gcIjU0uKaJuSy1YUtWbV3G2KQRmg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024080212/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEwMy80NWI5NjIyMy02N2EyLTc2M2UtMTM2Ny01NmI0NWVmYzY0NzIuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/utopia-2124-die-zukunft-durch-die-linse-der-zukunft.webp"
-start_date = "2024-08-01T11:00:00.000"
-end_date = "2024-08-01T11:00:00.000"
+start_date = "2024-08-02T11:00:00.000"
+end_date = "2024-08-02T11:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "C/O Berlin (im Amerika-Haus)"
-updated = "2024-07-22T00:39:17.000"
+updated = "2024-08-02T10:18:36.000"
 languages = []
 [contact]
 location_street = "Hardenbergstraße 22"
