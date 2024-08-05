@@ -12,12 +12,12 @@ Eine Sonderausstellung der Nationalgalerie – Staatliche Museen zu Berlin
 Preisinformationen: Neue Nationalgal.. Sonder- und Dauerausstellungen
 Preis: 14,00 €
 Ermäßigter Preis: 7,00 €"
-image = "https://imgproxy.berlinonline.net/glf8c35XSz9FvXe76xDuyTzzxJUNYLu7ubw29qmbJIY/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024080211/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyNS81ZDEyOGFhYS03ZjdkLWY4MWUtYzdlMS1kYTljMzEwMDllN2IuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/MRxsPSgjo8ue4iRWl41oZAKhHZ1jCKjjQA7jH6s2e28/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024080502/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyNS81ZDEyOGFhYS03ZjdkLWY4MWUtYzdlMS1kYTljMzEwMDllN2IuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/zerreissprobe-kunst-zwischen-politik-und-gesellschaft-1945-2000.webp"
 start_date = "2023-11-18T00:00:00.000"
 end_date = "2025-09-28T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-08-02T10:17:49.000"
+updated = "2024-08-05T00:36:11.000"
 languages = []
 [contact]
 [location]

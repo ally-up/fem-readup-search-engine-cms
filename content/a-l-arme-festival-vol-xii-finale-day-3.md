@@ -10,7 +10,7 @@ start_date = "2024-08-10T19:00:00.000"
 end_date = "2024-08-10T19:00:00.000"
 category = "Vermischtes"
 organizer = "Radialsystem V"
-updated = "2024-08-02T10:19:12.000"
+updated = "2024-08-05T00:37:13.000"
 languages = []
 [contact]
 location_street = "Holzmarktstraße 33"

@@ -10,10 +10,12 @@ start_date = "2024-08-14T19:30:00.000"
 end_date = "2024-08-14T19:30:00.000"
 category = "Bildung & Vorträge"
 organizer = "KW - Institute for Contemporary Art"
-updated = "2024-08-02T10:19:35.000"
+updated = "2024-08-05T00:37:35.000"
 languages = []
 [contact]
 location_street = "Auguststraße 69"
 location_city = " 10117 Berlin-Mitte"
 [location]
+location_street = "Auguststraße 69"
+location_city = " 10117 Berlin-Mitte"
 +++
