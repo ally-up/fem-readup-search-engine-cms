@@ -6,13 +6,13 @@ type = "event"
 title = "Feminist perspective (in English)"
 subtitle = "Karte"
 description = "Bei der Führung wird der Blick der Teilnehmenden aus feministischer Perspektive auf einzelne Werke im Museum gelenkt und Diskussionen zum Thema initiiert Kostenfrei mit Eintrittsticket.Bitte buchen Sie ein Online-Eintrittsticket für den Zeitpunkt der Führung.Begrenzte Teilnemerzahl."
-image = "https://imgproxy.berlinonline.net/myhgOWHxI8Ka3I3Z-fV6WrVDYdSp8940hqEZR24QjRg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024081202/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEvNmFjMTdhNGYtZGU5MC1jMDJlLWM0MDEtOGE3NzU5ZDJlZDJjLmpwZw.jpg"
+image = "https://imgproxy.berlinonline.net/6lmOYC9chJrzKyWlf31WRgg4QMJpqYGngDaHGHjXTpg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024081902/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEvNmFjMTdhNGYtZGU5MC1jMDJlLWM0MDEtOGE3NzU5ZDJlZDJjLmpwZw.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/feminist-perspective-in-english.webp"
 start_date = "2024-02-24T13:00:00.000"
 end_date = "2024-02-24T13:00:00.000"
 category = "Ausstellungen"
 organizer = "Hamburger Bahnhof - Museum für Gegenwart"
-updated = "2024-08-12T00:40:56.000"
+updated = "2024-08-19T00:40:44.000"
 languages = []
 [contact]
 [location]
