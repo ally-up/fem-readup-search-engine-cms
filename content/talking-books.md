@@ -10,7 +10,7 @@ start_date = "2024-08-29T19:00:00.000"
 end_date = "2024-08-29T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "C/O Berlin (im Amerika-Haus)"
-updated = "2024-08-19T00:38:31.000"
+updated = "2024-08-26T00:37:07.000"
 languages = []
 [contact]
 location_street = "Hardenbergstraße 22"

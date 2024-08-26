@@ -10,12 +10,12 @@ Nachdem die Ausstellung unter dem Namen Andy Warhol: Photo Factory vom Fotografi
 Die Ausstellung präsentiert Silbergelatine-Drucke von verlassenen Partytischen und leeren Hotelzimmern, die dazu anregen, über vergängliche Räume nachzudenken. Außerdem werden Polaroids zu sehen sein, die unverfälschte Momente mit Prominenten und Musen einfangen, darunter auch die Serie Ladies and Gentlemen, die stereotype Geschlechterrollen hinterfragt. Der Ausstellungsrundgang führt nach Montauk, einem Dorf auf Long Island, ein, wo Warhol und sein damaliger Partner Paul Morrissey 1972 ein Haus kauften, das jahrelang als Rückzugsort für sie und ihre prominenten Freund*innen diente.
 Warhols fotografische Perspektive geben Einblicke in seine persönlichsten Gedanken und Wünsche. Darunter ist die Körperstudie Sex Parts and Torsos, die den nackten männlichen Körper auf Polaroids darstellt, und das Video Blow Job, das das Gesicht von DeVeren Bookwalter zeigt, während ein nicht sichtbarer Partner ihn oral befriedigt. Diese Kunstwerke verbildlichen Andy Warhols Verlangen und laden ein, über die Komplexität menschlicher Begierde nachzudenken.
 Seine Meisterwerke und seine Porträts von Prominenten haben seinen Status als Ikone zementiert. Seine Kamera war für ihn auch ein Werkzeug, um mit anderen Verbindungen aufzubauen. Die in der Ausstellung gezeigten Fotografien zeugen davon, wie Bilder lebensprägende Erinnerungen konservieren. Durch Warhols Linse sehen wir den Mann hinter dem Mythos und denken über unsere eigene Suche nach Authentizität und Zugehörigkeit nach."
-image = "https://imgproxy.berlinonline.net/Z3JhGy8kYbdbljtNysv2PI2uq_sjvOdzjgMclOercPQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024081902/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzIwNC8xNmVmZWIwMC1iZTBjLTQ5MzktOGZjYy04YTc3M2U3YzAzY2EuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/eNdYL67eIxx2j1prZn7BrKbkRNL_kA6xQ5yrom3t_PE/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024082602/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzIwNC8xNmVmZWIwMC1iZTBjLTQ5MzktOGZjYy04YTc3M2U3YzAzY2EuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/andy-warhol-after-the-party.webp"
 start_date = "2024-05-17T00:00:00.000"
 end_date = "2024-09-15T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-08-19T00:36:13.000"
+updated = "2024-08-26T00:36:22.000"
 languages = []
 [contact]
 [location]
