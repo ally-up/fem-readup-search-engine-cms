@@ -10,10 +10,12 @@ start_date = "2024-09-19T19:00:00.000"
 end_date = "2024-09-19T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Jüdisches Museum Berlin"
-updated = "2024-08-26T00:39:43.000"
+updated = "2024-09-02T00:40:42.000"
 languages = []
 [contact]
 location_street = "Lindenstraße 14"
 location_city = " 10969 Berlin-Kreuzberg"
 [location]
+location_street = "Lindenstraße 14"
+location_city = " 10969 Berlin-Kreuzberg"
 +++

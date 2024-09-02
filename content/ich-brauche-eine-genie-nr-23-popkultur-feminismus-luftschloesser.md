@@ -14,7 +14,7 @@ start_date = "2024-06-27T20:30:00.000"
 end_date = "2024-06-27T20:30:00.000"
 category = "Vermischtes"
 organizer = "Kantine am Berghain"
-updated = "2024-08-26T00:40:24.000"
+updated = "2024-09-02T00:42:50.000"
 languages = []
 [contact]
 [location]

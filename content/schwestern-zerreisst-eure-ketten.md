@@ -12,7 +12,7 @@ start_date = "2024-09-05T18:00:00.000"
 end_date = "2024-09-05T18:00:00.000"
 category = "Vermischtes"
 organizer = "Friedhof der Märzgefallenen"
-updated = "2024-08-26T00:37:44.000"
+updated = "2024-09-02T00:38:20.000"
 languages = []
 [contact]
 location_street = "Ernst-Zinna-Weg"
