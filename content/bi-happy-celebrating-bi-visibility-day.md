@@ -12,10 +12,10 @@ start_date = "2024-09-21T21:00:00.000"
 end_date = "2024-09-21T21:00:00.000"
 category = "Party"
 organizer = "SchwuZ Berlin"
-updated = "2024-09-09T00:42:31.000"
+updated = "2024-10-18T10:59:41.000"
 languages = []
 [contact]
+[location]
 location_street = "Rollbergstraße 26"
 location_city = " 12053 Berlin-Neukölln"
-[location]
 +++

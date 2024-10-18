@@ -10,11 +10,9 @@ start_date = "2024-09-11T17:00:00.000"
 end_date = "2024-09-11T17:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Humboldt Forum"
-updated = "2024-09-09T00:40:03.000"
+updated = "2024-10-18T10:59:33.000"
 languages = []
 [contact]
-location_street = "Schloßplatz"
-location_city = " 10178 Berlin-Mitte"
 [location]
 location_street = "Schloßplatz"
 location_city = " 10178 Berlin-Mitte"

@@ -14,7 +14,7 @@ start_date = "2024-10-15T18:00:00.000"
 end_date = "2024-10-15T20:00:00.000"
 category = "Lesung/Gespräch"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-09-09T00:39:18.000"
+updated = "2024-10-18T10:54:10.000"
 languages = []
 [contact]
 [location]
