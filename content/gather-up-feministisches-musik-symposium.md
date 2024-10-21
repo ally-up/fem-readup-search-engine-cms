@@ -16,10 +16,12 @@ start_date = "2024-10-26T13:00:00.000"
 end_date = "2024-10-26T13:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Universität der Künste - Joseph-Joachim-Konzertsaal"
-updated = "2024-10-18T10:56:53.000"
+updated = "2024-10-21T00:43:10.000"
 languages = []
 [contact]
 location_street = "Bundesallee 1 - 12"
 location_city = " 10719 Berlin-Wilmersdorf"
 [location]
+location_street = "Bundesallee 1 - 12"
+location_city = " 10719 Berlin-Wilmersdorf"
 +++

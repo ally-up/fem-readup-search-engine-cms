@@ -17,7 +17,7 @@ start_date = "2024-10-31T19:00:00.000"
 end_date = "2024-10-31T21:00:00.000"
 category = "Film"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-10-18T10:54:20.000"
+updated = "2024-10-21T00:40:54.000"
 languages = []
 [contact]
 [location]
