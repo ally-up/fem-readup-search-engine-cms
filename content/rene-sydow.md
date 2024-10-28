@@ -12,13 +12,13 @@ Und wenn der Zuschauer sich fragt: „Darf man das so sagen?“, dann antwortet 
 Schwetzinger Zeitung
 „Ätzend, bitterböse, ein brillanter Intellektueller, der den großen Wurf verfolgt. Einer der Großen des politischen Kabaretts“
 Die Rheinpfalz"
-image = "https://imgproxy.berlinonline.net/QwdJWA5cq7C9jd9d7ms0-TUSlFSZdBL_SDc3UfwoVN8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024102102/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzQ4LzBmYmRhZjBkLTY3ZWMtOTcxNi04MjMwLWVmYzk2YjU5MjIxOC5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/KwBuWOzQFjX7vvwIzuQx0ulPwmuO5Ns0MV452wuRA4E/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024102801/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzQ4LzBmYmRhZjBkLTY3ZWMtOTcxNi04MjMwLWVmYzk2YjU5MjIxOC5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/rene-sydow.webp"
 start_date = "2024-10-31T20:00:00.000"
 end_date = "2024-10-31T20:00:00.000"
 category = "Comedy"
 organizer = "Mehringhof-Theater"
-updated = "2024-10-21T00:44:07.000"
+updated = "2024-10-28T00:44:21.000"
 languages = []
 [contact]
 location_street = "Gneisenaustraße 2 A"
