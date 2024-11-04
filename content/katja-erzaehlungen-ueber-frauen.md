@@ -1,7 +1,7 @@
 +++
 identifier = "katja-erzaehlungen-ueber-frauen"
 source = "Rosa Luxemburg Stiftung"
-url = "https://rosalux.de/veranstaltung/es_detail/GFNAS/katja-erzaehlungen-ueber-frauen?cHash=287c98492f272aaa6f0c09a18c36148e"
+url = "https://rosalux.de/veranstaltung/es_detail/GFNAS/katja-erzaehlungen-ueber-frauen?cHash=34aeaaf784bbb8bcae9b7293bcb6c59f"
 type = "event"
 title = "«Katja. Erzählungen über Frauen»"
 subtitle = "Lesung mit Herausgeber Prof. Dr. Carsten Gansel"
@@ -15,7 +15,7 @@ start_date = "2024-11-27T18:00:00.000"
 end_date = "2024-11-27T20:00:00.000"
 category = "Lesung/Gespräch"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-10-28T00:42:43.000"
+updated = "2024-11-04T00:41:12.000"
 languages = []
 [contact]
 [location]

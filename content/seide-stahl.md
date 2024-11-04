@@ -15,13 +15,13 @@ Choreographische Assistenz:Ruby & Hoba Hmidan
 Video & Foto:Benjamin Lucke
 Licht Konzept:Moody Kablawi
 Produktion:Miriam Taschler"
-image = "https://imgproxy.berlinonline.net/t3eKin0IbH6nwpGYMjVTXpE2Y4A8BkujROwVOCM3oWw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024102801/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0My8wZWQyYzY5My1kMDNiLTE0ZmUtYWJmMy05N2U0NTIwMDUzMjUuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/xPQdXjRsBmyHwwEBhIwYLF61W9yZM96aWyzhjAnA1Es/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024110401/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0My8wZWQyYzY5My1kMDNiLTE0ZmUtYWJmMy05N2U0NTIwMDUzMjUuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/seide-stahl.webp"
 start_date = "2024-11-17T00:00:00.000"
 end_date = "2024-11-17T00:00:00.000"
 category = "Zirkus"
 organizer = "Sonntag, 17. November 2024, 18:00 Uhr"
-updated = "2024-10-28T00:47:37.000"
+updated = "2024-11-04T00:45:44.000"
 languages = []
 [contact]
 [location]

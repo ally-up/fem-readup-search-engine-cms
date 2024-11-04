@@ -5,9 +5,10 @@ url = "https://rosalux.de/veranstaltung/es_detail/76B4X/monster-verstehen?cHash=
 type = "event"
 title = "Monster verstehen"
 subtitle = "Faschisierung, grüner Kapitalismus und Sozialismus"
-description = "In welcher Zeit leben wir? Wir erleben eine neue gesellschaftliche Situation, viele alternative Wege scheinen verschlossen, die Linke in den vielen Ländern in der Defensive. Zugleich ist die Situation umkämpft, viele Debatten verlaufen zunehmend polarisiert, manche gar gewaltförmig. Die gesellschaftlichen Widersprüche bleiben ungelöst, ein grüner Kapitalismus kann sich kaum durchsetzen und könnte ohnehin kaum ausreichend die kommenden Krisen und Katastrophen bearbeiten. Eine neue Blockkonfrontation, Krieg und Aufrüstung rauben die Ressourcen gegen die sich zuspitzenden sozialen, ökologischen, ökonomischen Krisen. Autoritäre Projekte und eine zunehmende Faschisierung verbreiten Ressentiments, Angst und alltägliche Gewalt, während viele linke Projekte zwischen überkommenen Spätneoliberalismus, blockierter ökologischer Modernisierung und der radikalen Rechten zerrieben werden. 
+description = "Ausgebucht: Die Veranstaltung ist leider ausgebucht. Die Samstagabendveranstaltung zeichnen wir auf und veröffentlichen diese im Nachhinein in unserer Mediathek.
+In welcher Zeit leben wir? Wir erleben eine neue gesellschaftliche Situation, viele alternative Wege scheinen verschlossen, die Linke in den vielen Ländern in der Defensive. Zugleich ist die Situation umkämpft, viele Debatten verlaufen zunehmend polarisiert, manche gar gewaltförmig. Die gesellschaftlichen Widersprüche bleiben ungelöst, ein grüner Kapitalismus kann sich kaum durchsetzen und könnte ohnehin kaum ausreichend die kommenden Krisen und Katastrophen bearbeiten. Eine neue Blockkonfrontation, Krieg und Aufrüstung rauben die Ressourcen gegen die sich zuspitzenden sozialen, ökologischen, ökonomischen Krisen. Autoritäre Projekte und eine zunehmende Faschisierung verbreiten Ressentiments, Angst und alltägliche Gewalt, während viele linke Projekte zwischen überkommenen Spätneoliberalismus, blockierter ökologischer Modernisierung und der radikalen Rechten zerrieben werden. 
 Welches sind die entscheidenden Dynamiken in Zeiten von Krisen, Kriegen und Katastrophen? Wie entwickeln sich die gesellschaftlichen Kräfteverhältnisse? Welches sind die gesellschaftlichen Szenarien möglicher Zukünfte? Welches sind die Blockaden einer progressiven Entwicklung? Welche Strategien und Alternativen einer sozialistischen Linken braucht es, um in diesen Zeiten der Transformation handlungs- und wirkungsfähig zu werden? Wir versuchen auf dieser Konferenz eine konkrete Analyse der konkreten Situation, verknüpft mit der Suche nach linken Strategien und (öko)sozialistischen Perspektiven. Dazu laden wir internationale Referent*innen ein, um uns gemeinsam Raum für eine Zeitdiagnose zu nehmen.
-Eine Tagung der Rosa-Luxemburg-Stiftung, der Assoziation für kritische Gesellschaftsforschung (AkG), der PROKLA-Redaktion und des Berliner Instituts für kritische Theorie (InkriT).Um 
+Eine Tagung der Rosa-Luxemburg-Stiftung, der Assoziation für kritische Gesellschaftsforschung (AkG), der PROKLA-Redaktion und des Berliner Instituts für kritische Theorie (InkriT).
 Programm
 Freitag, 15.11.
 18 Uhr:Begrüßung Heinz Bierbaum (Vorstandsvorsitzender Rosa-Luxemburg-Stiftung)
@@ -35,7 +36,7 @@ start_date = "2024-11-15T18:00:00.000"
 end_date = "2024-11-16T21:00:00.000"
 category = "Tagung/Konferenz"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-10-28T00:42:32.000"
+updated = "2024-11-04T00:40:57.000"
 languages = []
 [contact]
 [location]

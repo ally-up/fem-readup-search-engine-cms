@@ -12,7 +12,7 @@ start_date = "2024-09-21T21:00:00.000"
 end_date = "2024-09-21T21:00:00.000"
 category = "Party"
 organizer = "SchwuZ Berlin"
-updated = "2024-10-28T00:48:22.000"
+updated = "2024-11-04T00:47:06.000"
 languages = []
 [contact]
 [location]
