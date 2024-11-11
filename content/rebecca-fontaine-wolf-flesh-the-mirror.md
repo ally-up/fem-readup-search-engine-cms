@@ -14,7 +14,7 @@ Mit ihrem demaskierenden Umgang mit misogynen Motiven wie dem Vanitas Motiv oder
 start_date = "2024-09-21T00:00:00.000"
 end_date = "2024-12-20T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-11-04T00:41:58.000"
+updated = "2024-11-11T00:41:02.000"
 languages = []
 [contact]
 [location]

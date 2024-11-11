@@ -1,0 +1,16 @@
++++
+identifier = "anonyme-zeichner-innen-2024-und-lines-fiction"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/ausstellungen/anonyme-zeichner-innen-2024-und-lines-fiction-6df7d5ed-e923-4786-a45f-b9bc3f77bd36/"
+type = "event"
+title = "ANONYME ZEICHNER*INNEN 2024 und LINES FICTION"
+subtitle = "ERÖFFNUNG: Freitag, 15. November, 17 – 23 Uhr"
+description = "Vom 16. November 2024 bis zum 12. Januar 2025 werden im Berliner Kunstraum Kreuzberg Bethanien zwei Projekte präsentiert, die sich mit dem Medium Zeichnung beschäftigen: ANONYME ZEICHNER*INNEN – ein Projekt für Originalzeichnungen, kuratiert von Anke Becker und LINES FICTION  – ein Projekt für Zeichnungen und künstlerische Animationen, kuratiert von Bettina Munk.19 UhrBegrüßung: Stéphane Bauer / Leitung Kunstraum KreuzbergEinführung: Anke Becker/ Projektgründerin Anonyme Zeichner*innenBettina Munk / Projektgründerin Lines Fiction Ab 20 UhrVerkauf von Zeichnungen für 250€ pro BlattBarzahlung und KartenzahlungDJ-Set von Andrea Dama In der Ausstellung ANONYME ZEICHNER*INNEN 2024 werden rund 1000 Zeichnungen von 1000 internationalen Künstler*innen präsentiert. Die Arbeiten werden ohne Namensnennung der Urheber*innen ausgestellt und zu einem symbolischen Einheitspreis von 250 € zum Verkauf angeboten. Die Anonymität der Zeichner*innen kann nur durch einen Verkauf aufgehoben werden: Verkaufte Zeichnungen werden direkt von der Ausstellungswand genommen, Name und Herkunftsort der jeweiligen Künstler*innen werden in die entstehende Leerstelle auf die Wand geschrieben. Der festgesetzte Einheitspreis versteht sich nicht als realer Marktpreis, sondern fungiert als konzeptueller Platzhalter für jede auf dem Kunstmarkt erdenkliche Verkaufssumme. ANONYME ZEICHNER*INNEN ist Konzeptkunst und Ausstellungsprojekt in einem: Die einzelnen Werke werden Teil eines eines kollektiven Gesamtkunstwerks ohne Hierarchien und bilden eine Hommage an das vielfältige Medium der Zeichnung. Der Ausstellung ging ein für jede*n offener, internationaler Aufruf zur Teilnahme voraus. Es gab darin keine inhaltlichen oder formalen Vorgaben. Die einzige Bedingung war dass Zeichnungen nicht größer als A3 sind. Biografische Angaben der Teilnehmer*innen wurden nicht erfragt und spielten bei der ebenfalls anonym durchgeführten Auswahl keine Rolle. Die ausgestellten Zeichnungen wurden aus über 4400 Einreichungen von der Künstlerin und Projektgründerin Anke Becker ausgewählt in Zusammenarbeit mit den Künstlerinnen Inken Reinert und Veronike Hinsberg zu einer großen Installation zusammengefügt. Parallel zur Ausstellung von ANONYME ZEICHNER*INNEN wird LINES FICTION im Kunstraum Kreuzberg 116 künstlerischen Animationsfilmen aus aller Welt präsentieren. VERKAUF VON ZEICHNUNGEN IM KUNSTRAUM KREUZBERGWährend der Eröffnung am Freitag, den 15.11. ab 20 UhrSamstag 16.11.  Sonntag 17.11., 16 – 20 UhrDonnerstags, 21.11. / 28.11. / 5.12. / 12.12. / 19.12., jeweils  16 – 19 UhrSonntag, 1.12., 17 – 20 UhrSonntag, 12. 01. 2025, 16 – 20 UhrBarzahlung und Kartenzahlung"
+start_date = "2024-11-16T00:00:00.000"
+end_date = "2025-01-12T00:00:00.000"
+category = "Ausstellungen"
+updated = "2024-11-11T00:42:42.000"
+languages = []
+[contact]
+[location]
++++

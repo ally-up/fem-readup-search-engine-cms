@@ -10,10 +10,12 @@ start_date = "2024-11-30T19:00:00.000"
 end_date = "2024-11-30T19:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Radialsystem V"
-updated = "2024-11-04T00:46:13.000"
+updated = "2024-11-11T00:43:55.000"
 languages = []
 [contact]
 location_street = "Holzmarktstraße 33"
 location_city = " 10243 Berlin-Friedrichshain"
 [location]
+location_street = "Holzmarktstraße 33"
+location_city = " 10243 Berlin-Friedrichshain"
 +++

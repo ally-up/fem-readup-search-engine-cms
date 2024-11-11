@@ -16,7 +16,7 @@ start_date = "2024-10-26T13:00:00.000"
 end_date = "2024-10-26T13:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Universität der Künste - Joseph-Joachim-Konzertsaal"
-updated = "2024-11-04T00:47:05.000"
+updated = "2024-11-11T00:45:51.000"
 languages = []
 [contact]
 [location]
