@@ -10,7 +10,7 @@ start_date = "2024-05-18T12:00:00.000"
 end_date = "2024-05-18T12:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Brücke Museum"
-updated = "2024-11-18T00:48:30.000"
+updated = "2024-11-25T00:47:27.000"
 languages = []
 [contact]
 [location]
