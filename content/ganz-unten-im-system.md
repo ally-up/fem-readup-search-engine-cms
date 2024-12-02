@@ -12,7 +12,7 @@ end_date = "2024-12-06T19:30:00.000"
 category = "Buchvorstellung und Diskussion"
 organizer = "Heinrich-Böll-Stiftung - Bundesstiftung Berlin"
 updated = "2024-11-25T00:42:23.000"
-languages = ["Deutsch"]
+languages = ["Deutsch","Englisch"]
 [contact]
 [location]
 +++

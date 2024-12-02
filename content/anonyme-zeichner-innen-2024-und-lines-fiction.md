@@ -9,8 +9,8 @@ description = "Vom 16. November 2024 bis zum 12. Januar 2025 werden im Berliner 
 start_date = "2024-11-16T00:00:00.000"
 end_date = "2025-01-12T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-11-25T00:43:27.000"
-image = "https://imgproxy.berlinonline.net/eBGGB8urjcSTWy_9LUewQbQy4bU3S81IKRiqTESia_U/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024112501/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM4L2RkYjYyZTBiLTZmODEtOTAwYy1iMDI2LTJlNTA4NTlkYTJiYy5qcGc.jpg"
+updated = "2024-12-02T00:45:30.000"
+image = "https://imgproxy.berlinonline.net/bJPpDYy4qeK3r6OWOJVhaRx3iiEAXB1mlJQGkDzN0wQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024120201/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM4L2RkYjYyZTBiLTZmODEtOTAwYy1iMDI2LTJlNTA4NTlkYTJiYy5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/anonyme-zeichner-innen-2024-und-lines-fiction.webp"
 languages = []
 [contact]
