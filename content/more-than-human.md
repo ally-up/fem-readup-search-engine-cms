@@ -20,12 +20,12 @@ Kulturforum alle Ausstellungen: 20,00 €
 Preis: 10,00 €
 Ermäßigter Preis: 5,00 €
 Informationen zum ermäßigten Preis: Kulturforum alle Ausstellungen: 10,00 €"
-image = "https://imgproxy.berlinonline.net/y1h4ymFOxiPBVfKFbl3O_hKhZAok9ewC6GsIuTcooU4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024120201/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxMy82ZGVlZDE1Mi00ZDkxLTcwOTItMTJkNS0wODQ5MjcwYzQ1ZmYuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/tp95KbNA4qyaLiGbDhpCY0VZsI5m-40m6OyAEqoYNac/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024122301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxMy82ZGVlZDE1Mi00ZDkxLTcwOTItMTJkNS0wODQ5MjcwYzQ1ZmYuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/more-than-human.webp"
 start_date = "2024-03-01T00:00:00.000"
-end_date = "2025-03-02T00:45:21.901580"
+end_date = "2025-03-23T00:42:09.824113"
 category = "Ausstellungen"
-updated = "2024-12-02T00:45:21.000"
+updated = "2024-12-23T00:42:09.000"
 languages = []
 [contact]
 [location]
