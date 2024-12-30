@@ -10,10 +10,12 @@ start_date = "2025-01-17T20:00:00.000"
 end_date = "2025-01-17T20:00:00.000"
 category = "Vermischtes"
 organizer = "Artjom Theater"
-updated = "2024-12-23T00:44:21.000"
+updated = "2024-12-30T00:44:27.000"
 languages = []
 [contact]
 location_street = "Boxhagener Straße 18"
 location_city = " 10245 Berlin-Friedrichshain"
 [location]
+location_street = "Boxhagener Straße 18"
+location_city = " 10245 Berlin-Friedrichshain"
 +++

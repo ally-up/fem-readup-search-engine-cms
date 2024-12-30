@@ -10,12 +10,12 @@ Mythen können an das gesellschaftliche Umfeld angepasst werden: Die Deutung ant
 Die Bilder und die Mythen werden vor dem Hintergrund der antiken Lebenswelt betrachtet. Sie entstanden in einer grundsätzlich binär gedachten und männlich geprägten Gesellschaft mit entsprechenden Rollenbildern. Für Frauen bedeutete dies oft eine Unterordnung. Die mythologischen Frauenfiguren halten sich jedoch nur teilweise an diese Normen.
 In drei Themenbereichen geht die Ausstellung der Einordnung berühmter weiblicher Figuren in der Antike nach. Welche wurden als ‚Vorbilder‘ wahrgenommen und warum? Einige verhalten sich ‚wie es sein sollte‘ und verkörpern Treue, Sittsamkeit und Fruchtbarkeit. Doch drei der am meisten verehrten Göttinnen – Athena, Aphrodite und Artemis – überschreiten jede auf ihre Art bestimmte Normgrenzen und sind diesen offenbar nicht unterworfen. Was bedeutet es, wenn die nackte ‚Liebesgöttin‘ Aphrodite ein Schwert mit sich trägt? Handeln die Frauen jedoch zu weit jenseits weiblicher Rollennormen, werden sie zu negativen Gegenbildern gesellschaftlichen Verhaltens. Ein bekanntes Beispiel ist Medusa. Doch war sie wirklich nur das ‚Monster‘?
 Die Ausstellung zeigt über die antiken Objekte hinaus auch deutungsgeschichtliche und zeitgenössische Perspektiven. Medusa wurde beispielsweise ab den 1980er Jahren vom männermordenden Monster zu einem feministischen Vorbild. „Göttinnen und Gattinnen“ erlaubt einen aktuellen Blick auf eine Reihe von Frauen im Mythos. Die antiken Bilder sind vielschichtig und haben bis heute eine hohe Aktualität."
-image = "https://imgproxy.berlinonline.net/k7C1BILF-FIe7R_YYQoZe5bMvY0bdAw6iQgNCoKxsKs/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024122301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM5L2M5ODU5ODU0LTY4ZGUtOWYzYy1mYzI3LTRmY2ZhMzAzYjM3Zi5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/DxFT1lCdtS3D9wF8oNBfUdfjHuv0WtNds3FI31DWzHw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzM5L2M5ODU5ODU0LTY4ZGUtOWYzYy1mYzI3LTRmY2ZhMzAzYjM3Zi5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/goettinnen-und-gattinnen-frauen-im-antiken-mythos.webp"
 start_date = "2024-05-24T00:00:00.000"
 end_date = "2025-03-16T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-12-23T00:42:13.000"
+updated = "2024-12-30T00:42:24.000"
 languages = []
 [contact]
 [location]

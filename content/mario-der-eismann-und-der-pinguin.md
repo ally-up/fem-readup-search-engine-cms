@@ -12,13 +12,13 @@ Für Kinder ab 2-7 Jahren
 Das Theater Jaro, gegründet von Katja Behounek-Pölzer und Martin  Pölzer ist ein freies professionelles, nicht institutionell gefördertes  Theater, das seit 1988 in Berlin aktiv ist und seitdem mit einer Fülle  von unterschiedlichen Künstlern/innen kooperiert hat.
 Aktuell  besteht das Repertoire aus 18 Produktionen für Kinder von 2 – 12 Jahren  und ihren Begleitpersonen. Die Inhalte werden eigenständig entwickelt  und mit Puppen – Schauspiel und Live Musik professionell inszeniert.
 Der breit gefächerte Themenkatalog reicht von Stücken über die Wüste,  Klima-Wandel,  Gender,  Indianer, Wichtelwelten, Clownstheater,  musikalischen Programmen bis hin zu einer Dinosaurier – Triologie."
-image = "https://imgproxy.berlinonline.net/khgaX5E2fIG-WKGveigdnhVjwtLL6OeDoE8PNUrcdys/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024122301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzExMi8yMDdmYjA3MS1jODE3LTNlYWUtZmI3MC01NTQxNTA3N2ZjODkuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/2-JmO2a3QIaLPVdIo_1C2W9j2SUEzxTpFijdKptQSVI/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzExMi8yMDdmYjA3MS1jODE3LTNlYWUtZmI3MC01NTQxNTA3N2ZjODkuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/mario-der-eismann-und-der-pinguin.webp"
 start_date = "2025-01-04T16:00:00.000"
 end_date = "2025-01-04T16:00:00.000"
 category = "Kinder"
 organizer = "Theater Jaro"
-updated = "2024-12-23T00:42:57.000"
+updated = "2024-12-30T00:42:48.000"
 languages = []
 [contact]
 location_street = "Schlangenbader Straße 30-31"

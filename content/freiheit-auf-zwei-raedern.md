@@ -22,12 +22,12 @@ Empfängerinnen und Empfänger von Leistungen nach dem Asylbewerberleistungsgese
 Bundesfreiwilligendienstleistende und freiwillig Wehrdienstleistende
 Berlinerinnen und Berliner mit berlinpass und berlinpass-BuT
 Gruppen aus Behinderteneinrichtungen"
-image = "https://imgproxy.berlinonline.net/_T9YMR94dNOYbzjkANzoS5UenTg_blsut5lkc-eW0Cc/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024122301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0My81Yzk2MTNlMC01NjlhLTZiMmEtZDdmMy03ZTI1NjcwMzFiNDIuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/tYGyEOkEzanWWv7qGW4QMnTMRSl7DFaP_a7IKEl_FKM/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzI0My81Yzk2MTNlMC01NjlhLTZiMmEtZDdmMy03ZTI1NjcwMzFiNDIuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/freiheit-auf-zwei-raedern.webp"
 start_date = "2024-04-24T00:00:00.000"
 end_date = "2025-01-19T00:00:00.000"
 category = "Ausstellungen"
-updated = "2024-12-23T00:42:11.000"
+updated = "2024-12-30T00:42:22.000"
 languages = []
 [contact]
 [location]

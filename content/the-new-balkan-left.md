@@ -16,7 +16,7 @@ start_date = "2024-12-19T20:00:00.000"
 end_date = "2024-12-19T22:00:00.000"
 category = "Buchvorstellung"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2024-12-23T00:41:30.000"
+updated = "2024-12-30T00:41:32.000"
 languages = []
 [contact]
 [location]

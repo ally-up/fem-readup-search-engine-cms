@@ -10,12 +10,12 @@ Bis heute ist die Kunstgeschichtsschreibung von einem männlichen Blick geprägt
 Übergreifendes Ziel der Ausstellung ist die Erweiterung des  traditionellen Museumsdiskurses um die damaligen wie auch heutigen  Perspektiven, Beiträge und Taten von Frauen. Hierzu wurden sechs  Routen durch das Bode-Museum ausgearbeitet, die den Besucher*innen neue  Blickwinkel auf bekannte und weniger bekannte Kunstwerke eröffnen und  zugleich Impulse für die zukünftige Forschung bieten sollen.
 Preis: 10,00 €
 Ermäßigter Preis: 5,00 €"
-image = "https://imgproxy.berlinonline.net/QyzsRPI6vY2DPVrwxT2yTDcTgti8zvsZnSEbo96QVIg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024122301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE1MC8wZGNlYTQ1Ni03NzdlLThkMWEtMmM5Ni1lNzU5OWUyMjU3YjEuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/mdVbzHdLS_4idDynNgiYDfniVeLaqQliWc43Z4U1Wbw/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE1MC8wZGNlYTQ1Ni03NzdlLThkMWEtMmM5Ni1lNzU5OWUyMjU3YjEuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/der-zweite-blick-frauen.webp"
 start_date = "2021-10-01T00:00:00.000"
-end_date = "2025-03-23T00:42:05.811084"
+end_date = "2025-03-30T00:42:16.351185"
 category = "Ausstellungen"
-updated = "2024-12-23T00:42:05.000"
+updated = "2024-12-30T00:42:16.000"
 languages = []
 [contact]
 [location]
