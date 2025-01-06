@@ -11,11 +11,11 @@ In Anlehnung an Gloria Anzaldúas Konzept der „almas entre dos mundos“ – S
 INFORMATIONEN ZUR BARRIEREFREIHEIT
 Performance, Choreografie: Auro OrsoDramaturgie: Pedra CostaSoundkreation, Komposition: DJ PendejoSounddesign: Mahya KetabchiBühne, Kostüm: Klara MohammadiOutside Eye, Produktion: Camila MalenchiniLichtdesign: Roc Gottschalk del Pozo
 Die 34. Tanztage Berlin sind eine Produktion der Sophiensæle. Gefördert von der Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt. Mit freundlicher Unterstützung von Tanzfabrik Berlin e.V. und Theaterhaus Berlin. Medienpartner: Berlin Art Link, Missy Magazine, Siegessäule, taz."
-image = "https://imgproxy.berlinonline.net/ZX-hU86DJ7GfBNbqSo1Oj_y7e2qqPECIeXeHasKCbYM/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE2LzlhYWVmODM5LWM3ODYtZThhZi05ODEwLTU5MGRkZDRiYzRjNy5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/HIPaDhYgPzz86raLEHZxJbnh05PDHTMCITIKqcEIazQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025010601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE2LzlhYWVmODM5LWM3ODYtZThhZi05ODEwLTU5MGRkZDRiYzRjNy5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/auro-orso-perreo-entre-los-mundos.webp"
 category = "Tanz"
 organizer = "Freitag, 10. Januar 2025, 19:00 Uhr"
-updated = "2024-12-30T00:43:07.000"
+updated = "2025-01-06T00:43:19.000"
 languages = []
 [contact]
 [location]

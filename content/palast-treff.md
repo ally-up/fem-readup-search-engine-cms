@@ -10,8 +10,8 @@ start_date = "2025-01-12T14:00:00.000"
 end_date = "2025-01-12T14:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Humboldt Forum: Saal 1"
-updated = "2024-12-30T00:43:50.000"
-image = "https://imgproxy.berlinonline.net/YzsTBnMy8qUD-bn6pjBxKr0OsGXFFZtZ43tCweEdKPg/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzcwLzhmYTI4ZGY5LTY4YzctMTI0ZC0xZDQ2LWU5ZTc0M2EzODc1Yy5qcGc.jpg"
+updated = "2025-01-06T00:44:06.000"
+image = "https://imgproxy.berlinonline.net/lIXVJvq9HGfHAlt0HHnyJERy2K01ZvciZW-oS4xV0S8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025010601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzcwLzhmYTI4ZGY5LTY4YzctMTI0ZC0xZDQ2LWU5ZTc0M2EzODc1Yy5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/palast-treff.webp"
 languages = []
 [contact]

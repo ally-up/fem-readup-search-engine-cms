@@ -12,13 +12,13 @@ Wir sind im Weltraum verloren. Wir sind alle auf See. Wir sitzen alle im selben 
 „[...] Das Problem ist, dass wir nicht wussten, wen wir meinten, als wir „wir“ sagten.“ (Rosi Braidotti)
 Konzept, Komposition, Performance: Mika BangemannKonzept, Bühne, Kostüm: Eddie N. von SeckendorffOutside Eye: Olympia BukkakisLichtdesign: Hanna Kritten TangsooSounddesign: Ernesto Cárcamo Cavazos
 Eine Produktion von Tentacular Figurings in Kooperation mit HZT Berlin. Die 34. Tanztage Berlin sind eine Produktion der Sophiensæle. Gefördert von der Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt. Mit freundlicher Unterstützung von Tanzfabrik Berlin e.V. und Theaterhaus Berlin. Medienpartner: Berlin Art Link, Missy Magazin, Siegessäule, taz."
-image = "https://imgproxy.berlinonline.net/xzQ4T1zTgYIOFMwXen6RL5DSDgOyxVW7tKNR0jBYaYA/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2024123001/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxNi81MjA2YzUyZi02ZWYyLThiNjQtZmRkOC1mNDUzOTBjMmE1NTkuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/kMhm2KXecobWiwmy2hOUYWXj-sHgZCD2wW8ruu6VgTs/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025010601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIxNi81MjA2YzUyZi02ZWYyLThiNjQtZmRkOC1mNDUzOTBjMmE1NTkuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/tentacular-figurings-wet-hot-wombs-bathing-into-other-bodies.webp"
 start_date = "2025-01-09T20:30:00.000"
 end_date = "2025-01-09T20:30:00.000"
 category = "Vermischtes"
 organizer = "Sophiensaele - Festsaal"
-updated = "2024-12-30T00:43:01.000"
+updated = "2025-01-06T00:43:14.000"
 languages = []
 [contact]
 location_street = "Sophienstraße 18"

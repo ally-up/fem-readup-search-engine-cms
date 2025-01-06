@@ -10,7 +10,7 @@ start_date = "2025-01-17T20:00:00.000"
 end_date = "2025-01-17T20:00:00.000"
 category = "Vermischtes"
 organizer = "Artjom Theater"
-updated = "2024-12-30T00:44:27.000"
+updated = "2025-01-06T00:44:43.000"
 languages = []
 [contact]
 location_street = "Boxhagener Straße 18"
