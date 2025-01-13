@@ -6,13 +6,13 @@ type = "event"
 title = "Andy Warhol – explicit (in English)"
 subtitle = "Karte"
 description = "Queerness, Begehren und Intimität: Die Ausstellung stellt Andy Warhols langjährige Suche nach idealer Schönheit in den Fokus. Entdecken Sie Sinnlichkeit, Sensibilität und Sexualität in Warhols Arbeiten und die Stars der Factory, Mick Jagger, Wilhelmina Ross, Jean-Michel Basquiat, Jed Johnson. Erfahren Sie mehr bei einer dialogischen Führung.Teilnahmegebühr inklusive Eintritt: 20 EuroTeilnahmegebühr mit gültigem Eintrittsticket (Jahreskarte, Förderverein, ICOM etc.), Anspruch auf Ermäßigung oder freien Eintritt: 10 EuroBegrenzte Teilnehmerzahl. Online-Buchung erforderlich. Hinweis: Die Ausstellung zeigt sehr explizit Nacktheit und Sexualität sowie vielfältige Darstellungen von Gender und Körpern."
-image = "https://imgproxy.berlinonline.net/zfds1cHU_uCvp4Md5en1th8uISht8-yac3ROvxX_SnU/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025010601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyMy8wNjhiOTZmNS1jMDk2LWMzMmItMDBkZi0yODc3YmZkMjg3NTMuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/JJe9p3aZC9S_6EEk35XC0g5hqHvqJ9OTuytq47cxkm4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025011301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyMy8wNjhiOTZmNS1jMDk2LWMzMmItMDBkZi0yODc3YmZkMjg3NTMuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/andy-warhol-explicit-in-english.webp"
 start_date = "2024-09-21T14:00:00.000"
 end_date = "2024-09-21T14:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Neue Nationalgalerie"
-updated = "2025-01-06T00:46:43.000"
+updated = "2025-01-13T00:46:30.000"
 languages = []
 [contact]
 [location]

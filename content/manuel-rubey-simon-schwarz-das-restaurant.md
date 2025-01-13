@@ -6,13 +6,13 @@ type = "event"
 title = "Manuel Rubey & Simon Schwarz - Das Restaurant"
 subtitle = "Karte"
 description = "Manuel Rubey und Simon Schwarz haben gemeinsam vier linke Hände. Mindestens. Trotzdem halten die beiden Freunde es für eine großartige Idee, ein Restaurant zu eröffnen. Simon hat schon einmal in einem Film einen Koch gespielt und Manuel trinkt gerne Wein. Das dürfte reichen, zwecks Expertise, denken sie. Das Nobellokal mitten in der Provinz soll alles bisher Dagewesene in den Schatten stellen. Im Lichte betrachtet wirkt es aber eher wie ein Kandidat für Pfusch am Bau.Als das Restaurant dann auch noch abbrennt, riecht es stark nach Brandstiftung. Zumindest für die Dorfpolizistin, die die Ermittlungen mit den Schauspielstars nutzt, um mit ihrem Podcast durchzustarten.Die Suche nach dem Feuerteufel führt Manuel Rubey und Simon Schwarz zurück in die Vergangenheit, hinein in ihr Innerstes und zu wesentlichen Fragen, wie: Sind wir nicht alle irgendwie kleine BrandstifterInnen? In unseren Freundschaften? Im Beruf? In der Beziehung?Für die Polizistin ist der Fall sowieso klar: Der Rubey war's, der hat die Hütte warm abgetragen. Weil die Mörder sind vielleicht immer die Gärtner, aber die Brandstifter, das sind immer die Wiener. ** Wir haben uns dafür entschieden das Sprichwort nicht zu gendern."
-image = "https://imgproxy.berlinonline.net/5Z6tRxYlNTMx2CWvmFnHpW-qjtnU3y4Z8SmBifA0YTA/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025010601/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyLzNjMzY1MmM5LTVkYjYtODVmMi05MTE2LTQxYTE3OWNlZTg4My5qcGc.png"
+image = "https://imgproxy.berlinonline.net/yTOXCCaRCaInGtPMj2YTdJ-mXoTbdcq8cWY5gcvF0Uo/resizing_type:fill/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025011301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzIyLzNjMzY1MmM5LTVkYjYtODVmMi05MTE2LTQxYTE3OWNlZTg4My5qcGc.png"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/manuel-rubey-simon-schwarz-das-restaurant.webp"
-start_date = "2025-01-01T00:00:00.000"
+start_date = "2025-01-12T00:00:00.000"
 end_date = "2025-12-19T00:00:00.000"
 category = "Kabarett"
 organizer = "Donnerstag, 16. Januar 2025, 20:00 Uhr"
-updated = "2025-01-06T00:44:27.000"
+updated = "2025-01-13T00:43:30.000"
 languages = []
 [contact]
 [location]

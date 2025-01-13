@@ -12,7 +12,7 @@ start_date = "2025-02-02T12:00:00.000"
 end_date = "2025-02-02T12:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Radialsystem V"
-updated = "2025-01-06T00:46:09.000"
+updated = "2025-01-13T00:45:27.000"
 languages = []
 [contact]
 location_street = "Holzmarktstraße 33"
