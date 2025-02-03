@@ -17,11 +17,11 @@ Hinweise zu Ermäßigungen: Ermäßigte Tickets (8,- Euro) können, mit dem ents
 Beim Kauf von Print@home-Tickets kann eine Bestellbestätigung nicht als Eintrittskarte akzeptiert werden. Bitte drucken Sie ihre Tickets selbst aus."
 Wenn wir uns erinnern ‒ zugedeckt werden * Schaumtiere formen, viel Seife = "Sauberkeit * abgetrocknet werden * dick Butter aufs Brot * wenn wir wegfahren mit Tränen in den Augen * Unkraut jäten * Oh Gott, zwei verschiedene Socken * Nicht in ihre Haare fassen! Die Haare in Unordnung bringen! Und meine Haare? * Grüß die Nachbarn ordentlich! * Sie kann enttäuscht werden ‒ oder war es damals anders?"
 Wenn wir uns erinnern - zugedeckt werden * Schaumtiere formen, viel Seife = "Sauberkeit * abgetrocknet werden * dick Butter aufs Brot * wenn wir wegfahren mit Tränen in den Augen * Unkraut jäten * Oh Gott, zwei verschiedene Socken * Nicht in ihre Haare fassen! Die Haare in Unordnung bringen! Und meine Haare? * Grüß die Nachbarn ordentlich! * Sie kann enttäuscht werden - oder war es damals anders?"
-image = "https://imgproxy.berlinonline.net/SfWtWNNDDwbN28A9pMg-MJFmF4C9bTkfBWcs4_CooVQ/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025011301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEzLzgyMjY1MDZkLWQ5ZGQtYzgxNS1lMTBkLTk2NWVmNGE0ZGMzMC5qcGc.jpg"
+image = "https://imgproxy.berlinonline.net/Uk73VeMi-PrOZ1cHJa3WcM0FC72d-ezmZJRgYKbUGyo/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025020301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEzLzgyMjY1MDZkLWQ5ZGQtYzgxNS1lMTBkLTk2NWVmNGE0ZGMzMC5qcGc.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/stricken.webp"
 category = "Tanz"
 organizer = "Mittwoch, 05. Februar 2025, 20:00 Uhr"
-updated = "2025-01-13T00:45:40.000"
+updated = "2025-02-03T00:41:09.000"
 start_date = "2024-10-05T20:00:00.000"
 end_date = "2024-10-05T20:00:00.000"
 languages = []

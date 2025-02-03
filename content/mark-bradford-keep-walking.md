@@ -11,12 +11,12 @@ Preisinformationen: Hamburger Bahnhof Nationalgalerie der Gegenwart + Sonderauss
 Preis: 14,00 €
 Ermäßigter Preis: 7,00 €
 Informationen zum ermäßigten Preis: Kinder und Jugendliche bis zum vollendeten 18. Lebensjahr erhalten freien Eintritt."
-image = "https://imgproxy.berlinonline.net/bBYgwCeG8wdzC0hstavxSQy324_jKhsx0CC2EwrJKw4/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025011301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzEzMS83NDk3N2NjNy0wODM3LTQ4OTktOTM4My0zOGNjMTJlMjViOTUuanBn.jpg"
+image = "https://imgproxy.berlinonline.net/tg44LgXrOBeYHTKWJ9P9SWGO5o7I_Gt7C5xtvFY2V58/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025020301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JkZS1jbXMvYm8udGIuZXZlbnQvaW1hZ2VzLzEzMS83NDk3N2NjNy0wODM3LTQ4OTktOTM4My0zOGNjMTJlMjViOTUuanBn.jpg"
 image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/mark-bradford-keep-walking.webp"
 start_date = "2024-09-06T00:00:00.000"
 end_date = "2025-05-18T00:00:00.000"
 category = "Ausstellungen"
-updated = "2025-01-13T00:43:10.000"
+updated = "2025-02-03T00:40:51.000"
 languages = []
 [contact]
 [location]
