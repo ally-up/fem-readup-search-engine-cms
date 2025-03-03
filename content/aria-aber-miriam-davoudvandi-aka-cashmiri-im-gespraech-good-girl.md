@@ -1,0 +1,21 @@
++++
+identifier = "aria-aber-miriam-davoudvandi-aka-cashmiri-im-gespraech-good-girl"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/literatur/aria-aber-miriam-davoudvandi-aka-cashmiri-im-gespraech-good-girl-7a487082-947b-42a5-84f9-2f174d1f825b/"
+type = "event"
+title = "Aria Aber & Miriam Davoudvandi (aka Cashmiri) im Gespräch: Good Girl"
+subtitle = "Literatur LIVE"
+description = "»Good Girl« von Aria Aber ist ein ekstatisch wummerndes Loblied auf die verlorenen Intimitäten der Jugend. Ein virtuoser Debütroman und das erschütternde Porträt einer jungen Künstlerin, die in einen Strudel von Sex, Drogen, Gewalt, aufbrechender Freundschaft, sich verlierender Familie und Trauer gerissen wird. Eine junge Frau kann sich zu fast allem Zugang verschaffen. Wie sie dann von dort wieder rauskommt, ist eine andere Frage.In alten Kellerhallen, in denen der Techno die noch von der Gewalt des letzten Jahrhunderts gezeichneten Wände zum Beben bringt, trifft die 19-jährige Nila auf Gleichgesinnte. Man legt die Lines, während man den Sozialismus predigt, und für Nila ist dieser dunkle Massenkörper der Ausweg aus dem Berliner Plattenbau, in dem wie sie nur Geflüchtete leben, wo die Toiletten von Silberfischen befallen und die Wände mit Hakenkreuzen beschmiert sind.Nur im Rausch entkommt sie der Erinnerung an die tote Mutter, einst große feministische Revolutionärin, heute nur noch ein letztes Aufblitzen in den Augen des lebensmüden Vaters. Für jeden, der sie fragt, ist ihre Familie griechisch, nicht afghanisch.Und dann lernt Nila den amerikanischen Schriftsteller Marlowe Woods kennen, der ihr, die immer schreiben wollte, eine Welt von Mäzenen und Festivals eröffnet. Marlowe teilt großzügig, doch schon bald folgen Gegenforderungen und Ansprüche, die die Grenzen des Erträglichen für Nila weit überschreiten.Aria Aber ist in Deutschland geboren und aufgewachsen und lebt derzeit in Los Angeles. Ihr erster Gedichtband »Hard Damage« (2019) gewann den Prairie Schooner Prize. Die ehemalige Stegner-Stipendiatin, Empfängerin des Whiting Award 2020 und derzeitige Doktorandin an der USC veröffentlichte ihre Gedichte unter anderem in The New Yorker, New Republic, The Yale Review, Narrative und POETRY.Miriam Davoudvandi ist freie Journalistin, Moderatorin, Autorin und DJ aus Berlin mit iranischen und rumänischen Wurzeln. Als ehemalige Chefredakteurin des Musikmagazins splash! Mag nahm sie sich vor, „Rap wieder weich“ zu machen, arbeitet seitdem zu großen Teilen in musikjournalistischen Kontexten und hatte schon alle wichtigen Musiker*innen vor der Linse. In ihrem Podcast Danke, gut. Der Podcast über Pop und Psyche, der bei WDR Cosmo erscheint, spricht sie seit fast vier Jahren regelmäßig mit Personen aus der Öffentlichkeit sowie Expert*innen über mentale Gesundheit. Für ihre Arbeit wurde sie mehrfach ausgezeichnet, zum Beispiel als „Musikjournalistin des Jahres“ beim International Music Journalism Award (IMJA) oder als eine der „Top 30 unter 30“-Journalist*innen vom Medium Magazin. Unter ihrem DJ-Pseudonym Cashmiri hat sie schon auf allen wichtigen Club- und Festivalbühnen des Landes aufgelegt.„Good Girl“ erscheint am 27. Februar 2025 im Claassen Verlag, 222Seiten.----------Eine Veranstaltung von Literatur LIVE in Kooperation mit dem Claassen Verlag und der Thalia Buchhandlung. Präsentiert von der Berliner Zeitung am Wochenende"
+image = "https://imgproxy.berlinonline.net/BsMOCK5Muau7N3ZEYdLe9m-vtNhYUdWDZ6jeTdoKNu8/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025030301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzE4Ni9jOGFkMTUzZi0wY2IzLTllZmQtMzZiYS01YTUxYjQzNTM2NWMucG5n.jpg"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/aria-aber-miriam-davoudvandi-aka-cashmiri-im-gespraech-good-girl.webp"
+start_date = "2025-03-06T20:00:00.000"
+end_date = "2025-03-06T20:00:00.000"
+category = "Literatur"
+organizer = "Pfefferberg - Theater"
+updated = "2025-03-03T00:44:22.000"
+languages = []
+[contact]
+location_street = "Schönhauser Allee 176"
+location_city = " 10119 Berlin-Prenzlauer Berg"
+[location]
++++

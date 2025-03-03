@@ -10,7 +10,7 @@ start_date = "2025-04-24T19:30:00.000"
 end_date = "2025-04-24T22:00:00.000"
 category = "Film und Gespräch"
 organizer = "Landesstiftung Berlin (Bildungswerk)"
-updated = "2025-02-17T00:41:45.000"
+updated = "2025-03-03T00:42:10.000"
 languages = ["Deutsch"]
 [contact]
 [location]

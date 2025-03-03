@@ -10,10 +10,12 @@ start_date = "2025-03-07T12:00:00.000"
 end_date = "2025-03-07T12:00:00.000"
 category = "Bildung & Vorträge"
 organizer = "Haus der Berliner Festspiele, Kassenhalle / Foyers"
-updated = "2025-02-17T00:45:47.000"
+updated = "2025-03-03T00:44:38.000"
 languages = []
 [contact]
 location_street = "Schaperstraße 24"
 location_city = " 10719 Berlin-Wilmersdorf"
 [location]
+location_street = "Schaperstraße 24"
+location_city = " 10719 Berlin-Wilmersdorf"
 +++

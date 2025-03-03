@@ -1,0 +1,21 @@
++++
+identifier = "minor-characters"
+source = "Berlin.de"
+url = "https://www.berlin.de/tickets/vermischtes/minor-characters-13507b80-54ac-49e8-bf2f-0324bc28258c/"
+type = "event"
+title = "Minor Characters"
+subtitle = "MaerzMusik 2025"
+description = "Jennifer Walshe und Matthew Shlomowitz beschreiben „Minor Characters“ als „Liederzyklus für das 21. Jahrhundert“. Ihre musikalische und theatrale Erkundung der Art und Weise, wie das Internet die Realität vermittelt, lädt das Publikum dazu ein, oft übersehene Nuancen wahrzunehmen – ähnlich wie bei der Beobachtung von kleinsten Details in der Natur.Es liegen Hinweise zu sensiblen und/oder gesundheitlich relevanten Inhalten vor.„‚Minor Characters‘ scheint uns zu fragen: Wenn jeder online abgelenkt ist und nur seinem eigenen Geschmack folgt, wie sollen wir dann gemeinsam Probleme lösen? Die Show ist formvollendet, und präsentiert am Ende doch keine eindeutige Lösung.“ – The New York Times, August 2023, Seth Colter WallsObwohl die Erzählung der beiden Künstler*innen absichtlich auf das Konzept einer Protagonistin verzichtet, schlüpft die aus Dublin stammende Walshe als Performerin und Sängerin in die Hauptrolle. Ihre Praxis offenbart eine breite Palette von Einflüssen, die erweiterte experimentelle Techniken, freie Improvisation und komponierte Elemente einschließen. Unterstützt wird sie an diesem Abend vom Schweizer Ensemble Nikel an Schlagzeug, E-Gitarre, Keyboard und Saxofon. Die Musik, die Walshe und der australische, in London lebende Komponist Shlomowitz gemeinsam geschrieben haben, durchläuft eine Vielzahl von Stilen – von Rock über Vaporwave und Kabarettmusik bis hin zu ASMR-Einflüssen. Collageartig fängt sie die Formen des digitalen Lebens ein und ist dabei so unvorhersehbar wie das Scrollen durch das algorithmisch kuratierte Chaos eines Feeds.Wie der Titel „Minor Characters“ („Nebenfiguren“) bereits andeutet, ist das Werk von den alltäglichen, oft humorvollen Charakteren inspiriert, die Online-Räume bevölkern. Der Text – zusammengestellt aus Social-Media-Schnipseln, Verschwörungstheorien und digitalem Müll – fängt die Eigenarten von Internet-Subkulturen und die Absurditäten des modernen Lebens ein, die sich in Songtiteln wie „Your Uncle is Into the Crypto Now“ widerspiegeln. Auf diese Weise bietet das Stück eine kritische Betrachtung von Religion, Gender, Sex, Politik und den hierarchischen Strukturen, die diese Kategorien allesamt verzerren. Mit den Worten von Walshe: „Und doch sind wir hier, sieben Jahre später, immer noch zappelnd, mit ausfransenden Fesseln, treibend in der Schwemme der Nutzer*innen, in den Wellen geliebter Menschen, die sich in ihren eigenen Nachforschungen verloren haben, dümpelnd inmitten der Trümmer, auf der Suche nach einem Floß zum Festhalten.“ProgrammMatthew Shlomowitz  Jennifer WalsheMinor Charactersfür Stimme und Ensemble (2022/23)BesetzungJennifer Walshe – PerformanceEnsemble NikelBrian Archinal – PerkussionYaron Deutsch – E-GitarreAntoine Françoise – Klavier, SynthesizerPatrick Stadler – SaxofonAlfred Reiter – KlangregieRagnar Árni Ólafsson – Untertitel, Live-CueMatthew Shlomowitz – Licht- und EffektsteuerungEin Auftragswerk von Radio France, Klangspuren Schwaz, Darmstädter Ferienkurse und La Muse en CircuitIn Kooperation mit der Akademie der Künste, Berlin"
+image = "https://imgproxy.berlinonline.net/AAKCGtYKD4s3UCRi_y-PRUFIVJIb_Zh4x33896IFX60/resizing_type:fill-down/width:480/height:360/gravity:fp:0.5:0.38/enlarge:1/q:70/cb:2025030301/aHR0cHM6Ly9wb3B1bGEtbWlkZGxld2FyZS5zMy5hbWF6b25hd3MuY29tL2JvLW1pZGRsZXdhcmUvYm8uYmRlX2NoYW5uZWwuZXZlbnQvaW1hZ2VzLzEzNy8wMGVhMzliNi0yZWRlLWM4YTgtZDA4OS00ZjIyNDZmZGU3Y2EuanBn.jpg"
+image_bucket = "https://storage.googleapis.com/fem-readup.appspot.com/minor-characters.webp"
+start_date = "2025-03-22T19:30:00.000"
+end_date = "2025-03-22T19:30:00.000"
+category = "Vermischtes"
+organizer = "Berliner Festspiele: Transmediale Studio"
+updated = "2025-03-03T00:47:39.000"
+languages = []
+[contact]
+location_street = "Gerichtstraße 35"
+location_city = " 13347 Berlin-Wedding"
+[location]
++++

@@ -10,10 +10,12 @@ start_date = "2025-03-08T20:00:00.000"
 end_date = "2025-03-08T20:00:00.000"
 category = "Filmveranstaltungen"
 organizer = "Radialsystem V"
-updated = "2025-02-17T00:47:05.000"
+updated = "2025-03-03T00:46:35.000"
 languages = []
 [contact]
 location_street = "Holzmarktstraße 33"
 location_city = " 10243 Berlin-Friedrichshain"
 [location]
+location_street = "Holzmarktstraße 33"
+location_city = " 10243 Berlin-Friedrichshain"
 +++

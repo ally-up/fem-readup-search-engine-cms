@@ -14,13 +14,9 @@ Zwischen dem 27. und 30. März 2025 versammeln wir in Berlin Aktivist*innen, Mit
 Wir erhoffen uns von der Konferenz eine Diskussion sowohl über die Hintergründe, Strategien und internationalen Verbindungen der extremen Rechten, als auch über Gegenstrategien. Welche Beziehung besteht zwischen Evangelikalen in den USA und Lateinamerika und der extremen Rechten in Israel? Wie können wir uns gegen anti-migrantische, antifeministische und anti-linke Diskurse wehren? Und wie können wir aus der Defensive herauskommen und den Unmut in der Gesellschaft so kanalisieren, dass daraus eine positive Mobilisierungskraft für einen politischen und sozialökologischen Wandel entsteht? 
 Wir wollen nicht nur die Lage analysieren oder den Aufstieg der extremen Rechten betrauern. Wir möchten, dass dieses Treffen zur Entwicklung von Strategien und Ideen beiträgt, die das Blatt wenden und unser politisches Lager stärken. Dafür halten wir den internationalistischen, multiregionalen Charakter dieser Konferenz für unerlässlich.
 Diese Veranstaltung ist das Ergebnis der Zusammenarbeit mit Partnerorganisationen, die im Rahmen der internationalen und nationalen Arbeit der Rosa-Luxemburg-Stiftung zum Schwerpunkt «
-Vorläufiges Programm
-Das Gesamtprogramm der Konferenz mit ausführlicheren Informationen folgt.
-Donnerstag, 27. März
-Freitag, 28. März
-Samstag, 29. März
-Sonntag, 30. März
-Die Registrierung für eine Teilnahme an der Konferenz ist vorübergehend nicht möglich. Wir schalten zeitnah ein neues Anmeldeformular mit erweiterten Optionen frei. Falls du dich bereits angemeldet hast, werden wir dir zeitgleich mit der Freischaltung den Link zum neuen Anmeldeformular zuschicken. Eine Registrierung für die jeweils gewünschten Workshops/Panels ist notwendig, um an der Konferenz teilnehmen zu können.
+Programm
+Anmeldung
+Registrierung für eine Teilnahme an der Konferenz und an den jeweiligen Workshops und Sessions:
 Die Konferenz wird auf Englisch, Deutsch und Spanisch stattfinden, mit Simultan- bzw. Konsekutivübersetzung.
 Pressevertreter*innen melden sich bitte bei unserer Pressesprecherin:"
 image = "https://info.rosalux.de/image/event/umlav?type=2"
@@ -29,7 +25,7 @@ start_date = "2025-03-27T14:00:00.000"
 end_date = "2025-03-30T15:00:00.000"
 category = "Seminar"
 organizer = "Rosa-Luxemburg-Stiftung"
-updated = "2025-02-03T00:40:26.000"
+updated = "2025-03-03T00:42:50.000"
 languages = []
 [contact]
 [location]
